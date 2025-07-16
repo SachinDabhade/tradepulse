@@ -1,0 +1,9012 @@
+{
+  "2025-07-07": {
+    "1d": {
+      "360ONE.NS": {
+        "Open": 1244.0999755859375
+      },
+      "3MINDIA.NS": {
+        "Open": 29200.0
+      },
+      "ABB.NS": {
+        "Open": 5861.5
+      },
+      "ACC.NS": {
+        "Open": 1961.9000244140625
+      },
+      "ACMESOLAR.NS": {
+        "Open": 249.85000610351562
+      },
+      "AGI.NS": {
+        "Open": 805.4000244140625
+      },
+      "AIAENG.NS": {
+        "Open": 3329.89990234375
+      },
+      "APLAPOLLO.NS": {
+        "Open": 1718.300048828125
+      },
+      "ASKAUTOLTD.NS": {
+        "Open": 526.2000122070312
+      },
+      "AUBANK.NS": {
+        "Open": 820.0499877929688
+      },
+      "AWL.NS": {
+        "Open": 255.89999389648438
+      },
+      "AADHARHFC.NS": {
+        "Open": 462.45001220703125
+      },
+      "AARTIDRUGS.NS": {
+        "Open": 493.0
+      },
+      "AARTIIND.NS": {
+        "Open": 477.75
+      },
+      "AARTIPHARM.NS": {
+        "Open": 904.0
+      },
+      "AAVAS.NS": {
+        "Open": 1908.699951171875
+      },
+      "ABBOTINDIA.NS": {
+        "Open": 34855.0
+      },
+      "ACE.NS": {
+        "Open": 1193.300048828125
+      },
+      "ACUTAAS.NS": {
+        "Open": 1122.0999755859375
+      },
+      "ADANIENSOL.NS": {
+        "Open": 875.0499877929688
+      },
+      "ADANIENT.NS": {
+        "Open": 2590.5
+      },
+      "ADANIGREEN.NS": {
+        "Open": 996.9000244140625
+      },
+      "ADANIPORTS.NS": {
+        "Open": 1424.199951171875
+      },
+      "ADANIPOWER.NS": {
+        "Open": 582.75
+      },
+      "ATGL.NS": {
+        "Open": 663.4000244140625
+      },
+      "ABCAPITAL.NS": {
+        "Open": 275.0
+      },
+      "ABFRL.NS": {
+        "Open": 78.41999816894531
+      },
+      "ABREL.NS": {
+        "Open": 2309.300048828125
+      },
+      "ABSLAMC.NS": {
+        "Open": 805.0
+      },
+      "AVL.NS": {
+        "Open": 364.79998779296875
+      },
+      "ADVENZYMES.NS": {
+        "Open": 340.6000061035156
+      },
+      "AEGISLOG.NS": {
+        "Open": 755.8499755859375
+      },
+      "AETHER.NS": {
+        "Open": 778.6500244140625
+      },
+      "AFCONS.NS": {
+        "Open": 428.79998779296875
+      },
+      "AFFLE.NS": {
+        "Open": 2014.699951171875
+      },
+      "AHLUCONT.NS": {
+        "Open": 988.4000244140625
+      },
+      "AJANTPHARM.NS": {
+        "Open": 2703.0
+      },
+      "AKUMS.NS": {
+        "Open": 580.0
+      },
+      "AKZOINDIA.NS": {
+        "Open": 3442.0
+      },
+      "APLLTD.NS": {
+        "Open": 1000.7000122070312
+      },
+      "ALIVUS.NS": {
+        "Open": 1040.300048828125
+      },
+      "ALKEM.NS": {
+        "Open": 4900.0
+      },
+      "ALKYLAMINE.NS": {
+        "Open": 2304.0
+      },
+      "ALLCARGO.NS": {
+        "Open": 34.2400016784668
+      },
+      "ABDL.NS": {
+        "Open": 435.95001220703125
+      },
+      "ALOKINDS.NS": {
+        "Open": 20.059999465942383
+      },
+      "ARE&M.NS": {
+        "Open": 974.0999755859375
+      },
+      "AMBER.NS": {
+        "Open": 7344.5
+      },
+      "AMBUJACEM.NS": {
+        "Open": 596.0499877929688
+      },
+      "ANANDRATHI.NS": {
+        "Open": 2108.199951171875
+      },
+      "ANANTRAJ.NS": {
+        "Open": 546.0
+      },
+      "ANGELONE.NS": {
+        "Open": 2758.300048828125
+      },
+      "APARINDS.NS": {
+        "Open": 8660.0
+      },
+      "PARKHOTELS.NS": {
+        "Open": 160.5
+      },
+      "APOLLOHOSP.NS": {
+        "Open": 7564.0
+      },
+      "APOLLOTYRE.NS": {
+        "Open": 460.04998779296875
+      },
+      "APTUS.NS": {
+        "Open": 325.20001220703125
+      },
+      "ACI.NS": {
+        "Open": 635.0499877929688
+      },
+      "ARVINDFASN.NS": {
+        "Open": 454.8999938964844
+      },
+      "ARVIND.NS": {
+        "Open": 351.54998779296875
+      },
+      "ASAHIINDIA.NS": {
+        "Open": 842.8499755859375
+      },
+      "ASHOKLEY.NS": {
+        "Open": 249.14999389648438
+      },
+      "ASHOKA.NS": {
+        "Open": 210.75
+      },
+      "ASIANPAINT.NS": {
+        "Open": 2423.89990234375
+      },
+      "ASTERDM.NS": {
+        "Open": 633.2000122070312
+      },
+      "ASTRAMICRO.NS": {
+        "Open": 1087.0999755859375
+      },
+      "ASTRAZEN.NS": {
+        "Open": 9102.5
+      },
+      "ASTRAL.NS": {
+        "Open": 1482.199951171875
+      },
+      "ATUL.NS": {
+        "Open": 7667.5
+      },
+      "AURIONPRO.NS": {
+        "Open": 1476.0
+      },
+      "AUROPHARMA.NS": {
+        "Open": 1192.4000244140625
+      },
+      "AIIL.NS": {
+        "Open": 2582.800048828125
+      },
+      "AVALON.NS": {
+        "Open": 835.0
+      },
+      "AVANTIFEED.NS": {
+        "Open": 734.8499755859375
+      },
+      "DMART.NS": {
+        "Open": 4279.10009765625
+      },
+      "AWFIS.NS": {
+        "Open": 633.0
+      },
+      "AXISBANK.NS": {
+        "Open": 1177.300048828125
+      },
+      "AZAD.NS": {
+        "Open": 1642.4000244140625
+      },
+      "BASF.NS": {
+        "Open": 5170.0
+      },
+      "BEML.NS": {
+        "Open": 4549.7998046875
+      },
+      "BLS.NS": {
+        "Open": 364.0
+      },
+      "BSE.NS": {
+        "Open": 2632.199951171875
+      },
+      "BAJAJ-AUTO.NS": {
+        "Open": 8406.5
+      },
+      "BAJFINANCE.NS": {
+        "Open": 929.25
+      },
+      "BAJAJFINSV.NS": {
+        "Open": 1998.9000244140625
+      },
+      "BAJAJHIND.NS": {
+        "Open": 27.610000610351562
+      },
+      "BAJAJHLDNG.NS": {
+        "Open": 14291.0
+      },
+      "BAJAJHFL.NS": {
+        "Open": 122.18000030517578
+      },
+      "BALAMINES.NS": {
+        "Open": 1798.9000244140625
+      },
+      "BALKRISIND.NS": {
+        "Open": 2607.800048828125
+      },
+      "BALRAMCHIN.NS": {
+        "Open": 587.75
+      },
+      "BALUFORGE.NS": {
+        "Open": 702.9000244140625
+      },
+      "BANCOINDIA.NS": {
+        "Open": 672.7999877929688
+      },
+      "BANDHANBNK.NS": {
+        "Open": 179.97000122070312
+      },
+      "BANKBARODA.NS": {
+        "Open": 240.89999389648438
+      },
+      "BANKINDIA.NS": {
+        "Open": 118.58999633789062
+      },
+      "MAHABANK.NS": {
+        "Open": 57.529998779296875
+      },
+      "BANSALWIRE.NS": {
+        "Open": 382.8999938964844
+      },
+      "BATAINDIA.NS": {
+        "Open": 1239.0999755859375
+      },
+      "BAYERCROP.NS": {
+        "Open": 6464.5
+      },
+      "BERGEPAINT.NS": {
+        "Open": 594.7999877929688
+      },
+      "BEPL.NS": {
+        "Open": 116.4000015258789
+      },
+      "BBL.NS": {
+        "Open": 3025.0
+      },
+      "BDL.NS": {
+        "Open": 1971.9000244140625
+      },
+      "BEL.NS": {
+        "Open": 427.3500061035156
+      },
+      "BHARATFORG.NS": {
+        "Open": 1305.699951171875
+      },
+      "BHEL.NS": {
+        "Open": 260.45001220703125
+      },
+      "BPCL.NS": {
+        "Open": 346.1499938964844
+      },
+      "BHARTIARTL.NS": {
+        "Open": 2018.0
+      },
+      "BHARTIHEXA.NS": {
+        "Open": 1889.0999755859375
+      },
+      "BIKAJI.NS": {
+        "Open": 730.0499877929688
+      },
+      "BIOCON.NS": {
+        "Open": 382.0
+      },
+      "BIRLACORPN.NS": {
+        "Open": 1397.9000244140625
+      },
+      "BSOFT.NS": {
+        "Open": 435.5
+      },
+      "BLUEDART.NS": {
+        "Open": 6695.0
+      },
+      "BLUEJET.NS": {
+        "Open": 913.0
+      },
+      "BLUESTARCO.NS": {
+        "Open": 1831.9000244140625
+      },
+      "BBTC.NS": {
+        "Open": 1985.0999755859375
+      },
+      "BOMDYEING.NS": {
+        "Open": 167.14999389648438
+      },
+      "BOROLTD.NS": {
+        "Open": 335.54998779296875
+      },
+      "BORORENEW.NS": {
+        "Open": 511.8999938964844
+      },
+      "BOSCHLTD.NS": {
+        "Open": 35720.0
+      },
+      "FIRSTCRY.NS": {
+        "Open": 366.29998779296875
+      },
+      "BRIGADE.NS": {
+        "Open": 1080.0
+      },
+      "BRITANNIA.NS": {
+        "Open": 5798.0
+      },
+      "MAPMYINDIA.NS": {
+        "Open": 1744.5
+      },
+      "CCL.NS": {
+        "Open": 885.5499877929688
+      },
+      "CESC.NS": {
+        "Open": 178.16000366210938
+      },
+      "CGPOWER.NS": {
+        "Open": 677.4500122070312
+      },
+      "CIEINDIA.NS": {
+        "Open": 450.54998779296875
+      },
+      "CMSINFO.NS": {
+        "Open": 516.0
+      },
+      "CRISIL.NS": {
+        "Open": 5861.5
+      },
+      "CSBBANK.NS": {
+        "Open": 415.3999938964844
+      },
+      "CAMPUS.NS": {
+        "Open": 268.6000061035156
+      },
+      "CANFINHOME.NS": {
+        "Open": 816.5999755859375
+      },
+      "CANBK.NS": {
+        "Open": 114.25
+      },
+      "CAPLIPOINT.NS": {
+        "Open": 2022.0
+      },
+      "CGCL.NS": {
+        "Open": 166.89999389648438
+      },
+      "CARBORUNIV.NS": {
+        "Open": 1001.9500122070312
+      },
+      "CARTRADE.NS": {
+        "Open": 1698.0
+      },
+      "CASTROLIND.NS": {
+        "Open": 220.85000610351562
+      },
+      "CEATLTD.NS": {
+        "Open": 3614.5
+      },
+      "CEIGALL.NS": {
+        "Open": 270.1000061035156
+      },
+      "CELLO.NS": {
+        "Open": 641.4000244140625
+      },
+      "CENTRALBK.NS": {
+        "Open": 39.40999984741211
+      },
+      "CDSL.NS": {
+        "Open": 1759.300048828125
+      },
+      "CENTURYPLY.NS": {
+        "Open": 734.5999755859375
+      },
+      "CERA.NS": {
+        "Open": 6747.0
+      },
+      "CHALET.NS": {
+        "Open": 891.2999877929688
+      },
+      "CHAMBLFERT.NS": {
+        "Open": 564.0
+      },
+      "CHEMPLASTS.NS": {
+        "Open": 429.25
+      },
+      "CHENNPETRO.NS": {
+        "Open": 767.8499755859375
+      },
+      "CHOICEIN.NS": {
+        "Open": 734.4000244140625
+      },
+      "CHOLAHLDNG.NS": {
+        "Open": 2088.800048828125
+      },
+      "CHOLAFIN.NS": {
+        "Open": 1528.300048828125
+      },
+      "CIGNITITEC.NS": {
+        "Open": 1835.0
+      },
+      "CIPLA.NS": {
+        "Open": 1516.0999755859375
+      },
+      "CUB.NS": {
+        "Open": 216.35000610351562
+      },
+      "CLEAN.NS": {
+        "Open": 1472.4000244140625
+      },
+      "COALINDIA.NS": {
+        "Open": 385.54998779296875
+      },
+      "COCHINSHIP.NS": {
+        "Open": 2065.0
+      },
+      "COFORGE.NS": {
+        "Open": 1953.0
+      },
+      "COHANCE.NS": {
+        "Open": 1031.0
+      },
+      "COLPAL.NS": {
+        "Open": 2452.5
+      },
+      "CAMS.NS": {
+        "Open": 4210.10009765625
+      },
+      "CONCORDBIO.NS": {
+        "Open": 1753.9000244140625
+      },
+      "CONCOR.NS": {
+        "Open": 601.7999877929688
+      },
+      "COROMANDEL.NS": {
+        "Open": 2239.10009765625
+      },
+      "CRAFTSMAN.NS": {
+        "Open": 5900.0
+      },
+      "CREDITACC.NS": {
+        "Open": 1280.300048828125
+      },
+      "CROMPTON.NS": {
+        "Open": 355.95001220703125
+      },
+      "CUMMINSIND.NS": {
+        "Open": 3351.0
+      },
+      "CYIENTDLM.NS": {
+        "Open": 482.3999938964844
+      },
+      "CYIENT.NS": {
+        "Open": 1292.5999755859375
+      },
+      "DCBBANK.NS": {
+        "Open": 142.97000122070312
+      },
+      "DCMSHRIRAM.NS": {
+        "Open": 1352.0
+      },
+      "DCXINDIA.NS": {
+        "Open": 294.29998779296875
+      },
+      "DLF.NS": {
+        "Open": 834.7000122070312
+      },
+      "DOMS.NS": {
+        "Open": 2451.89990234375
+      },
+      "DABUR.NS": {
+        "Open": 497.95001220703125
+      },
+      "DALBHARAT.NS": {
+        "Open": 2174.10009765625
+      },
+      "DATAPATTNS.NS": {
+        "Open": 2980.0
+      },
+      "DATAMATICS.NS": {
+        "Open": 657.0
+      },
+      "DEEPAKFERT.NS": {
+        "Open": 1714.9000244140625
+      },
+      "DEEPAKNTR.NS": {
+        "Open": 1968.9000244140625
+      },
+      "DELHIVERY.NS": {
+        "Open": 389.20001220703125
+      },
+      "DEVYANI.NS": {
+        "Open": 173.5
+      },
+      "DHANI.NS": {
+        "Open": 66.7300033569336
+      },
+      "DBL.NS": {
+        "Open": 499.3999938964844
+      },
+      "DCAL.NS": {
+        "Open": 262.0
+      },
+      "DIVISLAB.NS": {
+        "Open": 6923.5
+      },
+      "DIXON.NS": {
+        "Open": 15222.0
+      },
+      "DODLA.NS": {
+        "Open": 1405.0
+      },
+      "LALPATHLAB.NS": {
+        "Open": 2859.89990234375
+      },
+      "DRREDDY.NS": {
+        "Open": 1310.4000244140625
+      },
+      "DYNAMATECH.NS": {
+        "Open": 7261.0
+      },
+      "EIDPARRY.NS": {
+        "Open": 1090.800048828125
+      },
+      "EIHOTEL.NS": {
+        "Open": 367.6499938964844
+      },
+      "EPL.NS": {
+        "Open": 236.5
+      },
+      "EASEMYTRIP.NS": {
+        "Open": 10.390000343322754
+      },
+      "EDELWEISS.NS": {
+        "Open": 115.0
+      },
+      "EICHERMOT.NS": {
+        "Open": 5625.5
+      },
+      "ELECON.NS": {
+        "Open": 650.0
+      },
+      "EMIL.NS": {
+        "Open": 143.0
+      },
+      "ELECTCAST.NS": {
+        "Open": 126.1500015258789
+      },
+      "ELGIEQUIP.NS": {
+        "Open": 529.9500122070312
+      },
+      "EMAMILTD.NS": {
+        "Open": 564.4500122070312
+      },
+      "EMBDL.NS": {
+        "Open": 117.0
+      },
+      "EMCURE.NS": {
+        "Open": 1250.0
+      },
+      "ENDURANCE.NS": {
+        "Open": 2788.699951171875
+      },
+      "ENGINERSIN.NS": {
+        "Open": 243.05999755859375
+      },
+      "ENTERO.NS": {
+        "Open": 1238.9000244140625
+      },
+      "EIEL.NS": {
+        "Open": 231.5
+      },
+      "EPIGRAL.NS": {
+        "Open": 1812.0999755859375
+      },
+      "EQUITASBNK.NS": {
+        "Open": 67.79000091552734
+      },
+      "ERIS.NS": {
+        "Open": 1706.0
+      },
+      "ESCORTS.NS": {
+        "Open": 3318.199951171875
+      },
+      "ETERNAL.NS": {
+        "Open": 261.3999938964844
+      },
+      "ETHOSLTD.NS": {
+        "Open": 2700.0
+      },
+      "EUREKAFORB.NS": {
+        "Open": 591.9500122070312
+      },
+      "EXIDEIND.NS": {
+        "Open": 383.25
+      },
+      "FDC.NS": {
+        "Open": 499.79998779296875
+      },
+      "NYKAA.NS": {
+        "Open": 200.89999389648438
+      },
+      "FEDERALBNK.NS": {
+        "Open": 216.38999938964844
+      },
+      "FACT.NS": {
+        "Open": 942.0
+      },
+      "FIEMIND.NS": {
+        "Open": 1977.199951171875
+      },
+      "FINEORG.NS": {
+        "Open": 5259.0
+      },
+      "FCL.NS": {
+        "Open": 274.8500061035156
+      },
+      "FINCABLES.NS": {
+        "Open": 975.0999755859375
+      },
+      "FINPIPE.NS": {
+        "Open": 210.8000030517578
+      },
+      "FSL.NS": {
+        "Open": 371.75
+      },
+      "FIVESTAR.NS": {
+        "Open": 771.0499877929688
+      },
+      "FORCEMOT.NS": {
+        "Open": 14341.0
+      },
+      "FORTIS.NS": {
+        "Open": 806.5
+      },
+      "GRINFRA.NS": {
+        "Open": 1295.0
+      },
+      "GAIL.NS": {
+        "Open": 193.25999450683594
+      },
+      "GVT&D.NS": {
+        "Open": 2333.39990234375
+      },
+      "GHCL.NS": {
+        "Open": 620.75
+      },
+      "GMMPFAUDLR.NS": {
+        "Open": 1271.0999755859375
+      },
+      "GMRAIRPORT.NS": {
+        "Open": 89.9000015258789
+      },
+      "GMRP&UI.NS": {
+        "Open": 118.66000366210938
+      },
+      "GABRIEL.NS": {
+        "Open": 949.9500122070312
+      },
+      "GANESHHOUC.NS": {
+        "Open": 995.0
+      },
+      "GANECOS.NS": {
+        "Open": 1542.0999755859375
+      },
+      "GRSE.NS": {
+        "Open": 2968.89990234375
+      },
+      "GRWRHITECH.NS": {
+        "Open": 4019.89990234375
+      },
+      "GARFIBRES.NS": {
+        "Open": 911.8499755859375
+      },
+      "GATEWAY.NS": {
+        "Open": 66.44999694824219
+      },
+      "GICRE.NS": {
+        "Open": 380.3999938964844
+      },
+      "GILLETTE.NS": {
+        "Open": 10710.0
+      },
+      "GLAND.NS": {
+        "Open": 1872.0
+      },
+      "GLAXO.NS": {
+        "Open": 3295.0
+      },
+      "GLENMARK.NS": {
+        "Open": 1836.0
+      },
+      "MEDANTA.NS": {
+        "Open": 1182.699951171875
+      },
+      "GODIGIT.NS": {
+        "Open": 337.95001220703125
+      },
+      "GPIL.NS": {
+        "Open": 183.5
+      },
+      "GODFRYPHLP.NS": {
+        "Open": 8724.5
+      },
+      "GODREJAGRO.NS": {
+        "Open": 776.7999877929688
+      },
+      "GODREJCP.NS": {
+        "Open": 1235.0
+      },
+      "GODREJIND.NS": {
+        "Open": 1169.0
+      },
+      "GODREJPROP.NS": {
+        "Open": 2292.39990234375
+      },
+      "GOKEX.NS": {
+        "Open": 928.2999877929688
+      },
+      "GOPAL.NS": {
+        "Open": 351.8999938964844
+      },
+      "GRANULES.NS": {
+        "Open": 494.70001220703125
+      },
+      "GRAPHITE.NS": {
+        "Open": 564.5
+      },
+      "GRASIM.NS": {
+        "Open": 2812.89990234375
+      },
+      "GRAVITA.NS": {
+        "Open": 1855.0
+      },
+      "GESHIP.NS": {
+        "Open": 1039.199951171875
+      },
+      "GREAVESCOT.NS": {
+        "Open": 204.0
+      },
+      "GREENPANEL.NS": {
+        "Open": 295.1000061035156
+      },
+      "GREENPLY.NS": {
+        "Open": 318.1000061035156
+      },
+      "GAEL.NS": {
+        "Open": 111.72000122070312
+      },
+      "FLUOROCHEM.NS": {
+        "Open": 3521.699951171875
+      },
+      "GUJGASLTD.NS": {
+        "Open": 489.25
+      },
+      "GMDCLTD.NS": {
+        "Open": 406.8500061035156
+      },
+      "GNFC.NS": {
+        "Open": 559.0
+      },
+      "GPPL.NS": {
+        "Open": 157.07000732421875
+      },
+      "GSFC.NS": {
+        "Open": 208.0
+      },
+      "GSPL.NS": {
+        "Open": 336.5
+      },
+      "GULFOILLUB.NS": {
+        "Open": 1257.300048828125
+      },
+      "HEG.NS": {
+        "Open": 503.79998779296875
+      },
+      "HGINFRA.NS": {
+        "Open": 1061.0999755859375
+      },
+      "HBLENGINE.NS": {
+        "Open": 630.4000244140625
+      },
+      "HCLTECH.NS": {
+        "Open": 1725.0999755859375
+      },
+      "HDFCAMC.NS": {
+        "Open": 5029.0
+      },
+      "HDFCBANK.NS": {
+        "Open": 1993.5
+      },
+      "HDFCLIFE.NS": {
+        "Open": 781.1500244140625
+      },
+      "HFCL.NS": {
+        "Open": 84.44999694824219
+      },
+      "HAPPSTMNDS.NS": {
+        "Open": 642.0499877929688
+      },
+      "HATHWAY.NS": {
+        "Open": 15.90999984741211
+      },
+      "HAVELLS.NS": {
+        "Open": 1585.5
+      },
+      "HCG.NS": {
+        "Open": 566.9000244140625
+      },
+      "HEIDELBERG.NS": {
+        "Open": 218.82000732421875
+      },
+      "HEMIPROP.NS": {
+        "Open": 136.85000610351562
+      },
+      "HERITGFOOD.NS": {
+        "Open": 493.04998779296875
+      },
+      "HEROMOTOCO.NS": {
+        "Open": 4337.0
+      },
+      "HIKAL.NS": {
+        "Open": 345.8500061035156
+      },
+      "HSCL.NS": {
+        "Open": 500.0
+      },
+      "HINDALCO.NS": {
+        "Open": 696.4500122070312
+      },
+      "HAL.NS": {
+        "Open": 4998.0
+      },
+      "HCC.NS": {
+        "Open": 29.600000381469727
+      },
+      "HINDCOPPER.NS": {
+        "Open": 277.04998779296875
+      },
+      "HINDPETRO.NS": {
+        "Open": 447.8500061035156
+      },
+      "HINDUNILVR.NS": {
+        "Open": 2347.699951171875
+      },
+      "HINDZINC.NS": {
+        "Open": 445.1000061035156
+      },
+      "POWERINDIA.NS": {
+        "Open": 19915.0
+      },
+      "HOMEFIRST.NS": {
+        "Open": 1357.300048828125
+      },
+      "HONASA.NS": {
+        "Open": 295.1000061035156
+      },
+      "HONAUT.NS": {
+        "Open": 41200.0
+      },
+      "HUDCO.NS": {
+        "Open": 230.75999450683594
+      },
+      "HYUNDAI.NS": {
+        "Open": 2061.39990234375
+      },
+      "ICICIBANK.NS": {
+        "Open": 1438.0999755859375
+      },
+      "ICICIGI.NS": {
+        "Open": 2035.199951171875
+      },
+      "ICICIPRULI.NS": {
+        "Open": 654.4000244140625
+      },
+      "IDBI.NS": {
+        "Open": 101.44999694824219
+      },
+      "IDFCFIRSTB.NS": {
+        "Open": 77.80000305175781
+      },
+      "IFBIND.NS": {
+        "Open": 1548.0999755859375
+      },
+      "IFCI.NS": {
+        "Open": 62.5099983215332
+      },
+      "IIFLCAPS.NS": {
+        "Open": 347.0
+      },
+      "IIFL.NS": {
+        "Open": 475.45001220703125
+      },
+      "INOXINDIA.NS": {
+        "Open": 1255.0
+      },
+      "IRB.NS": {
+        "Open": 49.20000076293945
+      },
+      "IRCON.NS": {
+        "Open": 198.25
+      },
+      "ITC.NS": {
+        "Open": 413.0
+      },
+      "ITDCEM.NS": {
+        "Open": 898.0999755859375
+      },
+      "ITI.NS": {
+        "Open": 327.0
+      },
+      "IMAGICAA.NS": {
+        "Open": 66.9800033569336
+      },
+      "INDGN.NS": {
+        "Open": 568.0999755859375
+      },
+      "INDIACEM.NS": {
+        "Open": 343.8500061035156
+      },
+      "INDIAGLYCO.NS": {
+        "Open": 2101.0
+      },
+      "INDIASHLTR.NS": {
+        "Open": 876.8499755859375
+      },
+      "INDIAMART.NS": {
+        "Open": 2549.699951171875
+      },
+      "INDIANB.NS": {
+        "Open": 649.5
+      },
+      "IEX.NS": {
+        "Open": 197.49000549316406
+      },
+      "INDHOTEL.NS": {
+        "Open": 746.0499877929688
+      },
+      "IMFA.NS": {
+        "Open": 780.4500122070312
+      },
+      "IOC.NS": {
+        "Open": 152.5
+      },
+      "IOB.NS": {
+        "Open": 39.810001373291016
+      },
+      "IRCTC.NS": {
+        "Open": 782.1500244140625
+      },
+      "IRFC.NS": {
+        "Open": 138.6999969482422
+      },
+      "IREDA.NS": {
+        "Open": 166.75
+      },
+      "INDIGOPNTS.NS": {
+        "Open": 1211.699951171875
+      },
+      "ICIL.NS": {
+        "Open": 290.0
+      },
+      "IGL.NS": {
+        "Open": 228.47999572753906
+      },
+      "INDUSTOWER.NS": {
+        "Open": 419.95001220703125
+      },
+      "INDUSINDBK.NS": {
+        "Open": 847.9500122070312
+      },
+      "INFIBEAM.NS": {
+        "Open": 15.699999809265137
+      },
+      "NAUKRI.NS": {
+        "Open": 1485.5
+      },
+      "INFY.NS": {
+        "Open": 1642.4000244140625
+      },
+      "INGERRAND.NS": {
+        "Open": 4051.5
+      },
+      "INNOVACAP.NS": {
+        "Open": 859.6500244140625
+      },
+      "INOXGREEN.NS": {
+        "Open": 154.0
+      },
+      "INOXWIND.NS": {
+        "Open": 179.9499969482422
+      },
+      "INTELLECT.NS": {
+        "Open": 1132.800048828125
+      },
+      "INDIGO.NS": {
+        "Open": 5753.0
+      },
+      "IGIL.NS": {
+        "Open": 382.04998779296875
+      },
+      "IKS.NS": {
+        "Open": 1595.0
+      },
+      "IONEXCHANG.NS": {
+        "Open": 537.6500244140625
+      },
+      "IPCALAB.NS": {
+        "Open": 1422.9000244140625
+      },
+      "ISGEC.NS": {
+        "Open": 1219.0
+      },
+      "JBCHEPHARM.NS": {
+        "Open": 1630.0
+      },
+      "JKCEMENT.NS": {
+        "Open": 6247.5
+      },
+      "JKIL.NS": {
+        "Open": 724.9500122070312
+      },
+      "JBMA.NS": {
+        "Open": 644.5999755859375
+      },
+      "JKLAKSHMI.NS": {
+        "Open": 978.6500244140625
+      },
+      "JKPAPER.NS": {
+        "Open": 401.1499938964844
+      },
+      "JKTYRE.NS": {
+        "Open": 367.29998779296875
+      },
+      "JMFINANCIL.NS": {
+        "Open": 166.27000427246094
+      },
+      "JSWENERGY.NS": {
+        "Open": 512.0
+      },
+      "JSWHL.NS": {
+        "Open": 22100.0
+      },
+      "JSWINFRA.NS": {
+        "Open": 306.0
+      },
+      "JSWSTEEL.NS": {
+        "Open": 1036.300048828125
+      },
+      "JTLIND.NS": {
+        "Open": 78.63999938964844
+      },
+      "JAIBALAJI.NS": {
+        "Open": 126.19999694824219
+      },
+      "JAICORPLTD.NS": {
+        "Open": 111.5999984741211
+      },
+      "JISLJALEQS.NS": {
+        "Open": 57.400001525878906
+      },
+      "JPPOWER.NS": {
+        "Open": 19.100000381469727
+      },
+      "J&KBANK.NS": {
+        "Open": 114.0
+      },
+      "JAMNAAUTO.NS": {
+        "Open": 94.98999786376953
+      },
+      "JSFB.NS": {
+        "Open": 495.6499938964844
+      },
+      "JINDALSAW.NS": {
+        "Open": 233.5
+      },
+      "JSL.NS": {
+        "Open": 680.0499877929688
+      },
+      "JINDALSTEL.NS": {
+        "Open": 951.5
+      },
+      "JINDWORLD.NS": {
+        "Open": 49.459999084472656
+      },
+      "JIOFIN.NS": {
+        "Open": 324.6000061035156
+      },
+      "JCHAC.NS": {
+        "Open": 1815.0
+      },
+      "JUBLFOOD.NS": {
+        "Open": 714.4000244140625
+      },
+      "JUBLINGREA.NS": {
+        "Open": 780.0
+      },
+      "JUBLPHARMA.NS": {
+        "Open": 1199.0
+      },
+      "JWL.NS": {
+        "Open": 380.04998779296875
+      },
+      "JUSTDIAL.NS": {
+        "Open": 938.5
+      },
+      "JYOTHYLAB.NS": {
+        "Open": 342.3999938964844
+      },
+      "JYOTICNC.NS": {
+        "Open": 1040.0
+      },
+      "KPRMILL.NS": {
+        "Open": 1195.0
+      },
+      "KEI.NS": {
+        "Open": 3782.0
+      },
+      "KNRCON.NS": {
+        "Open": 224.00999450683594
+      },
+      "KPIGREEN.NS": {
+        "Open": 521.8499755859375
+      },
+      "KPITTECH.NS": {
+        "Open": 1261.0999755859375
+      },
+      "KRBL.NS": {
+        "Open": 393.20001220703125
+      },
+      "KSB.NS": {
+        "Open": 829.6500244140625
+      },
+      "KAJARIACER.NS": {
+        "Open": 1152.300048828125
+      },
+      "KPIL.NS": {
+        "Open": 1187.0
+      },
+      "KALYANKJIL.NS": {
+        "Open": 588.25
+      },
+      "KSL.NS": {
+        "Open": 958.0
+      },
+      "KANSAINER.NS": {
+        "Open": 249.8000030517578
+      },
+      "KTKBANK.NS": {
+        "Open": 194.8000030517578
+      },
+      "KARURVYSYA.NS": {
+        "Open": 269.04998779296875
+      },
+      "KSCL.NS": {
+        "Open": 1168.300048828125
+      },
+      "KAYNES.NS": {
+        "Open": 6149.5
+      },
+      "KEC.NS": {
+        "Open": 896.25
+      },
+      "KFINTECH.NS": {
+        "Open": 1288.9000244140625
+      },
+      "KIRLOSBROS.NS": {
+        "Open": 2319.0
+      },
+      "KIRLOSENG.NS": {
+        "Open": 850.9500122070312
+      },
+      "KIRLPNU.NS": {
+        "Open": 1441.9000244140625
+      },
+      "KOTAKBANK.NS": {
+        "Open": 2125.89990234375
+      },
+      "KIMS.NS": {
+        "Open": 686.0499877929688
+      },
+      "LTF.NS": {
+        "Open": 205.75999450683594
+      },
+      "LTTS.NS": {
+        "Open": 4405.0
+      },
+      "LICHSGFIN.NS": {
+        "Open": 612.0
+      },
+      "LMW.NS": {
+        "Open": 16699.0
+      },
+      "LTFOODS.NS": {
+        "Open": 489.25
+      },
+      "LTIM.NS": {
+        "Open": 5333.0
+      },
+      "LT.NS": {
+        "Open": 3599.60009765625
+      },
+      "LATENTVIEW.NS": {
+        "Open": 443.29998779296875
+      },
+      "LAURUSLABS.NS": {
+        "Open": 777.0999755859375
+      },
+      "LXCHEM.NS": {
+        "Open": 197.07000732421875
+      },
+      "IXIGO.NS": {
+        "Open": 170.9600067138672
+      },
+      "LEMONTREE.NS": {
+        "Open": 139.1999969482422
+      },
+      "LICI.NS": {
+        "Open": 941.4000244140625
+      },
+      "LINDEINDIA.NS": {
+        "Open": 6627.0
+      },
+      "LLOYDSENGG.NS": {
+        "Open": 80.80999755859375
+      },
+      "LLOYDSENT.NS": {
+        "Open": 91.47000122070312
+      },
+      "LLOYDSME.NS": {
+        "Open": 1558.9000244140625
+      },
+      "LUPIN.NS": {
+        "Open": 1990.699951171875
+      },
+      "LUXIND.NS": {
+        "Open": 1459.9000244140625
+      },
+      "MMTC.NS": {
+        "Open": 70.0
+      },
+      "MOIL.NS": {
+        "Open": 387.3999938964844
+      },
+      "MRF.NS": {
+        "Open": 144505.0
+      },
+      "MSTCLTD.NS": {
+        "Open": 548.8499755859375
+      },
+      "MTARTECH.NS": {
+        "Open": 1582.0999755859375
+      },
+      "LODHA.NS": {
+        "Open": 1365.699951171875
+      },
+      "MGL.NS": {
+        "Open": 1550.199951171875
+      },
+      "MAHSCOOTER.NS": {
+        "Open": 14955.0
+      },
+      "MAHSEAMLES.NS": {
+        "Open": 750.0499877929688
+      },
+      "M&MFIN.NS": {
+        "Open": 267.45001220703125
+      },
+      "M&M.NS": {
+        "Open": 3168.199951171875
+      },
+      "MAHLIFE.NS": {
+        "Open": 363.54998779296875
+      },
+      "MANINFRA.NS": {
+        "Open": 187.67999267578125
+      },
+      "MANAPPURAM.NS": {
+        "Open": 275.6499938964844
+      },
+      "MRPL.NS": {
+        "Open": 151.6699981689453
+      },
+      "MANKIND.NS": {
+        "Open": 2444.0
+      },
+      "MARICO.NS": {
+        "Open": 729.0
+      },
+      "MARKSANS.NS": {
+        "Open": 264.8999938964844
+      },
+      "MARUTI.NS": {
+        "Open": 12623.0
+      },
+      "MASTEK.NS": {
+        "Open": 2547.699951171875
+      },
+      "MAXESTATES.NS": {
+        "Open": 494.8999938964844
+      },
+      "MFSL.NS": {
+        "Open": 1591.4000244140625
+      },
+      "MAXHEALTH.NS": {
+        "Open": 1302.699951171875
+      },
+      "MAZDOCK.NS": {
+        "Open": 3319.0
+      },
+      "MEDPLUS.NS": {
+        "Open": 873.9000244140625
+      },
+      "METROPOLIS.NS": {
+        "Open": 1792.199951171875
+      },
+      "MINDACORP.NS": {
+        "Open": 517.0
+      },
+      "MIDHANI.NS": {
+        "Open": 433.8500061035156
+      },
+      "MSUMI.NS": {
+        "Open": 60.31999969482422
+      },
+      "MOTILALOFS.NS": {
+        "Open": 914.0
+      },
+      "MPHASIS.NS": {
+        "Open": 2929.89990234375
+      },
+      "BECTORFOOD.NS": {
+        "Open": 1357.800048828125
+      },
+      "MCX.NS": {
+        "Open": 8887.5
+      },
+      "MUTHOOTFIN.NS": {
+        "Open": 2661.800048828125
+      },
+      "NATCOPHARM.NS": {
+        "Open": 1000.5999755859375
+      },
+      "NBCC.NS": {
+        "Open": 117.06999969482422
+      },
+      "NCC.NS": {
+        "Open": 223.5500030517578
+      },
+      "NEOGEN.NS": {
+        "Open": 1606.0
+      },
+      "NESCO.NS": {
+        "Open": 1198.5
+      },
+      "NHPC.NS": {
+        "Open": 85.0
+      },
+      "NLCINDIA.NS": {
+        "Open": 227.0
+      },
+      "NMDC.NS": {
+        "Open": 68.73999786376953
+      },
+      "NSLNISP.NS": {
+        "Open": 40.349998474121094
+      },
+      "NOCIL.NS": {
+        "Open": 198.69000244140625
+      },
+      "NTPCGREEN.NS": {
+        "Open": 106.0
+      },
+      "NTPC.NS": {
+        "Open": 335.45001220703125
+      },
+      "NH.NS": {
+        "Open": 2014.300048828125
+      },
+      "NATIONALUM.NS": {
+        "Open": 190.88999938964844
+      },
+      "NFL.NS": {
+        "Open": 99.44999694824219
+      },
+      "NAVA.NS": {
+        "Open": 611.2999877929688
+      },
+      "NAVINFLUOR.NS": {
+        "Open": 4949.0
+      },
+      "NAZARA.NS": {
+        "Open": 1397.9000244140625
+      },
+      "NESTLEIND.NS": {
+        "Open": 2399.5
+      },
+      "NETWEB.NS": {
+        "Open": 1819.5999755859375
+      },
+      "NETWORK18.NS": {
+        "Open": 56.45000076293945
+      },
+      "NEULANDLAB.NS": {
+        "Open": 11961.0
+      },
+      "NEWGEN.NS": {
+        "Open": 1132.0
+      },
+      "NAM-INDIA.NS": {
+        "Open": 788.9000244140625
+      },
+      "NIVABUPA.NS": {
+        "Open": 84.98999786376953
+      },
+      "NUVAMA.NS": {
+        "Open": 7271.5
+      },
+      "NUVOCO.NS": {
+        "Open": 359.6499938964844
+      },
+      "OBEROIRLTY.NS": {
+        "Open": 1869.4000244140625
+      },
+      "ONGC.NS": {
+        "Open": 245.36000061035156
+      },
+      "OIL.NS": {
+        "Open": 445.3500061035156
+      },
+      "OLAELEC.NS": {
+        "Open": 41.900001525878906
+      },
+      "OLECTRA.NS": {
+        "Open": 1195.0999755859375
+      },
+      "PAYTM.NS": {
+        "Open": 930.7999877929688
+      },
+      "OPTIEMUS.NS": {
+        "Open": 622.0499877929688
+      },
+      "OFSS.NS": {
+        "Open": 9093.5
+      },
+      "ORCHPHARMA.NS": {
+        "Open": 756.0999755859375
+      },
+      "ORIENTCEM.NS": {
+        "Open": 240.0
+      },
+      "ORISSAMINE.NS": {
+        "Open": 4844.89990234375
+      },
+      "PNGJL.NS": {
+        "Open": 600.0
+      },
+      "POLICYBZR.NS": {
+        "Open": 1798.0
+      },
+      "PCJEWELLER.NS": {
+        "Open": 17.540000915527344
+      },
+      "PCBL.NS": {
+        "Open": 409.95001220703125
+      },
+      "PGEL.NS": {
+        "Open": 749.9000244140625
+      },
+      "PIIND.NS": {
+        "Open": 4220.0
+      },
+      "PNBHOUSING.NS": {
+        "Open": 1080.5
+      },
+      "PNCINFRA.NS": {
+        "Open": 307.3999938964844
+      },
+      "PTC.NS": {
+        "Open": 179.7899932861328
+      },
+      "PTCIL.NS": {
+        "Open": 14898.0
+      },
+      "PVRINOX.NS": {
+        "Open": 975.5
+      },
+      "PAGEIND.NS": {
+        "Open": 48800.0
+      },
+      "PAISALO.NS": {
+        "Open": 30.610000610351562
+      },
+      "PARADEEP.NS": {
+        "Open": 160.74000549316406
+      },
+      "PARAS.NS": {
+        "Open": 938.5
+      },
+      "PATANJALI.NS": {
+        "Open": 1655.300048828125
+      },
+      "PATELENG.NS": {
+        "Open": 40.56999969482422
+      },
+      "PGIL.NS": {
+        "Open": 1583.5999755859375
+      },
+      "PERSISTENT.NS": {
+        "Open": 5892.5
+      },
+      "PETRONET.NS": {
+        "Open": 304.1000061035156
+      },
+      "PFIZER.NS": {
+        "Open": 5818.0
+      },
+      "PHOENIXLTD.NS": {
+        "Open": 1540.0
+      },
+      "PIDILITIND.NS": {
+        "Open": 3089.89990234375
+      },
+      "PEL.NS": {
+        "Open": 1155.5
+      },
+      "PPLPHARMA.NS": {
+        "Open": 204.6999969482422
+      },
+      "POLYMED.NS": {
+        "Open": 2247.0
+      },
+      "POLYCAB.NS": {
+        "Open": 6705.0
+      },
+      "POLYPLEX.NS": {
+        "Open": 1202.0999755859375
+      },
+      "POONAWALLA.NS": {
+        "Open": 471.8999938964844
+      },
+      "PFC.NS": {
+        "Open": 413.54998779296875
+      },
+      "POWERGRID.NS": {
+        "Open": 294.79998779296875
+      },
+      "POWERMECH.NS": {
+        "Open": 3250.0
+      },
+      "PRAJIND.NS": {
+        "Open": 498.04998779296875
+      },
+      "PREMIERENE.NS": {
+        "Open": 1055.0
+      },
+      "PRESTIGE.NS": {
+        "Open": 1610.0999755859375
+      },
+      "PRICOLLTD.NS": {
+        "Open": 459.3500061035156
+      },
+      "PRINCEPIPE.NS": {
+        "Open": 366.70001220703125
+      },
+      "PRSMJOHNSN.NS": {
+        "Open": 158.7899932861328
+      },
+      "PRUDENT.NS": {
+        "Open": 2699.0
+      },
+      "PNB.NS": {
+        "Open": 110.80000305175781
+      },
+      "RRKABEL.NS": {
+        "Open": 1378.9000244140625
+      },
+      "RBLBANK.NS": {
+        "Open": 253.00999450683594
+      },
+      "RECLTD.NS": {
+        "Open": 393.5
+      },
+      "RHIM.NS": {
+        "Open": 478.0
+      },
+      "RITES.NS": {
+        "Open": 283.8999938964844
+      },
+      "RADICO.NS": {
+        "Open": 2619.60009765625
+      },
+      "RVNL.NS": {
+        "Open": 393.6000061035156
+      },
+      "RAILTEL.NS": {
+        "Open": 418.8999938964844
+      },
+      "RAIN.NS": {
+        "Open": 148.8000030517578
+      },
+      "RAINBOW.NS": {
+        "Open": 1604.5
+      },
+      "RAJESHEXPO.NS": {
+        "Open": 202.57000732421875
+      },
+      "RALLIS.NS": {
+        "Open": 318.8999938964844
+      },
+      "RKFORGE.NS": {
+        "Open": 663.0
+      },
+      "RCF.NS": {
+        "Open": 156.10000610351562
+      },
+      "RATEGAIN.NS": {
+        "Open": 460.6000061035156
+      },
+      "RTNINDIA.NS": {
+        "Open": 61.47999954223633
+      },
+      "RTNPOWER.NS": {
+        "Open": 14.770000457763672
+      },
+      "RAYMONDLSL.NS": {
+        "Open": 1287.300048828125
+      },
+      "RAYMOND.NS": {
+        "Open": 716.0
+      },
+      "REDINGTON.NS": {
+        "Open": 311.75
+      },
+      "REDTAPE.NS": {
+        "Open": 131.0
+      },
+      "REFEX.NS": {
+        "Open": 443.0
+      },
+      "RELIANCE.NS": {
+        "Open": 1527.5999755859375
+      },
+      "RELINFRA.NS": {
+        "Open": 374.20001220703125
+      },
+      "RPOWER.NS": {
+        "Open": 66.41000366210938
+      },
+      "RELIGARE.NS": {
+        "Open": 222.0
+      },
+      "RESPONIND.NS": {
+        "Open": 243.0
+      },
+      "RBA.NS": {
+        "Open": 81.8499984741211
+      },
+      "ROSSARI.NS": {
+        "Open": 685.3499755859375
+      },
+      "ROUTE.NS": {
+        "Open": 1024.0999755859375
+      },
+      "SBFC.NS": {
+        "Open": 110.4000015258789
+      },
+      "SBICARD.NS": {
+        "Open": 909.0
+      },
+      "SBILIFE.NS": {
+        "Open": 1797.5999755859375
+      },
+      "SJVN.NS": {
+        "Open": 98.18000030517578
+      },
+      "SKFINDIA.NS": {
+        "Open": 4927.60009765625
+      },
+      "SRF.NS": {
+        "Open": 3230.60009765625
+      },
+      "SAFARI.NS": {
+        "Open": 2213.89990234375
+      },
+      "SAGILITY.NS": {
+        "Open": 42.7400016784668
+      },
+      "SAILIFE.NS": {
+        "Open": 793.0
+      },
+      "SAMHI.NS": {
+        "Open": 218.6999969482422
+      },
+      "SAMMAANCAP.NS": {
+        "Open": 124.19999694824219
+      },
+      "MOTHERSON.NS": {
+        "Open": 153.33999633789062
+      },
+      "SANOFICONR.NS": {
+        "Open": 5340.0
+      },
+      "SANOFI.NS": {
+        "Open": 6075.0
+      },
+      "SANSERA.NS": {
+        "Open": 1394.199951171875
+      },
+      "SAPPHIRE.NS": {
+        "Open": 333.20001220703125
+      },
+      "SARDAEN.NS": {
+        "Open": 435.0
+      },
+      "SAREGAMA.NS": {
+        "Open": 494.3500061035156
+      },
+      "SCHAEFFLER.NS": {
+        "Open": 3938.199951171875
+      },
+      "SCHNEIDER.NS": {
+        "Open": 808.0
+      },
+      "SENCO.NS": {
+        "Open": 361.1000061035156
+      },
+      "SEQUENT.NS": {
+        "Open": 188.0
+      },
+      "SHAILY.NS": {
+        "Open": 1628.4000244140625
+      },
+      "SHAKTIPUMP.NS": {
+        "Open": 942.3499755859375
+      },
+      "SHARDACROP.NS": {
+        "Open": 916.0999755859375
+      },
+      "SHAREINDIA.NS": {
+        "Open": 181.38999938964844
+      },
+      "SFL.NS": {
+        "Open": 705.4000244140625
+      },
+      "SHILPAMED.NS": {
+        "Open": 900.0
+      },
+      "SCI.NS": {
+        "Open": 224.14999389648438
+      },
+      "SBCL.NS": {
+        "Open": 533.0499877929688
+      },
+      "SHOPERSTOP.NS": {
+        "Open": 497.5
+      },
+      "SHREECEM.NS": {
+        "Open": 31315.0
+      },
+      "RENUKA.NS": {
+        "Open": 32.849998474121094
+      },
+      "SHRIRAMFIN.NS": {
+        "Open": 676.2000122070312
+      },
+      "SHRIPISTON.NS": {
+        "Open": 2584.699951171875
+      },
+      "SHYAMMETL.NS": {
+        "Open": 877.5
+      },
+      "SIEMENS.NS": {
+        "Open": 3294.10009765625
+      },
+      "SIGNATURE.NS": {
+        "Open": 1248.800048828125
+      },
+      "SKIPPER.NS": {
+        "Open": 492.6499938964844
+      },
+      "SOBHA.NS": {
+        "Open": 1519.0
+      },
+      "SOLARINDS.NS": {
+        "Open": 16850.0
+      },
+      "SONACOMS.NS": {
+        "Open": 478.3999938964844
+      },
+      "SONATSOFTW.NS": {
+        "Open": 410.04998779296875
+      },
+      "SOUTHBANK.NS": {
+        "Open": 30.639999389648438
+      },
+      "SPANDANA.NS": {
+        "Open": 286.95001220703125
+      },
+      "STARCEMENT.NS": {
+        "Open": 213.0
+      },
+      "STARHEALTH.NS": {
+        "Open": 424.29998779296875
+      },
+      "SBIN.NS": {
+        "Open": 811.1500244140625
+      },
+      "SAIL.NS": {
+        "Open": 133.75999450683594
+      },
+      "SWSOLAR.NS": {
+        "Open": 309.29998779296875
+      },
+      "STLTECH.NS": {
+        "Open": 115.19999694824219
+      },
+      "STAR.NS": {
+        "Open": 885.8499755859375
+      },
+      "STYLAMIND.NS": {
+        "Open": 1621.800048828125
+      },
+      "SUBROS.NS": {
+        "Open": 975.0
+      },
+      "SUDARSCHEM.NS": {
+        "Open": 1254.5999755859375
+      },
+      "SULA.NS": {
+        "Open": 306.45001220703125
+      },
+      "SUMICHEM.NS": {
+        "Open": 535.5999755859375
+      },
+      "SPARC.NS": {
+        "Open": 158.83999633789062
+      },
+      "SUNPHARMA.NS": {
+        "Open": 1672.800048828125
+      },
+      "SUNTV.NS": {
+        "Open": 590.0499877929688
+      },
+      "SUNDARMFIN.NS": {
+        "Open": 5160.0
+      },
+      "SUNDRMFAST.NS": {
+        "Open": 1078.0
+      },
+      "SUNFLAG.NS": {
+        "Open": 309.29998779296875
+      },
+      "SUNTECK.NS": {
+        "Open": 442.6000061035156
+      },
+      "SUPRAJIT.NS": {
+        "Open": 471.8500061035156
+      },
+      "SUPREMEIND.NS": {
+        "Open": 4279.0
+      },
+      "SUPRIYA.NS": {
+        "Open": 743.0
+      },
+      "SURYAROSNI.NS": {
+        "Open": 335.6000061035156
+      },
+      "SUZLON.NS": {
+        "Open": 65.75
+      },
+      "SWANENERGY.NS": {
+        "Open": 445.25
+      },
+      "SWIGGY.NS": {
+        "Open": 385.3999938964844
+      },
+      "SYMPHONY.NS": {
+        "Open": 1139.300048828125
+      },
+      "SYNGENE.NS": {
+        "Open": 641.75
+      },
+      "SYRMA.NS": {
+        "Open": 606.2999877929688
+      },
+      "TARC.NS": {
+        "Open": 186.5
+      },
+      "TBOTEK.NS": {
+        "Open": 1430.199951171875
+      },
+      "TDPOWERSYS.NS": {
+        "Open": 492.0
+      },
+      "TVSMOTOR.NS": {
+        "Open": 2876.0
+      },
+      "TVSSCS.NS": {
+        "Open": 132.00999450683594
+      },
+      "TANLA.NS": {
+        "Open": 640.4000244140625
+      },
+      "TATACHEM.NS": {
+        "Open": 939.3499755859375
+      },
+      "TATACOMM.NS": {
+        "Open": 1757.4000244140625
+      },
+      "TCS.NS": {
+        "Open": 3415.10009765625
+      },
+      "TATACONSUM.NS": {
+        "Open": 1087.9000244140625
+      },
+      "TATAELXSI.NS": {
+        "Open": 6208.5
+      },
+      "TATAINVEST.NS": {
+        "Open": 6725.0
+      },
+      "TATAMOTORS.NS": {
+        "Open": 688.0499877929688
+      },
+      "TATAPOWER.NS": {
+        "Open": 401.54998779296875
+      },
+      "TATASTEEL.NS": {
+        "Open": 162.5
+      },
+      "TATATECH.NS": {
+        "Open": 708.7999877929688
+      },
+      "TTML.NS": {
+        "Open": 65.5199966430664
+      },
+      "TEAMLEASE.NS": {
+        "Open": 2050.0
+      },
+      "TECHM.NS": {
+        "Open": 1645.0
+      },
+      "TECHNOE.NS": {
+        "Open": 1576.5
+      },
+      "TIIL.NS": {
+        "Open": 3251.199951171875
+      },
+      "TEGA.NS": {
+        "Open": 1714.199951171875
+      },
+      "TEJASNET.NS": {
+        "Open": 705.0
+      },
+      "TEXRAIL.NS": {
+        "Open": 172.30999755859375
+      },
+      "THANGAMAYL.NS": {
+        "Open": 1905.9000244140625
+      },
+      "ANUP.NS": {
+        "Open": 2785.0
+      },
+      "NIACL.NS": {
+        "Open": 185.7899932861328
+      },
+      "RAMCOCEM.NS": {
+        "Open": 1093.5999755859375
+      },
+      "THERMAX.NS": {
+        "Open": 3452.89990234375
+      },
+      "TIRUMALCHM.NS": {
+        "Open": 281.8999938964844
+      },
+      "THOMASCOOK.NS": {
+        "Open": 164.9499969482422
+      },
+      "TI.NS": {
+        "Open": 340.95001220703125
+      },
+      "TIMETECHNO.NS": {
+        "Open": 449.3999938964844
+      },
+      "TIMKEN.NS": {
+        "Open": 3319.699951171875
+      },
+      "TIPSMUSIC.NS": {
+        "Open": 672.9500122070312
+      },
+      "TITAGARH.NS": {
+        "Open": 939.9500122070312
+      },
+      "TITAN.NS": {
+        "Open": 3678.0
+      },
+      "TORNTPHARM.NS": {
+        "Open": 3367.5
+      },
+      "TORNTPOWER.NS": {
+        "Open": 1431.5
+      },
+      "TARIL.NS": {
+        "Open": 472.0
+      },
+      "TRANSRAILL.NS": {
+        "Open": 741.7000122070312
+      },
+      "TRENT.NS": {
+        "Open": 5498.5
+      },
+      "TRIDENT.NS": {
+        "Open": 31.229999542236328
+      },
+      "TRIVENI.NS": {
+        "Open": 375.6499938964844
+      },
+      "TRITURBINE.NS": {
+        "Open": 648.2000122070312
+      },
+      "TIINDIA.NS": {
+        "Open": 2979.10009765625
+      },
+      "UCOBANK.NS": {
+        "Open": 32.29999923706055
+      },
+      "UNOMINDA.NS": {
+        "Open": 1101.5999755859375
+      },
+      "UPL.NS": {
+        "Open": 680.0499877929688
+      },
+      "UTIAMC.NS": {
+        "Open": 1289.699951171875
+      },
+      "UJJIVANSFB.NS": {
+        "Open": 48.13999938964844
+      },
+      "ULTRACEMCO.NS": {
+        "Open": 12478.0
+      },
+      "UNIMECH.NS": {
+        "Open": 1315.0
+      },
+      "UNIONBANK.NS": {
+        "Open": 152.39999389648438
+      },
+      "UBL.NS": {
+        "Open": 1988.0999755859375
+      },
+      "UNITDSPR.NS": {
+        "Open": 1385.0999755859375
+      },
+      "USHAMART.NS": {
+        "Open": 366.29998779296875
+      },
+      "VGUARD.NS": {
+        "Open": 394.3999938964844
+      },
+      "VMART.NS": {
+        "Open": 794.7000122070312
+      },
+      "VIPIND.NS": {
+        "Open": 419.0
+      },
+      "VSTIND.NS": {
+        "Open": 289.0
+      },
+      "WABAG.NS": {
+        "Open": 1472.4000244140625
+      },
+      "VAIBHAVGBL.NS": {
+        "Open": 238.41000366210938
+      },
+      "DBREALTY.NS": {
+        "Open": 230.5399932861328
+      },
+      "VTL.NS": {
+        "Open": 500.0
+      },
+      "VARROC.NS": {
+        "Open": 570.4000244140625
+      },
+      "VBL.NS": {
+        "Open": 455.6000061035156
+      },
+      "MANYAVAR.NS": {
+        "Open": 828.4500122070312
+      },
+      "VEDL.NS": {
+        "Open": 457.75
+      },
+      "VENTIVE.NS": {
+        "Open": 752.4500122070312
+      },
+      "VENUSPIPES.NS": {
+        "Open": 1460.0
+      },
+      "VESUVIUS.NS": {
+        "Open": 539.4000244140625
+      },
+      "VIJAYA.NS": {
+        "Open": 1024.050048828125
+      },
+      "VMM.NS": {
+        "Open": 128.6300048828125
+      },
+      "IDEA.NS": {
+        "Open": 7.300000190734863
+      },
+      "VOLTAMP.NS": {
+        "Open": 9387.0
+      },
+      "VOLTAS.NS": {
+        "Open": 1363.800048828125
+      },
+      "WAAREEENER.NS": {
+        "Open": 2977.5
+      },
+      "WEBELSOLAR.NS": {
+        "Open": 1320.0
+      },
+      "WELCORP.NS": {
+        "Open": 930.0499877929688
+      },
+      "WELENT.NS": {
+        "Open": 531.25
+      },
+      "WELSPUNLIV.NS": {
+        "Open": 144.8699951171875
+      },
+      "WESTLIFE.NS": {
+        "Open": 764.7000122070312
+      },
+      "WHIRLPOOL.NS": {
+        "Open": 1378.699951171875
+      },
+      "WIPRO.NS": {
+        "Open": 269.5
+      },
+      "WOCKPHARMA.NS": {
+        "Open": 1727.199951171875
+      },
+      "WONDERLA.NS": {
+        "Open": 641.9000244140625
+      },
+      "YATHARTH.NS": {
+        "Open": 576.5499877929688
+      },
+      "YESBANK.NS": {
+        "Open": 20.040000915527344
+      },
+      "ZFCVINDIA.NS": {
+        "Open": 13372.0
+      },
+      "ZAGGLE.NS": {
+        "Open": 420.5
+      },
+      "ZEEL.NS": {
+        "Open": 146.9199981689453
+      },
+      "ZENTEC.NS": {
+        "Open": 1939.0
+      },
+      "ZENSARTECH.NS": {
+        "Open": 852.5999755859375
+      },
+      "BLACKBUCK.NS": {
+        "Open": 435.95001220703125
+      },
+      "ZYDUSLIFE.NS": {
+        "Open": 1002.9500122070312
+      },
+      "ZYDUSWELL.NS": {
+        "Open": 2005.699951171875
+      },
+      "ECLERX.NS": {
+        "Open": 3373.5
+      },
+      "EMUDHRA.NS": {
+        "Open": 753.4000244140625
+      }
+    }
+  },
+  "2025-07-09": {
+    "1d": {
+      "360ONE.NS": {
+        "Open": 1217.5
+      },
+      "3MINDIA.NS": {
+        "Open": 29675.0
+      },
+      "ABB.NS": {
+        "Open": 5852.5
+      },
+      "ACC.NS": {
+        "Open": 1983.199951171875
+      },
+      "ACMESOLAR.NS": {
+        "Open": 259.8999938964844
+      },
+      "AGI.NS": {
+        "Open": 781.7999877929688
+      },
+      "AIAENG.NS": {
+        "Open": 3469.699951171875
+      },
+      "APLAPOLLO.NS": {
+        "Open": 1745.5
+      },
+      "ASKAUTOLTD.NS": {
+        "Open": 514.9500122070312
+      },
+      "AUBANK.NS": {
+        "Open": 822.25
+      },
+      "AWL.NS": {
+        "Open": 263.8500061035156
+      },
+      "AADHARHFC.NS": {
+        "Open": 452.6499938964844
+      },
+      "AARTIDRUGS.NS": {
+        "Open": 478.0
+      },
+      "AARTIIND.NS": {
+        "Open": 458.79998779296875
+      },
+      "AARTIPHARM.NS": {
+        "Open": 918.7999877929688
+      },
+      "AAVAS.NS": {
+        "Open": 1956.199951171875
+      },
+      "ABBOTINDIA.NS": {
+        "Open": 34395.0
+      },
+      "ACE.NS": {
+        "Open": 1201.9000244140625
+      },
+      "ACUTAAS.NS": {
+        "Open": 1098.0
+      },
+      "ADANIENSOL.NS": {
+        "Open": 886.7000122070312
+      },
+      "ADANIENT.NS": {
+        "Open": 2596.10009765625
+      },
+      "ADANIGREEN.NS": {
+        "Open": 997.4000244140625
+      },
+      "ADANIPORTS.NS": {
+        "Open": 1450.0
+      },
+      "ADANIPOWER.NS": {
+        "Open": 604.2000122070312
+      },
+      "ATGL.NS": {
+        "Open": 657.3499755859375
+      },
+      "ABCAPITAL.NS": {
+        "Open": 276.54998779296875
+      },
+      "ABFRL.NS": {
+        "Open": 79.91999816894531
+      },
+      "ABREL.NS": {
+        "Open": 2240.60009765625
+      },
+      "ABSLAMC.NS": {
+        "Open": 814.0499877929688
+      },
+      "AVL.NS": {
+        "Open": 357.04998779296875
+      },
+      "ADVENZYMES.NS": {
+        "Open": 331.95001220703125
+      },
+      "AEGISLOG.NS": {
+        "Open": 756.0
+      },
+      "AETHER.NS": {
+        "Open": 786.0
+      },
+      "AFCONS.NS": {
+        "Open": 426.0
+      },
+      "AFFLE.NS": {
+        "Open": 1977.9000244140625
+      },
+      "AHLUCONT.NS": {
+        "Open": 959.0999755859375
+      },
+      "AJANTPHARM.NS": {
+        "Open": 2611.60009765625
+      },
+      "AKUMS.NS": {
+        "Open": 565.6500244140625
+      },
+      "AKZOINDIA.NS": {
+        "Open": 3680.0
+      },
+      "APLLTD.NS": {
+        "Open": 999.7000122070312
+      },
+      "ALIVUS.NS": {
+        "Open": 1002.0999755859375
+      },
+      "ALKEM.NS": {
+        "Open": 4800.89990234375
+      },
+      "ALKYLAMINE.NS": {
+        "Open": 2344.199951171875
+      },
+      "ALLCARGO.NS": {
+        "Open": 33.97999954223633
+      },
+      "ABDL.NS": {
+        "Open": 442.6000061035156
+      },
+      "ALOKINDS.NS": {
+        "Open": 21.850000381469727
+      },
+      "ARE&M.NS": {
+        "Open": 964.5999755859375
+      },
+      "AMBER.NS": {
+        "Open": 7461.5
+      },
+      "AMBUJACEM.NS": {
+        "Open": 591.0
+      },
+      "ANANDRATHI.NS": {
+        "Open": 2081.800048828125
+      },
+      "ANANTRAJ.NS": {
+        "Open": 553.0
+      },
+      "ANGELONE.NS": {
+        "Open": 2705.60009765625
+      },
+      "APARINDS.NS": {
+        "Open": 8620.0
+      },
+      "PARKHOTELS.NS": {
+        "Open": 156.47999572753906
+      },
+      "APOLLOHOSP.NS": {
+        "Open": 7539.0
+      },
+      "APOLLOTYRE.NS": {
+        "Open": 472.8999938964844
+      },
+      "APTUS.NS": {
+        "Open": 336.6499938964844
+      },
+      "ACI.NS": {
+        "Open": 648.0
+      },
+      "ARVINDFASN.NS": {
+        "Open": 463.3500061035156
+      },
+      "ARVIND.NS": {
+        "Open": 349.8999938964844
+      },
+      "ASAHIINDIA.NS": {
+        "Open": 812.1500244140625
+      },
+      "ASHOKLEY.NS": {
+        "Open": 250.60000610351562
+      },
+      "ASHOKA.NS": {
+        "Open": 206.7899932861328
+      },
+      "ASIANPAINT.NS": {
+        "Open": 2507.5
+      },
+      "ASTERDM.NS": {
+        "Open": 623.4500122070312
+      },
+      "ASTRAMICRO.NS": {
+        "Open": 1045.9000244140625
+      },
+      "ASTRAZEN.NS": {
+        "Open": 9091.5
+      },
+      "ASTRAL.NS": {
+        "Open": 1485.0
+      },
+      "ATUL.NS": {
+        "Open": 7667.0
+      },
+      "AURIONPRO.NS": {
+        "Open": 1605.800048828125
+      },
+      "AUROPHARMA.NS": {
+        "Open": 1152.199951171875
+      },
+      "AIIL.NS": {
+        "Open": 2650.10009765625
+      },
+      "AVALON.NS": {
+        "Open": 852.0
+      },
+      "AVANTIFEED.NS": {
+        "Open": 727.9500122070312
+      },
+      "DMART.NS": {
+        "Open": 4213.0
+      },
+      "AWFIS.NS": {
+        "Open": 615.0
+      },
+      "AXISBANK.NS": {
+        "Open": 1160.0
+      },
+      "AZAD.NS": {
+        "Open": 1619.5999755859375
+      },
+      "BASF.NS": {
+        "Open": 5214.5
+      },
+      "BEML.NS": {
+        "Open": 4532.10009765625
+      },
+      "BLS.NS": {
+        "Open": 379.54998779296875
+      },
+      "BSE.NS": {
+        "Open": 2504.800048828125
+      },
+      "BAJAJ-AUTO.NS": {
+        "Open": 8350.0
+      },
+      "BAJFINANCE.NS": {
+        "Open": 925.0999755859375
+      },
+      "BAJAJFINSV.NS": {
+        "Open": 2014.9000244140625
+      },
+      "BAJAJHIND.NS": {
+        "Open": 29.1200008392334
+      },
+      "BAJAJHLDNG.NS": {
+        "Open": 13951.0
+      },
+      "BAJAJHFL.NS": {
+        "Open": 120.75
+      },
+      "BALAMINES.NS": {
+        "Open": 1905.0
+      },
+      "BALKRISIND.NS": {
+        "Open": 2612.10009765625
+      },
+      "BALRAMCHIN.NS": {
+        "Open": 597.25
+      },
+      "BALUFORGE.NS": {
+        "Open": 675.0
+      },
+      "BANCOINDIA.NS": {
+        "Open": 641.5999755859375
+      },
+      "BANDHANBNK.NS": {
+        "Open": 175.50999450683594
+      },
+      "BANKBARODA.NS": {
+        "Open": 240.0
+      },
+      "BANKINDIA.NS": {
+        "Open": 117.37999725341797
+      },
+      "MAHABANK.NS": {
+        "Open": 56.56999969482422
+      },
+      "BANSALWIRE.NS": {
+        "Open": 384.6499938964844
+      },
+      "BATAINDIA.NS": {
+        "Open": 1250.9000244140625
+      },
+      "BAYERCROP.NS": {
+        "Open": 6472.0
+      },
+      "BERGEPAINT.NS": {
+        "Open": 588.0
+      },
+      "BEPL.NS": {
+        "Open": 116.0
+      },
+      "BBL.NS": {
+        "Open": 3005.5
+      },
+      "BDL.NS": {
+        "Open": 1965.0
+      },
+      "BEL.NS": {
+        "Open": 423.79998779296875
+      },
+      "BHARATFORG.NS": {
+        "Open": 1284.300048828125
+      },
+      "BHEL.NS": {
+        "Open": 258.3999938964844
+      },
+      "BPCL.NS": {
+        "Open": 355.6000061035156
+      },
+      "BHARTIARTL.NS": {
+        "Open": 2033.699951171875
+      },
+      "BHARTIHEXA.NS": {
+        "Open": 1800.0
+      },
+      "BIKAJI.NS": {
+        "Open": 737.0
+      },
+      "BIOCON.NS": {
+        "Open": 369.29998779296875
+      },
+      "BIRLACORPN.NS": {
+        "Open": 1391.9000244140625
+      },
+      "BSOFT.NS": {
+        "Open": 433.1499938964844
+      },
+      "BLUEDART.NS": {
+        "Open": 6600.0
+      },
+      "BLUEJET.NS": {
+        "Open": 878.7999877929688
+      },
+      "BLUESTARCO.NS": {
+        "Open": 1809.0
+      },
+      "BBTC.NS": {
+        "Open": 1959.9000244140625
+      },
+      "BOMDYEING.NS": {
+        "Open": 165.5
+      },
+      "BOROLTD.NS": {
+        "Open": 333.70001220703125
+      },
+      "BORORENEW.NS": {
+        "Open": 515.8499755859375
+      },
+      "BOSCHLTD.NS": {
+        "Open": 35545.0
+      },
+      "FIRSTCRY.NS": {
+        "Open": 372.45001220703125
+      },
+      "BRIGADE.NS": {
+        "Open": 1118.199951171875
+      },
+      "BRITANNIA.NS": {
+        "Open": 5850.5
+      },
+      "MAPMYINDIA.NS": {
+        "Open": 1783.0
+      },
+      "CCL.NS": {
+        "Open": 890.8499755859375
+      },
+      "CESC.NS": {
+        "Open": 180.58999633789062
+      },
+      "CGPOWER.NS": {
+        "Open": 676.7999877929688
+      },
+      "CIEINDIA.NS": {
+        "Open": 445.3500061035156
+      },
+      "CMSINFO.NS": {
+        "Open": 518.0499877929688
+      },
+      "CRISIL.NS": {
+        "Open": 5813.5
+      },
+      "CSBBANK.NS": {
+        "Open": 413.70001220703125
+      },
+      "CAMPUS.NS": {
+        "Open": 268.75
+      },
+      "CANFINHOME.NS": {
+        "Open": 815.75
+      },
+      "CANBK.NS": {
+        "Open": 113.69999694824219
+      },
+      "CAPLIPOINT.NS": {
+        "Open": 2026.300048828125
+      },
+      "CGCL.NS": {
+        "Open": 170.7899932861328
+      },
+      "CARBORUNIV.NS": {
+        "Open": 990.0499877929688
+      },
+      "CARTRADE.NS": {
+        "Open": 1810.0
+      },
+      "CASTROLIND.NS": {
+        "Open": 219.0500030517578
+      },
+      "CEATLTD.NS": {
+        "Open": 3814.89990234375
+      },
+      "CEIGALL.NS": {
+        "Open": 275.8500061035156
+      },
+      "CELLO.NS": {
+        "Open": 642.0
+      },
+      "CENTRALBK.NS": {
+        "Open": 39.13999938964844
+      },
+      "CDSL.NS": {
+        "Open": 1757.5999755859375
+      },
+      "CENTURYPLY.NS": {
+        "Open": 740.0
+      },
+      "CERA.NS": {
+        "Open": 6782.0
+      },
+      "CHALET.NS": {
+        "Open": 863.5
+      },
+      "CHAMBLFERT.NS": {
+        "Open": 554.4500122070312
+      },
+      "CHEMPLASTS.NS": {
+        "Open": 418.0
+      },
+      "CHENNPETRO.NS": {
+        "Open": 738.6500244140625
+      },
+      "CHOICEIN.NS": {
+        "Open": 706.0
+      },
+      "CHOLAHLDNG.NS": {
+        "Open": 2060.0
+      },
+      "CHOLAFIN.NS": {
+        "Open": 1526.300048828125
+      },
+      "CIGNITITEC.NS": {
+        "Open": 1827.5
+      },
+      "CIPLA.NS": {
+        "Open": 1489.199951171875
+      },
+      "CUB.NS": {
+        "Open": 214.88999938964844
+      },
+      "CLEAN.NS": {
+        "Open": 1451.4000244140625
+      },
+      "COALINDIA.NS": {
+        "Open": 383.20001220703125
+      },
+      "COCHINSHIP.NS": {
+        "Open": 2023.5
+      },
+      "COFORGE.NS": {
+        "Open": 1952.9000244140625
+      },
+      "COHANCE.NS": {
+        "Open": 994.8499755859375
+      },
+      "COLPAL.NS": {
+        "Open": 2444.300048828125
+      },
+      "CAMS.NS": {
+        "Open": 4144.10009765625
+      },
+      "CONCORDBIO.NS": {
+        "Open": 1788.5
+      },
+      "CONCOR.NS": {
+        "Open": 597.9500122070312
+      },
+      "COROMANDEL.NS": {
+        "Open": 2209.60009765625
+      },
+      "CRAFTSMAN.NS": {
+        "Open": 5835.0
+      },
+      "CREDITACC.NS": {
+        "Open": 1294.9000244140625
+      },
+      "CROMPTON.NS": {
+        "Open": 345.3999938964844
+      },
+      "CUMMINSIND.NS": {
+        "Open": 3484.5
+      },
+      "CYIENTDLM.NS": {
+        "Open": 495.04998779296875
+      },
+      "CYIENT.NS": {
+        "Open": 1289.9000244140625
+      },
+      "DCBBANK.NS": {
+        "Open": 142.3000030517578
+      },
+      "DCMSHRIRAM.NS": {
+        "Open": 1402.0
+      },
+      "DCXINDIA.NS": {
+        "Open": 290.95001220703125
+      },
+      "DLF.NS": {
+        "Open": 842.5999755859375
+      },
+      "DOMS.NS": {
+        "Open": 2425.39990234375
+      },
+      "DABUR.NS": {
+        "Open": 512.6500244140625
+      },
+      "DALBHARAT.NS": {
+        "Open": 2152.699951171875
+      },
+      "DATAPATTNS.NS": {
+        "Open": 2979.89990234375
+      },
+      "DATAMATICS.NS": {
+        "Open": 668.9500122070312
+      },
+      "DEEPAKFERT.NS": {
+        "Open": 1600.4000244140625
+      },
+      "DEEPAKNTR.NS": {
+        "Open": 1985.0
+      },
+      "DELHIVERY.NS": {
+        "Open": 412.1000061035156
+      },
+      "DEVYANI.NS": {
+        "Open": 171.49000549316406
+      },
+      "DHANI.NS": {
+        "Open": 65.08000183105469
+      },
+      "DBL.NS": {
+        "Open": 503.75
+      },
+      "DCAL.NS": {
+        "Open": 258.0
+      },
+      "DIVISLAB.NS": {
+        "Open": 6972.0
+      },
+      "DIXON.NS": {
+        "Open": 15570.0
+      },
+      "DODLA.NS": {
+        "Open": 1400.0
+      },
+      "LALPATHLAB.NS": {
+        "Open": 2900.0
+      },
+      "DRREDDY.NS": {
+        "Open": 1272.699951171875
+      },
+      "DYNAMATECH.NS": {
+        "Open": 7230.0
+      },
+      "EIDPARRY.NS": {
+        "Open": 1085.0
+      },
+      "EIHOTEL.NS": {
+        "Open": 373.0
+      },
+      "EPL.NS": {
+        "Open": 232.5
+      },
+      "EASEMYTRIP.NS": {
+        "Open": 10.4399995803833
+      },
+      "EDELWEISS.NS": {
+        "Open": 116.8499984741211
+      },
+      "EICHERMOT.NS": {
+        "Open": 5670.0
+      },
+      "ELECON.NS": {
+        "Open": 644.0
+      },
+      "EMIL.NS": {
+        "Open": 146.3699951171875
+      },
+      "ELECTCAST.NS": {
+        "Open": 122.80000305175781
+      },
+      "ELGIEQUIP.NS": {
+        "Open": 542.0
+      },
+      "EMAMILTD.NS": {
+        "Open": 574.75
+      },
+      "EMBDL.NS": {
+        "Open": 115.30000305175781
+      },
+      "EMCURE.NS": {
+        "Open": 1245.9000244140625
+      },
+      "ENDURANCE.NS": {
+        "Open": 2629.60009765625
+      },
+      "ENGINERSIN.NS": {
+        "Open": 242.52000427246094
+      },
+      "ENTERO.NS": {
+        "Open": 1216.0
+      },
+      "EIEL.NS": {
+        "Open": 230.33999633789062
+      },
+      "EPIGRAL.NS": {
+        "Open": 1780.0999755859375
+      },
+      "EQUITASBNK.NS": {
+        "Open": 63.060001373291016
+      },
+      "ERIS.NS": {
+        "Open": 1700.0
+      },
+      "ESCORTS.NS": {
+        "Open": 3379.89990234375
+      },
+      "ETERNAL.NS": {
+        "Open": 263.6000061035156
+      },
+      "ETHOSLTD.NS": {
+        "Open": 2700.0
+      },
+      "EUREKAFORB.NS": {
+        "Open": 594.0
+      },
+      "EXIDEIND.NS": {
+        "Open": 388.1000061035156
+      },
+      "FDC.NS": {
+        "Open": 504.25
+      },
+      "NYKAA.NS": {
+        "Open": 202.80999755859375
+      },
+      "FEDERALBNK.NS": {
+        "Open": 214.22999572753906
+      },
+      "FACT.NS": {
+        "Open": 927.8499755859375
+      },
+      "FIEMIND.NS": {
+        "Open": 1921.0999755859375
+      },
+      "FINEORG.NS": {
+        "Open": 5146.0
+      },
+      "FCL.NS": {
+        "Open": 270.6499938964844
+      },
+      "FINCABLES.NS": {
+        "Open": 963.4500122070312
+      },
+      "FINPIPE.NS": {
+        "Open": 206.1999969482422
+      },
+      "FSL.NS": {
+        "Open": 365.8999938964844
+      },
+      "FIVESTAR.NS": {
+        "Open": 760.75
+      },
+      "FORCEMOT.NS": {
+        "Open": 15334.0
+      },
+      "FORTIS.NS": {
+        "Open": 787.2999877929688
+      },
+      "GRINFRA.NS": {
+        "Open": 1253.5999755859375
+      },
+      "GAIL.NS": {
+        "Open": 192.30999755859375
+      },
+      "GVT&D.NS": {
+        "Open": 2392.300048828125
+      },
+      "GHCL.NS": {
+        "Open": 614.9500122070312
+      },
+      "GMMPFAUDLR.NS": {
+        "Open": 1284.699951171875
+      },
+      "GMRAIRPORT.NS": {
+        "Open": 91.62000274658203
+      },
+      "GMRP&UI.NS": {
+        "Open": 117.13999938964844
+      },
+      "GABRIEL.NS": {
+        "Open": 993.75
+      },
+      "GANESHHOUC.NS": {
+        "Open": 1032.0
+      },
+      "GANECOS.NS": {
+        "Open": 1534.5999755859375
+      },
+      "GRSE.NS": {
+        "Open": 2846.10009765625
+      },
+      "GRWRHITECH.NS": {
+        "Open": 3740.0
+      },
+      "GARFIBRES.NS": {
+        "Open": 923.5999755859375
+      },
+      "GATEWAY.NS": {
+        "Open": 66.5199966430664
+      },
+      "GICRE.NS": {
+        "Open": 375.04998779296875
+      },
+      "GILLETTE.NS": {
+        "Open": 10727.0
+      },
+      "GLAND.NS": {
+        "Open": 1884.9000244140625
+      },
+      "GLAXO.NS": {
+        "Open": 3267.89990234375
+      },
+      "GLENMARK.NS": {
+        "Open": 1821.699951171875
+      },
+      "MEDANTA.NS": {
+        "Open": 1217.300048828125
+      },
+      "GODIGIT.NS": {
+        "Open": 331.0
+      },
+      "GPIL.NS": {
+        "Open": 180.85000610351562
+      },
+      "GODFRYPHLP.NS": {
+        "Open": 8279.5
+      },
+      "GODREJAGRO.NS": {
+        "Open": 781.2999877929688
+      },
+      "GODREJCP.NS": {
+        "Open": 1274.300048828125
+      },
+      "GODREJIND.NS": {
+        "Open": 1154.199951171875
+      },
+      "GODREJPROP.NS": {
+        "Open": 2258.10009765625
+      },
+      "GOKEX.NS": {
+        "Open": 925.0
+      },
+      "GOPAL.NS": {
+        "Open": 351.0
+      },
+      "GRANULES.NS": {
+        "Open": 482.04998779296875
+      },
+      "GRAPHITE.NS": {
+        "Open": 558.25
+      },
+      "GRASIM.NS": {
+        "Open": 2812.89990234375
+      },
+      "GRAVITA.NS": {
+        "Open": 1802.0
+      },
+      "GESHIP.NS": {
+        "Open": 1012.5999755859375
+      },
+      "GREAVESCOT.NS": {
+        "Open": 199.64999389648438
+      },
+      "GREENPANEL.NS": {
+        "Open": 288.6000061035156
+      },
+      "GREENPLY.NS": {
+        "Open": 306.8500061035156
+      },
+      "GAEL.NS": {
+        "Open": 111.16999816894531
+      },
+      "FLUOROCHEM.NS": {
+        "Open": 3459.699951171875
+      },
+      "GUJGASLTD.NS": {
+        "Open": 475.1000061035156
+      },
+      "GMDCLTD.NS": {
+        "Open": 390.79998779296875
+      },
+      "GNFC.NS": {
+        "Open": 553.6500244140625
+      },
+      "GPPL.NS": {
+        "Open": 155.6999969482422
+      },
+      "GSFC.NS": {
+        "Open": 206.60000610351562
+      },
+      "GSPL.NS": {
+        "Open": 330.75
+      },
+      "GULFOILLUB.NS": {
+        "Open": 1269.9000244140625
+      },
+      "HEG.NS": {
+        "Open": 496.29998779296875
+      },
+      "HGINFRA.NS": {
+        "Open": 1054.0
+      },
+      "HBLENGINE.NS": {
+        "Open": 628.0
+      },
+      "HCLTECH.NS": {
+        "Open": 1704.9000244140625
+      },
+      "HDFCAMC.NS": {
+        "Open": 5126.0
+      },
+      "HDFCBANK.NS": {
+        "Open": 2004.4000244140625
+      },
+      "HDFCLIFE.NS": {
+        "Open": 795.4500122070312
+      },
+      "HFCL.NS": {
+        "Open": 83.41999816894531
+      },
+      "HAPPSTMNDS.NS": {
+        "Open": 638.0999755859375
+      },
+      "HATHWAY.NS": {
+        "Open": 15.970000267028809
+      },
+      "HAVELLS.NS": {
+        "Open": 1532.699951171875
+      },
+      "HCG.NS": {
+        "Open": 555.9500122070312
+      },
+      "HEIDELBERG.NS": {
+        "Open": 212.8000030517578
+      },
+      "HEMIPROP.NS": {
+        "Open": 136.00999450683594
+      },
+      "HERITGFOOD.NS": {
+        "Open": 498.75
+      },
+      "HEROMOTOCO.NS": {
+        "Open": 4297.10009765625
+      },
+      "HIKAL.NS": {
+        "Open": 344.54998779296875
+      },
+      "HSCL.NS": {
+        "Open": 494.0
+      },
+      "HINDALCO.NS": {
+        "Open": 688.75
+      },
+      "HAL.NS": {
+        "Open": 5013.0
+      },
+      "HCC.NS": {
+        "Open": 29.649999618530273
+      },
+      "HINDCOPPER.NS": {
+        "Open": 279.70001220703125
+      },
+      "HINDPETRO.NS": {
+        "Open": 453.1499938964844
+      },
+      "HINDUNILVR.NS": {
+        "Open": 2405.699951171875
+      },
+      "HINDZINC.NS": {
+        "Open": 437.29998779296875
+      },
+      "POWERINDIA.NS": {
+        "Open": 19320.0
+      },
+      "HOMEFIRST.NS": {
+        "Open": 1372.5
+      },
+      "HONASA.NS": {
+        "Open": 297.1499938964844
+      },
+      "HONAUT.NS": {
+        "Open": 40800.0
+      },
+      "HUDCO.NS": {
+        "Open": 229.99000549316406
+      },
+      "HYUNDAI.NS": {
+        "Open": 2065.5
+      },
+      "ICICIBANK.NS": {
+        "Open": 1437.0
+      },
+      "ICICIGI.NS": {
+        "Open": 2035.0
+      },
+      "ICICIPRULI.NS": {
+        "Open": 663.4000244140625
+      },
+      "IDBI.NS": {
+        "Open": 99.88999938964844
+      },
+      "IDFCFIRSTB.NS": {
+        "Open": 77.98999786376953
+      },
+      "IFBIND.NS": {
+        "Open": 1509.699951171875
+      },
+      "IFCI.NS": {
+        "Open": 61.599998474121094
+      },
+      "IIFLCAPS.NS": {
+        "Open": 335.1000061035156
+      },
+      "IIFL.NS": {
+        "Open": 504.8999938964844
+      },
+      "INOXINDIA.NS": {
+        "Open": 1225.0
+      },
+      "IRB.NS": {
+        "Open": 49.59000015258789
+      },
+      "IRCON.NS": {
+        "Open": 194.99000549316406
+      },
+      "ITC.NS": {
+        "Open": 416.54998779296875
+      },
+      "ITDCEM.NS": {
+        "Open": 858.2999877929688
+      },
+      "ITI.NS": {
+        "Open": 318.95001220703125
+      },
+      "IMAGICAA.NS": {
+        "Open": 66.30999755859375
+      },
+      "INDGN.NS": {
+        "Open": 562.3499755859375
+      },
+      "INDIACEM.NS": {
+        "Open": 349.0
+      },
+      "INDIAGLYCO.NS": {
+        "Open": 2031.0
+      },
+      "INDIASHLTR.NS": {
+        "Open": 888.0
+      },
+      "INDIAMART.NS": {
+        "Open": 2563.0
+      },
+      "INDIANB.NS": {
+        "Open": 638.5499877929688
+      },
+      "IEX.NS": {
+        "Open": 201.39999389648438
+      },
+      "INDHOTEL.NS": {
+        "Open": 740.0999755859375
+      },
+      "IMFA.NS": {
+        "Open": 787.9500122070312
+      },
+      "IOC.NS": {
+        "Open": 153.6300048828125
+      },
+      "IOB.NS": {
+        "Open": 39.349998474121094
+      },
+      "IRCTC.NS": {
+        "Open": 787.0
+      },
+      "IRFC.NS": {
+        "Open": 138.49000549316406
+      },
+      "IREDA.NS": {
+        "Open": 167.1999969482422
+      },
+      "INDIGOPNTS.NS": {
+        "Open": 1206.300048828125
+      },
+      "ICIL.NS": {
+        "Open": 292.0
+      },
+      "IGL.NS": {
+        "Open": 228.4499969482422
+      },
+      "INDUSTOWER.NS": {
+        "Open": 407.79998779296875
+      },
+      "INDUSINDBK.NS": {
+        "Open": 852.5499877929688
+      },
+      "INFIBEAM.NS": {
+        "Open": 16.18000030517578
+      },
+      "NAUKRI.NS": {
+        "Open": 1458.699951171875
+      },
+      "INFY.NS": {
+        "Open": 1636.0999755859375
+      },
+      "INGERRAND.NS": {
+        "Open": 4069.89990234375
+      },
+      "INNOVACAP.NS": {
+        "Open": 865.0
+      },
+      "INOXGREEN.NS": {
+        "Open": 153.16000366210938
+      },
+      "INOXWIND.NS": {
+        "Open": 177.10000610351562
+      },
+      "INTELLECT.NS": {
+        "Open": 1168.9000244140625
+      },
+      "INDIGO.NS": {
+        "Open": 5814.0
+      },
+      "IGIL.NS": {
+        "Open": 390.0
+      },
+      "IKS.NS": {
+        "Open": 1606.0
+      },
+      "IONEXCHANG.NS": {
+        "Open": 543.5499877929688
+      },
+      "IPCALAB.NS": {
+        "Open": 1458.0
+      },
+      "ISGEC.NS": {
+        "Open": 1210.199951171875
+      },
+      "JBCHEPHARM.NS": {
+        "Open": 1622.0
+      },
+      "JKCEMENT.NS": {
+        "Open": 6270.0
+      },
+      "JKIL.NS": {
+        "Open": 709.5499877929688
+      },
+      "JBMA.NS": {
+        "Open": 639.0
+      },
+      "JKLAKSHMI.NS": {
+        "Open": 979.0
+      },
+      "JKPAPER.NS": {
+        "Open": 403.5
+      },
+      "JKTYRE.NS": {
+        "Open": 372.54998779296875
+      },
+      "JMFINANCIL.NS": {
+        "Open": 171.07000732421875
+      },
+      "JSWENERGY.NS": {
+        "Open": 515.0499877929688
+      },
+      "JSWHL.NS": {
+        "Open": 21800.0
+      },
+      "JSWINFRA.NS": {
+        "Open": 311.75
+      },
+      "JSWSTEEL.NS": {
+        "Open": 1047.5999755859375
+      },
+      "JTLIND.NS": {
+        "Open": 80.5999984741211
+      },
+      "JAIBALAJI.NS": {
+        "Open": 125.22000122070312
+      },
+      "JAICORPLTD.NS": {
+        "Open": 114.0
+      },
+      "JISLJALEQS.NS": {
+        "Open": 55.959999084472656
+      },
+      "JPPOWER.NS": {
+        "Open": 22.399999618530273
+      },
+      "J&KBANK.NS": {
+        "Open": 112.69999694824219
+      },
+      "JAMNAAUTO.NS": {
+        "Open": 93.5999984741211
+      },
+      "JSFB.NS": {
+        "Open": 492.29998779296875
+      },
+      "JINDALSAW.NS": {
+        "Open": 228.60000610351562
+      },
+      "JSL.NS": {
+        "Open": 683.6500244140625
+      },
+      "JINDALSTEL.NS": {
+        "Open": 948.0499877929688
+      },
+      "JINDWORLD.NS": {
+        "Open": 47.84000015258789
+      },
+      "JIOFIN.NS": {
+        "Open": 328.95001220703125
+      },
+      "JCHAC.NS": {
+        "Open": 1792.5
+      },
+      "JUBLFOOD.NS": {
+        "Open": 689.9000244140625
+      },
+      "JUBLINGREA.NS": {
+        "Open": 815.0999755859375
+      },
+      "JUBLPHARMA.NS": {
+        "Open": 1162.199951171875
+      },
+      "JWL.NS": {
+        "Open": 374.1000061035156
+      },
+      "JUSTDIAL.NS": {
+        "Open": 915.2999877929688
+      },
+      "JYOTHYLAB.NS": {
+        "Open": 358.1000061035156
+      },
+      "JYOTICNC.NS": {
+        "Open": 1033.699951171875
+      },
+      "KPRMILL.NS": {
+        "Open": 1204.9000244140625
+      },
+      "KEI.NS": {
+        "Open": 3750.699951171875
+      },
+      "KNRCON.NS": {
+        "Open": 219.47000122070312
+      },
+      "KPIGREEN.NS": {
+        "Open": 510.0
+      },
+      "KPITTECH.NS": {
+        "Open": 1268.5999755859375
+      },
+      "KRBL.NS": {
+        "Open": 397.45001220703125
+      },
+      "KSB.NS": {
+        "Open": 820.2000122070312
+      },
+      "KAJARIACER.NS": {
+        "Open": 1160.5
+      },
+      "KPIL.NS": {
+        "Open": 1190.199951171875
+      },
+      "KALYANKJIL.NS": {
+        "Open": 574.4000244140625
+      },
+      "KSL.NS": {
+        "Open": 955.9500122070312
+      },
+      "KANSAINER.NS": {
+        "Open": 250.25
+      },
+      "KTKBANK.NS": {
+        "Open": 193.38999938964844
+      },
+      "KARURVYSYA.NS": {
+        "Open": 270.95001220703125
+      },
+      "KSCL.NS": {
+        "Open": 1214.9000244140625
+      },
+      "KAYNES.NS": {
+        "Open": 6096.5
+      },
+      "KEC.NS": {
+        "Open": 883.25
+      },
+      "KFINTECH.NS": {
+        "Open": 1266.4000244140625
+      },
+      "KIRLOSBROS.NS": {
+        "Open": 2209.5
+      },
+      "KIRLOSENG.NS": {
+        "Open": 838.2000122070312
+      },
+      "KIRLPNU.NS": {
+        "Open": 1419.0
+      },
+      "KOTAKBANK.NS": {
+        "Open": 2219.699951171875
+      },
+      "KIMS.NS": {
+        "Open": 704.7999877929688
+      },
+      "LTF.NS": {
+        "Open": 208.1300048828125
+      },
+      "LTTS.NS": {
+        "Open": 4341.0
+      },
+      "LICHSGFIN.NS": {
+        "Open": 606.0
+      },
+      "LMW.NS": {
+        "Open": 16665.0
+      },
+      "LTFOODS.NS": {
+        "Open": 482.25
+      },
+      "LTIM.NS": {
+        "Open": 5374.0
+      },
+      "LT.NS": {
+        "Open": 3594.89990234375
+      },
+      "LATENTVIEW.NS": {
+        "Open": 446.0
+      },
+      "LAURUSLABS.NS": {
+        "Open": 780.3499755859375
+      },
+      "LXCHEM.NS": {
+        "Open": 194.0
+      },
+      "IXIGO.NS": {
+        "Open": 171.61000061035156
+      },
+      "LEMONTREE.NS": {
+        "Open": 146.0
+      },
+      "LICI.NS": {
+        "Open": 947.8499755859375
+      },
+      "LINDEINDIA.NS": {
+        "Open": 6892.5
+      },
+      "LLOYDSENGG.NS": {
+        "Open": 78.23999786376953
+      },
+      "LLOYDSENT.NS": {
+        "Open": 88.5999984741211
+      },
+      "LLOYDSME.NS": {
+        "Open": 1487.199951171875
+      },
+      "LUPIN.NS": {
+        "Open": 1940.699951171875
+      },
+      "LUXIND.NS": {
+        "Open": 1498.9000244140625
+      },
+      "MMTC.NS": {
+        "Open": 69.63999938964844
+      },
+      "MOIL.NS": {
+        "Open": 372.5
+      },
+      "MRF.NS": {
+        "Open": 144940.0
+      },
+      "MSTCLTD.NS": {
+        "Open": 540.9000244140625
+      },
+      "MTARTECH.NS": {
+        "Open": 1582.0
+      },
+      "LODHA.NS": {
+        "Open": 1370.4000244140625
+      },
+      "MGL.NS": {
+        "Open": 1504.4000244140625
+      },
+      "MAHSCOOTER.NS": {
+        "Open": 14270.0
+      },
+      "MAHSEAMLES.NS": {
+        "Open": 719.9500122070312
+      },
+      "M&MFIN.NS": {
+        "Open": 270.25
+      },
+      "M&M.NS": {
+        "Open": 3153.39990234375
+      },
+      "MAHLIFE.NS": {
+        "Open": 364.6000061035156
+      },
+      "MANINFRA.NS": {
+        "Open": 187.0
+      },
+      "MANAPPURAM.NS": {
+        "Open": 269.45001220703125
+      },
+      "MRPL.NS": {
+        "Open": 145.25
+      },
+      "MANKIND.NS": {
+        "Open": 2418.199951171875
+      },
+      "MARICO.NS": {
+        "Open": 731.5499877929688
+      },
+      "MARKSANS.NS": {
+        "Open": 254.1999969482422
+      },
+      "MARUTI.NS": {
+        "Open": 12465.0
+      },
+      "MASTEK.NS": {
+        "Open": 2564.0
+      },
+      "MAXESTATES.NS": {
+        "Open": 497.0
+      },
+      "MFSL.NS": {
+        "Open": 1567.0999755859375
+      },
+      "MAXHEALTH.NS": {
+        "Open": 1295.0
+      },
+      "MAZDOCK.NS": {
+        "Open": 3294.0
+      },
+      "MEDPLUS.NS": {
+        "Open": 855.0499877929688
+      },
+      "METROPOLIS.NS": {
+        "Open": 1870.0999755859375
+      },
+      "MINDACORP.NS": {
+        "Open": 516.9500122070312
+      },
+      "MIDHANI.NS": {
+        "Open": 423.5
+      },
+      "MSUMI.NS": {
+        "Open": 64.87000274658203
+      },
+      "MOTILALOFS.NS": {
+        "Open": 921.8499755859375
+      },
+      "MPHASIS.NS": {
+        "Open": 2857.699951171875
+      },
+      "BECTORFOOD.NS": {
+        "Open": 1430.0999755859375
+      },
+      "MCX.NS": {
+        "Open": 8516.0
+      },
+      "MUTHOOTFIN.NS": {
+        "Open": 2650.0
+      },
+      "NATCOPHARM.NS": {
+        "Open": 977.9500122070312
+      },
+      "NBCC.NS": {
+        "Open": 116.1500015258789
+      },
+      "NCC.NS": {
+        "Open": 224.24000549316406
+      },
+      "NEOGEN.NS": {
+        "Open": 1587.199951171875
+      },
+      "NESCO.NS": {
+        "Open": 1190.0
+      },
+      "NHPC.NS": {
+        "Open": 88.4000015258789
+      },
+      "NLCINDIA.NS": {
+        "Open": 226.6300048828125
+      },
+      "NMDC.NS": {
+        "Open": 68.43000030517578
+      },
+      "NSLNISP.NS": {
+        "Open": 39.900001525878906
+      },
+      "NOCIL.NS": {
+        "Open": 193.5
+      },
+      "NTPCGREEN.NS": {
+        "Open": 106.9000015258789
+      },
+      "NTPC.NS": {
+        "Open": 343.75
+      },
+      "NH.NS": {
+        "Open": 1975.0
+      },
+      "NATIONALUM.NS": {
+        "Open": 189.33999633789062
+      },
+      "NFL.NS": {
+        "Open": 98.87000274658203
+      },
+      "NAVA.NS": {
+        "Open": 591.9000244140625
+      },
+      "NAVINFLUOR.NS": {
+        "Open": 4970.7998046875
+      },
+      "NAZARA.NS": {
+        "Open": 1368.5999755859375
+      },
+      "NESTLEIND.NS": {
+        "Open": 2420.0
+      },
+      "NETWEB.NS": {
+        "Open": 1808.9000244140625
+      },
+      "NETWORK18.NS": {
+        "Open": 56.18000030517578
+      },
+      "NEULANDLAB.NS": {
+        "Open": 11705.0
+      },
+      "NEWGEN.NS": {
+        "Open": 1136.4000244140625
+      },
+      "NAM-INDIA.NS": {
+        "Open": 792.0
+      },
+      "NIVABUPA.NS": {
+        "Open": 84.0999984741211
+      },
+      "NUVAMA.NS": {
+        "Open": 7471.0
+      },
+      "NUVOCO.NS": {
+        "Open": 358.8999938964844
+      },
+      "OBEROIRLTY.NS": {
+        "Open": 1859.199951171875
+      },
+      "ONGC.NS": {
+        "Open": 243.3800048828125
+      },
+      "OIL.NS": {
+        "Open": 444.20001220703125
+      },
+      "OLAELEC.NS": {
+        "Open": 41.2400016784668
+      },
+      "OLECTRA.NS": {
+        "Open": 1222.5999755859375
+      },
+      "PAYTM.NS": {
+        "Open": 912.4500122070312
+      },
+      "OPTIEMUS.NS": {
+        "Open": 613.1500244140625
+      },
+      "OFSS.NS": {
+        "Open": 9028.0
+      },
+      "ORCHPHARMA.NS": {
+        "Open": 735.9000244140625
+      },
+      "ORIENTCEM.NS": {
+        "Open": 234.86000061035156
+      },
+      "ORISSAMINE.NS": {
+        "Open": 4700.0
+      },
+      "PNGJL.NS": {
+        "Open": 609.0499877929688
+      },
+      "POLICYBZR.NS": {
+        "Open": 1855.0
+      },
+      "PCJEWELLER.NS": {
+        "Open": 18.030000686645508
+      },
+      "PCBL.NS": {
+        "Open": 405.3500061035156
+      },
+      "PGEL.NS": {
+        "Open": 740.5499877929688
+      },
+      "PIIND.NS": {
+        "Open": 4130.5
+      },
+      "PNBHOUSING.NS": {
+        "Open": 1089.0
+      },
+      "PNCINFRA.NS": {
+        "Open": 303.70001220703125
+      },
+      "PTC.NS": {
+        "Open": 183.0500030517578
+      },
+      "PTCIL.NS": {
+        "Open": 14891.0
+      },
+      "PVRINOX.NS": {
+        "Open": 971.5
+      },
+      "PAGEIND.NS": {
+        "Open": 49100.0
+      },
+      "PAISALO.NS": {
+        "Open": 30.579999923706055
+      },
+      "PARADEEP.NS": {
+        "Open": 160.22000122070312
+      },
+      "PARAS.NS": {
+        "Open": 859.9000244140625
+      },
+      "PATANJALI.NS": {
+        "Open": 1637.800048828125
+      },
+      "PATELENG.NS": {
+        "Open": 40.63999938964844
+      },
+      "PGIL.NS": {
+        "Open": 1499.4000244140625
+      },
+      "PERSISTENT.NS": {
+        "Open": 5791.0
+      },
+      "PETRONET.NS": {
+        "Open": 307.8500061035156
+      },
+      "PFIZER.NS": {
+        "Open": 5688.0
+      },
+      "PHOENIXLTD.NS": {
+        "Open": 1561.300048828125
+      },
+      "PIDILITIND.NS": {
+        "Open": 3049.0
+      },
+      "PEL.NS": {
+        "Open": 1160.5
+      },
+      "PPLPHARMA.NS": {
+        "Open": 200.5
+      },
+      "POLYMED.NS": {
+        "Open": 2210.10009765625
+      },
+      "POLYCAB.NS": {
+        "Open": 6751.5
+      },
+      "POLYPLEX.NS": {
+        "Open": 1174.800048828125
+      },
+      "POONAWALLA.NS": {
+        "Open": 471.8999938964844
+      },
+      "PFC.NS": {
+        "Open": 420.6000061035156
+      },
+      "POWERGRID.NS": {
+        "Open": 298.3500061035156
+      },
+      "POWERMECH.NS": {
+        "Open": 3265.199951171875
+      },
+      "PRAJIND.NS": {
+        "Open": 499.0
+      },
+      "PREMIERENE.NS": {
+        "Open": 1056.800048828125
+      },
+      "PRESTIGE.NS": {
+        "Open": 1657.300048828125
+      },
+      "PRICOLLTD.NS": {
+        "Open": 457.6000061035156
+      },
+      "PRINCEPIPE.NS": {
+        "Open": 364.70001220703125
+      },
+      "PRSMJOHNSN.NS": {
+        "Open": 157.39999389648438
+      },
+      "PRUDENT.NS": {
+        "Open": 2664.89990234375
+      },
+      "PNB.NS": {
+        "Open": 111.75
+      },
+      "RRKABEL.NS": {
+        "Open": 1351.0
+      },
+      "RBLBANK.NS": {
+        "Open": 250.0
+      },
+      "RECLTD.NS": {
+        "Open": 395.79998779296875
+      },
+      "RHIM.NS": {
+        "Open": 468.1499938964844
+      },
+      "RITES.NS": {
+        "Open": 281.04998779296875
+      },
+      "RADICO.NS": {
+        "Open": 2640.0
+      },
+      "RVNL.NS": {
+        "Open": 388.29998779296875
+      },
+      "RAILTEL.NS": {
+        "Open": 413.45001220703125
+      },
+      "RAIN.NS": {
+        "Open": 146.3000030517578
+      },
+      "RAINBOW.NS": {
+        "Open": 1536.5
+      },
+      "RAJESHEXPO.NS": {
+        "Open": 202.11000061035156
+      },
+      "RALLIS.NS": {
+        "Open": 315.70001220703125
+      },
+      "RKFORGE.NS": {
+        "Open": 653.0
+      },
+      "RCF.NS": {
+        "Open": 153.97999572753906
+      },
+      "RATEGAIN.NS": {
+        "Open": 469.3999938964844
+      },
+      "RTNINDIA.NS": {
+        "Open": 64.88999938964844
+      },
+      "RTNPOWER.NS": {
+        "Open": 15.9399995803833
+      },
+      "RAYMONDLSL.NS": {
+        "Open": 1326.0999755859375
+      },
+      "RAYMOND.NS": {
+        "Open": 710.7000122070312
+      },
+      "REDINGTON.NS": {
+        "Open": 308.8500061035156
+      },
+      "REDTAPE.NS": {
+        "Open": 136.9499969482422
+      },
+      "REFEX.NS": {
+        "Open": 455.5
+      },
+      "RELIANCE.NS": {
+        "Open": 1535.699951171875
+      },
+      "RELINFRA.NS": {
+        "Open": 373.3999938964844
+      },
+      "RPOWER.NS": {
+        "Open": 65.0999984741211
+      },
+      "RELIGARE.NS": {
+        "Open": 232.52000427246094
+      },
+      "RESPONIND.NS": {
+        "Open": 242.8300018310547
+      },
+      "RBA.NS": {
+        "Open": 81.69000244140625
+      },
+      "ROSSARI.NS": {
+        "Open": 679.0
+      },
+      "ROUTE.NS": {
+        "Open": 1005.9000244140625
+      },
+      "SBFC.NS": {
+        "Open": 111.0
+      },
+      "SBICARD.NS": {
+        "Open": 923.2999877929688
+      },
+      "SBILIFE.NS": {
+        "Open": 1816.9000244140625
+      },
+      "SJVN.NS": {
+        "Open": 99.23999786376953
+      },
+      "SKFINDIA.NS": {
+        "Open": 4958.10009765625
+      },
+      "SRF.NS": {
+        "Open": 3283.89990234375
+      },
+      "SAFARI.NS": {
+        "Open": 2228.89990234375
+      },
+      "SAGILITY.NS": {
+        "Open": 41.650001525878906
+      },
+      "SAILIFE.NS": {
+        "Open": 788.0
+      },
+      "SAMHI.NS": {
+        "Open": 222.60000610351562
+      },
+      "SAMMAANCAP.NS": {
+        "Open": 125.0999984741211
+      },
+      "MOTHERSON.NS": {
+        "Open": 154.0800018310547
+      },
+      "SANOFICONR.NS": {
+        "Open": 5169.0
+      },
+      "SANOFI.NS": {
+        "Open": 6005.0
+      },
+      "SANSERA.NS": {
+        "Open": 1410.0
+      },
+      "SAPPHIRE.NS": {
+        "Open": 337.0
+      },
+      "SARDAEN.NS": {
+        "Open": 425.5
+      },
+      "SAREGAMA.NS": {
+        "Open": 491.5
+      },
+      "SCHAEFFLER.NS": {
+        "Open": 4220.0
+      },
+      "SCHNEIDER.NS": {
+        "Open": 823.0
+      },
+      "SENCO.NS": {
+        "Open": 349.45001220703125
+      },
+      "SEQUENT.NS": {
+        "Open": 185.49000549316406
+      },
+      "SHAILY.NS": {
+        "Open": 1597.5999755859375
+      },
+      "SHAKTIPUMP.NS": {
+        "Open": 921.0499877929688
+      },
+      "SHARDACROP.NS": {
+        "Open": 835.0
+      },
+      "SHAREINDIA.NS": {
+        "Open": 175.89999389648438
+      },
+      "SFL.NS": {
+        "Open": 690.75
+      },
+      "SHILPAMED.NS": {
+        "Open": 859.4500122070312
+      },
+      "SCI.NS": {
+        "Open": 226.3000030517578
+      },
+      "SBCL.NS": {
+        "Open": 565.0
+      },
+      "SHOPERSTOP.NS": {
+        "Open": 504.0
+      },
+      "SHREECEM.NS": {
+        "Open": 31260.0
+      },
+      "RENUKA.NS": {
+        "Open": 33.2599983215332
+      },
+      "SHRIRAMFIN.NS": {
+        "Open": 671.9000244140625
+      },
+      "SHRIPISTON.NS": {
+        "Open": 2455.0
+      },
+      "SHYAMMETL.NS": {
+        "Open": 867.0999755859375
+      },
+      "SIEMENS.NS": {
+        "Open": 3303.0
+      },
+      "SIGNATURE.NS": {
+        "Open": 1248.5999755859375
+      },
+      "SKIPPER.NS": {
+        "Open": 481.70001220703125
+      },
+      "SOBHA.NS": {
+        "Open": 1523.0
+      },
+      "SOLARINDS.NS": {
+        "Open": 16512.0
+      },
+      "SONACOMS.NS": {
+        "Open": 463.1000061035156
+      },
+      "SONATSOFTW.NS": {
+        "Open": 439.1000061035156
+      },
+      "SOUTHBANK.NS": {
+        "Open": 30.100000381469727
+      },
+      "SPANDANA.NS": {
+        "Open": 280.45001220703125
+      },
+      "STARCEMENT.NS": {
+        "Open": 214.0
+      },
+      "STARHEALTH.NS": {
+        "Open": 427.25
+      },
+      "SBIN.NS": {
+        "Open": 809.75
+      },
+      "SAIL.NS": {
+        "Open": 134.97999572753906
+      },
+      "SWSOLAR.NS": {
+        "Open": 308.0
+      },
+      "STLTECH.NS": {
+        "Open": 112.36000061035156
+      },
+      "STAR.NS": {
+        "Open": 865.9500122070312
+      },
+      "STYLAMIND.NS": {
+        "Open": 1631.699951171875
+      },
+      "SUBROS.NS": {
+        "Open": 936.4000244140625
+      },
+      "SUDARSCHEM.NS": {
+        "Open": 1227.300048828125
+      },
+      "SULA.NS": {
+        "Open": 303.04998779296875
+      },
+      "SUMICHEM.NS": {
+        "Open": 548.0
+      },
+      "SPARC.NS": {
+        "Open": 156.0
+      },
+      "SUNPHARMA.NS": {
+        "Open": 1657.300048828125
+      },
+      "SUNTV.NS": {
+        "Open": 584.4500122070312
+      },
+      "SUNDARMFIN.NS": {
+        "Open": 5134.0
+      },
+      "SUNDRMFAST.NS": {
+        "Open": 1039.5999755859375
+      },
+      "SUNFLAG.NS": {
+        "Open": 302.8999938964844
+      },
+      "SUNTECK.NS": {
+        "Open": 439.8500061035156
+      },
+      "SUPRAJIT.NS": {
+        "Open": 460.1000061035156
+      },
+      "SUPREMEIND.NS": {
+        "Open": 4210.60009765625
+      },
+      "SUPRIYA.NS": {
+        "Open": 711.7999877929688
+      },
+      "SURYAROSNI.NS": {
+        "Open": 335.3999938964844
+      },
+      "SUZLON.NS": {
+        "Open": 66.4000015258789
+      },
+      "SWANENERGY.NS": {
+        "Open": 441.70001220703125
+      },
+      "SWIGGY.NS": {
+        "Open": 380.5
+      },
+      "SYMPHONY.NS": {
+        "Open": 1158.4000244140625
+      },
+      "SYNGENE.NS": {
+        "Open": 635.5
+      },
+      "SYRMA.NS": {
+        "Open": 629.5999755859375
+      },
+      "TARC.NS": {
+        "Open": 188.64999389648438
+      },
+      "TBOTEK.NS": {
+        "Open": 1370.0999755859375
+      },
+      "TDPOWERSYS.NS": {
+        "Open": 478.5
+      },
+      "TVSMOTOR.NS": {
+        "Open": 2814.800048828125
+      },
+      "TVSSCS.NS": {
+        "Open": 131.14999389648438
+      },
+      "TANLA.NS": {
+        "Open": 637.2000122070312
+      },
+      "TATACHEM.NS": {
+        "Open": 925.8499755859375
+      },
+      "TATACOMM.NS": {
+        "Open": 1763.699951171875
+      },
+      "TCS.NS": {
+        "Open": 3406.300048828125
+      },
+      "TATACONSUM.NS": {
+        "Open": 1102.0
+      },
+      "TATAELXSI.NS": {
+        "Open": 6171.0
+      },
+      "TATAINVEST.NS": {
+        "Open": 6711.0
+      },
+      "TATAMOTORS.NS": {
+        "Open": 689.5499877929688
+      },
+      "TATAPOWER.NS": {
+        "Open": 401.6000061035156
+      },
+      "TATASTEEL.NS": {
+        "Open": 161.8300018310547
+      },
+      "TATATECH.NS": {
+        "Open": 703.0
+      },
+      "TTML.NS": {
+        "Open": 65.5
+      },
+      "TEAMLEASE.NS": {
+        "Open": 1993.5
+      },
+      "TECHM.NS": {
+        "Open": 1635.0
+      },
+      "TECHNOE.NS": {
+        "Open": 1612.0
+      },
+      "TIIL.NS": {
+        "Open": 3272.10009765625
+      },
+      "TEGA.NS": {
+        "Open": 1720.800048828125
+      },
+      "TEJASNET.NS": {
+        "Open": 701.2999877929688
+      },
+      "TEXRAIL.NS": {
+        "Open": 168.10000610351562
+      },
+      "THANGAMAYL.NS": {
+        "Open": 1905.0
+      },
+      "ANUP.NS": {
+        "Open": 2840.10009765625
+      },
+      "NIACL.NS": {
+        "Open": 188.0
+      },
+      "RAMCOCEM.NS": {
+        "Open": 1104.800048828125
+      },
+      "THERMAX.NS": {
+        "Open": 3432.60009765625
+      },
+      "TIRUMALCHM.NS": {
+        "Open": 289.5
+      },
+      "THOMASCOOK.NS": {
+        "Open": 165.10000610351562
+      },
+      "TI.NS": {
+        "Open": 349.0
+      },
+      "TIMETECHNO.NS": {
+        "Open": 436.8999938964844
+      },
+      "TIMKEN.NS": {
+        "Open": 3308.800048828125
+      },
+      "TIPSMUSIC.NS": {
+        "Open": 650.2999877929688
+      },
+      "TITAGARH.NS": {
+        "Open": 945.4500122070312
+      },
+      "TITAN.NS": {
+        "Open": 3444.89990234375
+      },
+      "TORNTPHARM.NS": {
+        "Open": 3313.199951171875
+      },
+      "TORNTPOWER.NS": {
+        "Open": 1430.0
+      },
+      "TARIL.NS": {
+        "Open": 489.95001220703125
+      },
+      "TRANSRAILL.NS": {
+        "Open": 763.7999877929688
+      },
+      "TRENT.NS": {
+        "Open": 5450.0
+      },
+      "TRIDENT.NS": {
+        "Open": 32.45000076293945
+      },
+      "TRIVENI.NS": {
+        "Open": 371.95001220703125
+      },
+      "TRITURBINE.NS": {
+        "Open": 640.0499877929688
+      },
+      "TIINDIA.NS": {
+        "Open": 2932.39990234375
+      },
+      "UCOBANK.NS": {
+        "Open": 31.850000381469727
+      },
+      "UNOMINDA.NS": {
+        "Open": 1108.699951171875
+      },
+      "UPL.NS": {
+        "Open": 672.1500244140625
+      },
+      "UTIAMC.NS": {
+        "Open": 1349.4000244140625
+      },
+      "UJJIVANSFB.NS": {
+        "Open": 47.130001068115234
+      },
+      "ULTRACEMCO.NS": {
+        "Open": 12405.0
+      },
+      "UNIMECH.NS": {
+        "Open": 1309.9000244140625
+      },
+      "UNIONBANK.NS": {
+        "Open": 145.97999572753906
+      },
+      "UBL.NS": {
+        "Open": 1980.4000244140625
+      },
+      "UNITDSPR.NS": {
+        "Open": 1366.199951171875
+      },
+      "USHAMART.NS": {
+        "Open": 372.0
+      },
+      "VGUARD.NS": {
+        "Open": 396.54998779296875
+      },
+      "VMART.NS": {
+        "Open": 786.0499877929688
+      },
+      "VIPIND.NS": {
+        "Open": 420.6499938964844
+      },
+      "VSTIND.NS": {
+        "Open": 285.25
+      },
+      "WABAG.NS": {
+        "Open": 1492.9000244140625
+      },
+      "VAIBHAVGBL.NS": {
+        "Open": 235.50999450683594
+      },
+      "DBREALTY.NS": {
+        "Open": 251.6999969482422
+      },
+      "VTL.NS": {
+        "Open": 500.29998779296875
+      },
+      "VARROC.NS": {
+        "Open": 553.25
+      },
+      "VBL.NS": {
+        "Open": 465.0
+      },
+      "MANYAVAR.NS": {
+        "Open": 812.8499755859375
+      },
+      "VEDL.NS": {
+        "Open": 459.25
+      },
+      "VENTIVE.NS": {
+        "Open": 791.2999877929688
+      },
+      "VENUSPIPES.NS": {
+        "Open": 1594.800048828125
+      },
+      "VESUVIUS.NS": {
+        "Open": 530.0
+      },
+      "VIJAYA.NS": {
+        "Open": 1008.9500122070312
+      },
+      "VMM.NS": {
+        "Open": 130.3000030517578
+      },
+      "IDEA.NS": {
+        "Open": 7.369999885559082
+      },
+      "VOLTAMP.NS": {
+        "Open": 9463.0
+      },
+      "VOLTAS.NS": {
+        "Open": 1367.9000244140625
+      },
+      "WAAREEENER.NS": {
+        "Open": 3055.0
+      },
+      "WEBELSOLAR.NS": {
+        "Open": 1300.0
+      },
+      "WELCORP.NS": {
+        "Open": 924.0
+      },
+      "WELENT.NS": {
+        "Open": 530.6500244140625
+      },
+      "WELSPUNLIV.NS": {
+        "Open": 143.86000061035156
+      },
+      "WESTLIFE.NS": {
+        "Open": 787.8499755859375
+      },
+      "WHIRLPOOL.NS": {
+        "Open": 1336.9000244140625
+      },
+      "WIPRO.NS": {
+        "Open": 266.45001220703125
+      },
+      "WOCKPHARMA.NS": {
+        "Open": 1660.4000244140625
+      },
+      "WONDERLA.NS": {
+        "Open": 640.1500244140625
+      },
+      "YATHARTH.NS": {
+        "Open": 625.2999877929688
+      },
+      "YESBANK.NS": {
+        "Open": 20.030000686645508
+      },
+      "ZFCVINDIA.NS": {
+        "Open": 13200.0
+      },
+      "ZAGGLE.NS": {
+        "Open": 416.6000061035156
+      },
+      "ZEEL.NS": {
+        "Open": 145.16000366210938
+      },
+      "ZENTEC.NS": {
+        "Open": 1963.5
+      },
+      "ZENSARTECH.NS": {
+        "Open": 844.4000244140625
+      },
+      "BLACKBUCK.NS": {
+        "Open": 438.0
+      },
+      "ZYDUSLIFE.NS": {
+        "Open": 975.0
+      },
+      "ZYDUSWELL.NS": {
+        "Open": 1989.300048828125
+      },
+      "ECLERX.NS": {
+        "Open": 3387.199951171875
+      },
+      "EMUDHRA.NS": {
+        "Open": 765.2000122070312
+      }
+    }
+  },
+  "2025-07-10": {
+    "1d": {
+      "360ONE.NS": {
+        "Open": 1194.5999755859375
+      },
+      "3MINDIA.NS": {
+        "Open": 29595.0
+      },
+      "ABB.NS": {
+        "Open": 5910.0
+      },
+      "ACC.NS": {
+        "Open": 1999.9000244140625
+      },
+      "ACMESOLAR.NS": {
+        "Open": 264.260009765625
+      },
+      "AGI.NS": {
+        "Open": 778.5
+      },
+      "AIAENG.NS": {
+        "Open": 3450.10009765625
+      },
+      "APLAPOLLO.NS": {
+        "Open": 1714.9000244140625
+      },
+      "ASKAUTOLTD.NS": {
+        "Open": 528.7999877929688
+      },
+      "AUBANK.NS": {
+        "Open": 825.5499877929688
+      },
+      "AWL.NS": {
+        "Open": 263.04998779296875
+      },
+      "AADHARHFC.NS": {
+        "Open": 458.5
+      },
+      "AARTIDRUGS.NS": {
+        "Open": 478.8500061035156
+      },
+      "AARTIIND.NS": {
+        "Open": 458.75
+      },
+      "AARTIPHARM.NS": {
+        "Open": 919.8499755859375
+      },
+      "AAVAS.NS": {
+        "Open": 1971.0
+      },
+      "ABBOTINDIA.NS": {
+        "Open": 34390.0
+      },
+      "ACE.NS": {
+        "Open": 1211.0
+      },
+      "ACUTAAS.NS": {
+        "Open": 1123.0999755859375
+      },
+      "ADANIENSOL.NS": {
+        "Open": 892.2000122070312
+      },
+      "ADANIENT.NS": {
+        "Open": 2586.300048828125
+      },
+      "ADANIGREEN.NS": {
+        "Open": 996.5
+      },
+      "ADANIPORTS.NS": {
+        "Open": 1445.0
+      },
+      "ADANIPOWER.NS": {
+        "Open": 605.4000244140625
+      },
+      "ATGL.NS": {
+        "Open": 652.9500122070312
+      },
+      "ABCAPITAL.NS": {
+        "Open": 275.5
+      },
+      "ABFRL.NS": {
+        "Open": 79.02999877929688
+      },
+      "ABREL.NS": {
+        "Open": 2232.0
+      },
+      "ABSLAMC.NS": {
+        "Open": 819.9000244140625
+      },
+      "AVL.NS": {
+        "Open": 361.8500061035156
+      },
+      "ADVENZYMES.NS": {
+        "Open": 328.04998779296875
+      },
+      "AEGISLOG.NS": {
+        "Open": 745.8499755859375
+      },
+      "AETHER.NS": {
+        "Open": 779.9000244140625
+      },
+      "AFCONS.NS": {
+        "Open": 425.0
+      },
+      "AFFLE.NS": {
+        "Open": 1994.9000244140625
+      },
+      "AHLUCONT.NS": {
+        "Open": 1003.4000244140625
+      },
+      "AJANTPHARM.NS": {
+        "Open": 2637.89990234375
+      },
+      "AKUMS.NS": {
+        "Open": 561.75
+      },
+      "AKZOINDIA.NS": {
+        "Open": 3641.10009765625
+      },
+      "APLLTD.NS": {
+        "Open": 985.2000122070312
+      },
+      "ALIVUS.NS": {
+        "Open": 1009.7000122070312
+      },
+      "ALKEM.NS": {
+        "Open": 4805.39990234375
+      },
+      "ALKYLAMINE.NS": {
+        "Open": 2328.0
+      },
+      "ALLCARGO.NS": {
+        "Open": 34.18000030517578
+      },
+      "ABDL.NS": {
+        "Open": 443.25
+      },
+      "ALOKINDS.NS": {
+        "Open": 21.979999542236328
+      },
+      "ARE&M.NS": {
+        "Open": 984.0
+      },
+      "AMBER.NS": {
+        "Open": 7685.0
+      },
+      "AMBUJACEM.NS": {
+        "Open": 594.0
+      },
+      "ANANDRATHI.NS": {
+        "Open": 2118.0
+      },
+      "ANANTRAJ.NS": {
+        "Open": 550.0
+      },
+      "ANGELONE.NS": {
+        "Open": 2742.10009765625
+      },
+      "APARINDS.NS": {
+        "Open": 8874.0
+      },
+      "PARKHOTELS.NS": {
+        "Open": 166.39999389648438
+      },
+      "APOLLOHOSP.NS": {
+        "Open": 7449.0
+      },
+      "APOLLOTYRE.NS": {
+        "Open": 477.04998779296875
+      },
+      "APTUS.NS": {
+        "Open": 343.1499938964844
+      },
+      "ACI.NS": {
+        "Open": 675.1500244140625
+      },
+      "ARVINDFASN.NS": {
+        "Open": 469.20001220703125
+      },
+      "ARVIND.NS": {
+        "Open": 344.95001220703125
+      },
+      "ASAHIINDIA.NS": {
+        "Open": 812.8499755859375
+      },
+      "ASHOKLEY.NS": {
+        "Open": 253.5
+      },
+      "ASHOKA.NS": {
+        "Open": 206.14999389648438
+      },
+      "ASIANPAINT.NS": {
+        "Open": 2505.0
+      },
+      "ASTERDM.NS": {
+        "Open": 610.0
+      },
+      "ASTRAMICRO.NS": {
+        "Open": 1051.300048828125
+      },
+      "ASTRAZEN.NS": {
+        "Open": 9346.0
+      },
+      "ASTRAL.NS": {
+        "Open": 1501.199951171875
+      },
+      "ATUL.NS": {
+        "Open": 7660.0
+      },
+      "AURIONPRO.NS": {
+        "Open": 1632.0
+      },
+      "AUROPHARMA.NS": {
+        "Open": 1146.0
+      },
+      "AIIL.NS": {
+        "Open": 2695.5
+      },
+      "AVALON.NS": {
+        "Open": 857.9500122070312
+      },
+      "AVANTIFEED.NS": {
+        "Open": 723.5499877929688
+      },
+      "DMART.NS": {
+        "Open": 4199.0
+      },
+      "AWFIS.NS": {
+        "Open": 642.5
+      },
+      "AXISBANK.NS": {
+        "Open": 1170.9000244140625
+      },
+      "AZAD.NS": {
+        "Open": 1618.0
+      },
+      "BASF.NS": {
+        "Open": 5130.0
+      },
+      "BEML.NS": {
+        "Open": 4674.89990234375
+      },
+      "BLS.NS": {
+        "Open": 375.3999938964844
+      },
+      "BSE.NS": {
+        "Open": 2532.89990234375
+      },
+      "BAJAJ-AUTO.NS": {
+        "Open": 8378.0
+      },
+      "BAJFINANCE.NS": {
+        "Open": 944.9500122070312
+      },
+      "BAJAJFINSV.NS": {
+        "Open": 2026.5
+      },
+      "BAJAJHIND.NS": {
+        "Open": 28.280000686645508
+      },
+      "BAJAJHLDNG.NS": {
+        "Open": 13862.0
+      },
+      "BAJAJHFL.NS": {
+        "Open": 121.56999969482422
+      },
+      "BALAMINES.NS": {
+        "Open": 1900.0
+      },
+      "BALKRISIND.NS": {
+        "Open": 2625.5
+      },
+      "BALRAMCHIN.NS": {
+        "Open": 601.5999755859375
+      },
+      "BALUFORGE.NS": {
+        "Open": 681.9000244140625
+      },
+      "BANCOINDIA.NS": {
+        "Open": 660.0
+      },
+      "BANDHANBNK.NS": {
+        "Open": 178.83999633789062
+      },
+      "BANKBARODA.NS": {
+        "Open": 241.6199951171875
+      },
+      "BANKINDIA.NS": {
+        "Open": 116.25
+      },
+      "MAHABANK.NS": {
+        "Open": 57.2400016784668
+      },
+      "BANSALWIRE.NS": {
+        "Open": 388.0
+      },
+      "BATAINDIA.NS": {
+        "Open": 1269.5
+      },
+      "BAYERCROP.NS": {
+        "Open": 6425.0
+      },
+      "BERGEPAINT.NS": {
+        "Open": 585.5999755859375
+      },
+      "BEPL.NS": {
+        "Open": 115.2699966430664
+      },
+      "BBL.NS": {
+        "Open": 3115.0
+      },
+      "BDL.NS": {
+        "Open": 1966.300048828125
+      },
+      "BEL.NS": {
+        "Open": 418.6000061035156
+      },
+      "BHARATFORG.NS": {
+        "Open": 1262.9000244140625
+      },
+      "BHEL.NS": {
+        "Open": 262.5
+      },
+      "BPCL.NS": {
+        "Open": 351.0
+      },
+      "BHARTIARTL.NS": {
+        "Open": 2023.9000244140625
+      },
+      "BHARTIHEXA.NS": {
+        "Open": 1790.5
+      },
+      "BIKAJI.NS": {
+        "Open": 739.5
+      },
+      "BIOCON.NS": {
+        "Open": 374.79998779296875
+      },
+      "BIRLACORPN.NS": {
+        "Open": 1396.0999755859375
+      },
+      "BSOFT.NS": {
+        "Open": 430.79998779296875
+      },
+      "BLUEDART.NS": {
+        "Open": 6634.0
+      },
+      "BLUEJET.NS": {
+        "Open": 916.4000244140625
+      },
+      "BLUESTARCO.NS": {
+        "Open": 1808.0
+      },
+      "BBTC.NS": {
+        "Open": 1965.0
+      },
+      "BOMDYEING.NS": {
+        "Open": 164.6999969482422
+      },
+      "BOROLTD.NS": {
+        "Open": 341.20001220703125
+      },
+      "BORORENEW.NS": {
+        "Open": 516.4000244140625
+      },
+      "BOSCHLTD.NS": {
+        "Open": 35845.0
+      },
+      "FIRSTCRY.NS": {
+        "Open": 384.25
+      },
+      "BRIGADE.NS": {
+        "Open": 1078.0
+      },
+      "BRITANNIA.NS": {
+        "Open": 5918.0
+      },
+      "MAPMYINDIA.NS": {
+        "Open": 1795.9000244140625
+      },
+      "CCL.NS": {
+        "Open": 898.5499877929688
+      },
+      "CESC.NS": {
+        "Open": 180.10000610351562
+      },
+      "CGPOWER.NS": {
+        "Open": 672.3499755859375
+      },
+      "CIEINDIA.NS": {
+        "Open": 442.29998779296875
+      },
+      "CMSINFO.NS": {
+        "Open": 520.3499755859375
+      },
+      "CRISIL.NS": {
+        "Open": 5881.0
+      },
+      "CSBBANK.NS": {
+        "Open": 410.5
+      },
+      "CAMPUS.NS": {
+        "Open": 270.70001220703125
+      },
+      "CANFINHOME.NS": {
+        "Open": 825.8499755859375
+      },
+      "CANBK.NS": {
+        "Open": 113.94000244140625
+      },
+      "CAPLIPOINT.NS": {
+        "Open": 2036.0
+      },
+      "CGCL.NS": {
+        "Open": 168.1699981689453
+      },
+      "CARBORUNIV.NS": {
+        "Open": 998.0
+      },
+      "CARTRADE.NS": {
+        "Open": 1768.5
+      },
+      "CASTROLIND.NS": {
+        "Open": 222.80999755859375
+      },
+      "CEATLTD.NS": {
+        "Open": 3868.89990234375
+      },
+      "CEIGALL.NS": {
+        "Open": 273.79998779296875
+      },
+      "CELLO.NS": {
+        "Open": 639.7999877929688
+      },
+      "CENTRALBK.NS": {
+        "Open": 39.54999923706055
+      },
+      "CDSL.NS": {
+        "Open": 1763.0
+      },
+      "CENTURYPLY.NS": {
+        "Open": 739.5
+      },
+      "CERA.NS": {
+        "Open": 6779.5
+      },
+      "CHALET.NS": {
+        "Open": 873.0999755859375
+      },
+      "CHAMBLFERT.NS": {
+        "Open": 554.0
+      },
+      "CHEMPLASTS.NS": {
+        "Open": 421.75
+      },
+      "CHENNPETRO.NS": {
+        "Open": 745.0
+      },
+      "CHOICEIN.NS": {
+        "Open": 702.7000122070312
+      },
+      "CHOLAHLDNG.NS": {
+        "Open": 2063.0
+      },
+      "CHOLAFIN.NS": {
+        "Open": 1571.0
+      },
+      "CIGNITITEC.NS": {
+        "Open": 1809.699951171875
+      },
+      "CIPLA.NS": {
+        "Open": 1489.0
+      },
+      "CUB.NS": {
+        "Open": 218.5500030517578
+      },
+      "CLEAN.NS": {
+        "Open": 1458.0
+      },
+      "COALINDIA.NS": {
+        "Open": 388.04998779296875
+      },
+      "COCHINSHIP.NS": {
+        "Open": 2041.0
+      },
+      "COFORGE.NS": {
+        "Open": 1936.699951171875
+      },
+      "COHANCE.NS": {
+        "Open": 1007.0
+      },
+      "COLPAL.NS": {
+        "Open": 2434.300048828125
+      },
+      "CAMS.NS": {
+        "Open": 4202.0
+      },
+      "CONCORDBIO.NS": {
+        "Open": 1820.0
+      },
+      "CONCOR.NS": {
+        "Open": 618.5
+      },
+      "COROMANDEL.NS": {
+        "Open": 2293.60009765625
+      },
+      "CRAFTSMAN.NS": {
+        "Open": 6041.0
+      },
+      "CREDITACC.NS": {
+        "Open": 1287.0
+      },
+      "CROMPTON.NS": {
+        "Open": 343.45001220703125
+      },
+      "CUMMINSIND.NS": {
+        "Open": 3532.39990234375
+      },
+      "CYIENTDLM.NS": {
+        "Open": 495.0
+      },
+      "CYIENT.NS": {
+        "Open": 1288.199951171875
+      },
+      "DCBBANK.NS": {
+        "Open": 143.6199951171875
+      },
+      "DCMSHRIRAM.NS": {
+        "Open": 1407.199951171875
+      },
+      "DCXINDIA.NS": {
+        "Open": 281.1499938964844
+      },
+      "DLF.NS": {
+        "Open": 834.5499877929688
+      },
+      "DOMS.NS": {
+        "Open": 2430.199951171875
+      },
+      "DABUR.NS": {
+        "Open": 522.75
+      },
+      "DALBHARAT.NS": {
+        "Open": 2187.10009765625
+      },
+      "DATAPATTNS.NS": {
+        "Open": 3029.800048828125
+      },
+      "DATAMATICS.NS": {
+        "Open": 669.75
+      },
+      "DEEPAKFERT.NS": {
+        "Open": 1617.800048828125
+      },
+      "DEEPAKNTR.NS": {
+        "Open": 1982.0999755859375
+      },
+      "DELHIVERY.NS": {
+        "Open": 421.75
+      },
+      "DEVYANI.NS": {
+        "Open": 171.4199981689453
+      },
+      "DHANI.NS": {
+        "Open": 68.48999786376953
+      },
+      "DBL.NS": {
+        "Open": 501.45001220703125
+      },
+      "DCAL.NS": {
+        "Open": 258.0
+      },
+      "DIVISLAB.NS": {
+        "Open": 6960.5
+      },
+      "DIXON.NS": {
+        "Open": 15712.0
+      },
+      "DODLA.NS": {
+        "Open": 1424.800048828125
+      },
+      "LALPATHLAB.NS": {
+        "Open": 2990.0
+      },
+      "DRREDDY.NS": {
+        "Open": 1264.0
+      },
+      "DYNAMATECH.NS": {
+        "Open": 7245.0
+      },
+      "EIDPARRY.NS": {
+        "Open": 1088.0
+      },
+      "EIHOTEL.NS": {
+        "Open": 378.20001220703125
+      },
+      "EPL.NS": {
+        "Open": 233.69000244140625
+      },
+      "EASEMYTRIP.NS": {
+        "Open": 10.430000305175781
+      },
+      "EDELWEISS.NS": {
+        "Open": 115.94000244140625
+      },
+      "EICHERMOT.NS": {
+        "Open": 5705.0
+      },
+      "ELECON.NS": {
+        "Open": 675.25
+      },
+      "EMIL.NS": {
+        "Open": 145.24000549316406
+      },
+      "ELECTCAST.NS": {
+        "Open": 124.30000305175781
+      },
+      "ELGIEQUIP.NS": {
+        "Open": 561.9500122070312
+      },
+      "EMAMILTD.NS": {
+        "Open": 610.0499877929688
+      },
+      "EMBDL.NS": {
+        "Open": 118.9000015258789
+      },
+      "EMCURE.NS": {
+        "Open": 1278.0
+      },
+      "ENDURANCE.NS": {
+        "Open": 2694.199951171875
+      },
+      "ENGINERSIN.NS": {
+        "Open": 246.74000549316406
+      },
+      "ENTERO.NS": {
+        "Open": 1191.0
+      },
+      "EIEL.NS": {
+        "Open": 251.16000366210938
+      },
+      "EPIGRAL.NS": {
+        "Open": 1781.5
+      },
+      "EQUITASBNK.NS": {
+        "Open": 62.630001068115234
+      },
+      "ERIS.NS": {
+        "Open": 1722.0999755859375
+      },
+      "ESCORTS.NS": {
+        "Open": 3379.0
+      },
+      "ETERNAL.NS": {
+        "Open": 265.0
+      },
+      "ETHOSLTD.NS": {
+        "Open": 2748.39990234375
+      },
+      "EUREKAFORB.NS": {
+        "Open": 589.9000244140625
+      },
+      "EXIDEIND.NS": {
+        "Open": 387.79998779296875
+      },
+      "FDC.NS": {
+        "Open": 506.29998779296875
+      },
+      "NYKAA.NS": {
+        "Open": 211.99000549316406
+      },
+      "FEDERALBNK.NS": {
+        "Open": 213.88999938964844
+      },
+      "FACT.NS": {
+        "Open": 939.0
+      },
+      "FIEMIND.NS": {
+        "Open": 1939.800048828125
+      },
+      "FINEORG.NS": {
+        "Open": 5027.39990234375
+      },
+      "FCL.NS": {
+        "Open": 274.79998779296875
+      },
+      "FINCABLES.NS": {
+        "Open": 963.5
+      },
+      "FINPIPE.NS": {
+        "Open": 204.7899932861328
+      },
+      "FSL.NS": {
+        "Open": 368.20001220703125
+      },
+      "FIVESTAR.NS": {
+        "Open": 748.6500244140625
+      },
+      "FORCEMOT.NS": {
+        "Open": 16607.0
+      },
+      "FORTIS.NS": {
+        "Open": 784.9000244140625
+      },
+      "GRINFRA.NS": {
+        "Open": 1280.0
+      },
+      "GAIL.NS": {
+        "Open": 186.25999450683594
+      },
+      "GVT&D.NS": {
+        "Open": 2397.699951171875
+      },
+      "GHCL.NS": {
+        "Open": 608.0
+      },
+      "GMMPFAUDLR.NS": {
+        "Open": 1297.9000244140625
+      },
+      "GMRAIRPORT.NS": {
+        "Open": 93.12999725341797
+      },
+      "GMRP&UI.NS": {
+        "Open": 115.95999908447266
+      },
+      "GABRIEL.NS": {
+        "Open": 1029.800048828125
+      },
+      "GANESHHOUC.NS": {
+        "Open": 1015.0
+      },
+      "GANECOS.NS": {
+        "Open": 1526.0999755859375
+      },
+      "GRSE.NS": {
+        "Open": 2986.10009765625
+      },
+      "GRWRHITECH.NS": {
+        "Open": 3680.0
+      },
+      "GARFIBRES.NS": {
+        "Open": 923.9500122070312
+      },
+      "GATEWAY.NS": {
+        "Open": 66.0
+      },
+      "GICRE.NS": {
+        "Open": 374.8500061035156
+      },
+      "GILLETTE.NS": {
+        "Open": 10695.0
+      },
+      "GLAND.NS": {
+        "Open": 1878.800048828125
+      },
+      "GLAXO.NS": {
+        "Open": 3305.60009765625
+      },
+      "GLENMARK.NS": {
+        "Open": 1819.699951171875
+      },
+      "MEDANTA.NS": {
+        "Open": 1269.300048828125
+      },
+      "GODIGIT.NS": {
+        "Open": 335.0
+      },
+      "GPIL.NS": {
+        "Open": 183.69000244140625
+      },
+      "GODFRYPHLP.NS": {
+        "Open": 8498.0
+      },
+      "GODREJAGRO.NS": {
+        "Open": 781.4500122070312
+      },
+      "GODREJCP.NS": {
+        "Open": 1290.0
+      },
+      "GODREJIND.NS": {
+        "Open": 1142.0
+      },
+      "GODREJPROP.NS": {
+        "Open": 2245.5
+      },
+      "GOKEX.NS": {
+        "Open": 913.7999877929688
+      },
+      "GOPAL.NS": {
+        "Open": 360.0
+      },
+      "GRANULES.NS": {
+        "Open": 482.04998779296875
+      },
+      "GRAPHITE.NS": {
+        "Open": 562.0499877929688
+      },
+      "GRASIM.NS": {
+        "Open": 2804.89990234375
+      },
+      "GRAVITA.NS": {
+        "Open": 1802.9000244140625
+      },
+      "GESHIP.NS": {
+        "Open": 1026.0
+      },
+      "GREAVESCOT.NS": {
+        "Open": 204.0
+      },
+      "GREENPANEL.NS": {
+        "Open": 291.95001220703125
+      },
+      "GREENPLY.NS": {
+        "Open": 308.25
+      },
+      "GAEL.NS": {
+        "Open": 112.19000244140625
+      },
+      "FLUOROCHEM.NS": {
+        "Open": 3445.0
+      },
+      "GUJGASLTD.NS": {
+        "Open": 482.0
+      },
+      "GMDCLTD.NS": {
+        "Open": 391.8999938964844
+      },
+      "GNFC.NS": {
+        "Open": 552.9000244140625
+      },
+      "GPPL.NS": {
+        "Open": 156.10000610351562
+      },
+      "GSFC.NS": {
+        "Open": 206.30999755859375
+      },
+      "GSPL.NS": {
+        "Open": 332.95001220703125
+      },
+      "GULFOILLUB.NS": {
+        "Open": 1269.0999755859375
+      },
+      "HEG.NS": {
+        "Open": 495.0
+      },
+      "HGINFRA.NS": {
+        "Open": 1064.9000244140625
+      },
+      "HBLENGINE.NS": {
+        "Open": 621.5
+      },
+      "HCLTECH.NS": {
+        "Open": 1675.0
+      },
+      "HDFCAMC.NS": {
+        "Open": 5159.0
+      },
+      "HDFCBANK.NS": {
+        "Open": 2015.0999755859375
+      },
+      "HDFCLIFE.NS": {
+        "Open": 787.5499877929688
+      },
+      "HFCL.NS": {
+        "Open": 82.87000274658203
+      },
+      "HAPPSTMNDS.NS": {
+        "Open": 634.9500122070312
+      },
+      "HATHWAY.NS": {
+        "Open": 15.859999656677246
+      },
+      "HAVELLS.NS": {
+        "Open": 1521.0
+      },
+      "HCG.NS": {
+        "Open": 552.4500122070312
+      },
+      "HEIDELBERG.NS": {
+        "Open": 209.47999572753906
+      },
+      "HEMIPROP.NS": {
+        "Open": 137.57000732421875
+      },
+      "HERITGFOOD.NS": {
+        "Open": 496.0
+      },
+      "HEROMOTOCO.NS": {
+        "Open": 4335.0
+      },
+      "HIKAL.NS": {
+        "Open": 343.1000061035156
+      },
+      "HSCL.NS": {
+        "Open": 512.0
+      },
+      "HINDALCO.NS": {
+        "Open": 674.7999877929688
+      },
+      "HAL.NS": {
+        "Open": 5018.7998046875
+      },
+      "HCC.NS": {
+        "Open": 29.43000030517578
+      },
+      "HINDCOPPER.NS": {
+        "Open": 265.3500061035156
+      },
+      "HINDPETRO.NS": {
+        "Open": 448.3999938964844
+      },
+      "HINDUNILVR.NS": {
+        "Open": 2426.60009765625
+      },
+      "HINDZINC.NS": {
+        "Open": 425.75
+      },
+      "POWERINDIA.NS": {
+        "Open": 19840.0
+      },
+      "HOMEFIRST.NS": {
+        "Open": 1388.699951171875
+      },
+      "HONASA.NS": {
+        "Open": 304.29998779296875
+      },
+      "HONAUT.NS": {
+        "Open": 40860.0
+      },
+      "HUDCO.NS": {
+        "Open": 230.36000061035156
+      },
+      "HYUNDAI.NS": {
+        "Open": 2082.0
+      },
+      "ICICIBANK.NS": {
+        "Open": 1436.0
+      },
+      "ICICIGI.NS": {
+        "Open": 2010.0
+      },
+      "ICICIPRULI.NS": {
+        "Open": 683.1500244140625
+      },
+      "IDBI.NS": {
+        "Open": 101.61000061035156
+      },
+      "IDFCFIRSTB.NS": {
+        "Open": 77.5999984741211
+      },
+      "IFCI.NS": {
+        "Open": 61.86000061035156
+      },
+      "IIFLCAPS.NS": {
+        "Open": 333.0
+      },
+      "IIFL.NS": {
+        "Open": 506.3999938964844
+      },
+      "INOXINDIA.NS": {
+        "Open": 1255.0
+      },
+      "IRB.NS": {
+        "Open": 48.599998474121094
+      },
+      "IRCON.NS": {
+        "Open": 194.85000610351562
+      },
+      "ITC.NS": {
+        "Open": 420.04998779296875
+      },
+      "ITDCEM.NS": {
+        "Open": 907.25
+      },
+      "ITI.NS": {
+        "Open": 319.04998779296875
+      },
+      "IMAGICAA.NS": {
+        "Open": 65.6500015258789
+      },
+      "INDGN.NS": {
+        "Open": 577.9000244140625
+      },
+      "INDIACEM.NS": {
+        "Open": 348.79998779296875
+      },
+      "INDIAGLYCO.NS": {
+        "Open": 2081.89990234375
+      },
+      "INDIASHLTR.NS": {
+        "Open": 938.0
+      },
+      "INDIAMART.NS": {
+        "Open": 2588.5
+      },
+      "INDIANB.NS": {
+        "Open": 641.0
+      },
+      "IEX.NS": {
+        "Open": 209.0500030517578
+      },
+      "INDHOTEL.NS": {
+        "Open": 750.1500244140625
+      },
+      "IMFA.NS": {
+        "Open": 755.0499877929688
+      },
+      "IOC.NS": {
+        "Open": 151.0
+      },
+      "IOB.NS": {
+        "Open": 39.54999923706055
+      },
+      "IRCTC.NS": {
+        "Open": 788.0
+      },
+      "IRFC.NS": {
+        "Open": 137.8000030517578
+      },
+      "IREDA.NS": {
+        "Open": 167.0
+      },
+      "INDIGOPNTS.NS": {
+        "Open": 1200.9000244140625
+      },
+      "ICIL.NS": {
+        "Open": 292.8500061035156
+      },
+      "IGL.NS": {
+        "Open": 223.35000610351562
+      },
+      "INDUSTOWER.NS": {
+        "Open": 406.0
+      },
+      "INDUSINDBK.NS": {
+        "Open": 845.6500244140625
+      },
+      "INFIBEAM.NS": {
+        "Open": 15.930000305175781
+      },
+      "NAUKRI.NS": {
+        "Open": 1424.800048828125
+      },
+      "INFY.NS": {
+        "Open": 1631.300048828125
+      },
+      "INGERRAND.NS": {
+        "Open": 4039.0
+      },
+      "INNOVACAP.NS": {
+        "Open": 862.0
+      },
+      "INOXGREEN.NS": {
+        "Open": 153.85000610351562
+      },
+      "INOXWIND.NS": {
+        "Open": 176.7100067138672
+      },
+      "INTELLECT.NS": {
+        "Open": 1189.0
+      },
+      "INDIGO.NS": {
+        "Open": 5886.5
+      },
+      "IGIL.NS": {
+        "Open": 391.0
+      },
+      "IKS.NS": {
+        "Open": 1618.300048828125
+      },
+      "IONEXCHANG.NS": {
+        "Open": 543.7999877929688
+      },
+      "IPCALAB.NS": {
+        "Open": 1449.9000244140625
+      },
+      "ISGEC.NS": {
+        "Open": 1220.0
+      },
+      "JBCHEPHARM.NS": {
+        "Open": 1632.0999755859375
+      },
+      "JKCEMENT.NS": {
+        "Open": 6407.0
+      },
+      "JKIL.NS": {
+        "Open": 707.0
+      },
+      "JBMA.NS": {
+        "Open": 635.0
+      },
+      "JKLAKSHMI.NS": {
+        "Open": 981.0
+      },
+      "JKPAPER.NS": {
+        "Open": 403.5
+      },
+      "JKTYRE.NS": {
+        "Open": 374.29998779296875
+      },
+      "JMFINANCIL.NS": {
+        "Open": 170.66000366210938
+      },
+      "JSWENERGY.NS": {
+        "Open": 516.5999755859375
+      },
+      "JSWHL.NS": {
+        "Open": 21810.0
+      },
+      "JSWINFRA.NS": {
+        "Open": 313.0
+      },
+      "JSWSTEEL.NS": {
+        "Open": 1043.5999755859375
+      },
+      "JTLIND.NS": {
+        "Open": 81.30999755859375
+      },
+      "JAIBALAJI.NS": {
+        "Open": 122.47000122070312
+      },
+      "JAICORPLTD.NS": {
+        "Open": 112.0999984741211
+      },
+      "JISLJALEQS.NS": {
+        "Open": 56.970001220703125
+      },
+      "JPPOWER.NS": {
+        "Open": 22.549999237060547
+      },
+      "J&KBANK.NS": {
+        "Open": 112.94999694824219
+      },
+      "JAMNAAUTO.NS": {
+        "Open": 95.8499984741211
+      },
+      "JSFB.NS": {
+        "Open": 502.04998779296875
+      },
+      "JINDALSAW.NS": {
+        "Open": 231.2899932861328
+      },
+      "JSL.NS": {
+        "Open": 684.0999755859375
+      },
+      "JINDALSTEL.NS": {
+        "Open": 949.4500122070312
+      },
+      "JINDWORLD.NS": {
+        "Open": 47.310001373291016
+      },
+      "JIOFIN.NS": {
+        "Open": 330.5
+      },
+      "JCHAC.NS": {
+        "Open": 1751.199951171875
+      },
+      "JUBLFOOD.NS": {
+        "Open": 683.4000244140625
+      },
+      "JUBLINGREA.NS": {
+        "Open": 809.9000244140625
+      },
+      "JUBLPHARMA.NS": {
+        "Open": 1158.0
+      },
+      "JWL.NS": {
+        "Open": 376.0
+      },
+      "JUSTDIAL.NS": {
+        "Open": 928.7999877929688
+      },
+      "JYOTHYLAB.NS": {
+        "Open": 357.8999938964844
+      },
+      "JYOTICNC.NS": {
+        "Open": 1019.0
+      },
+      "KPRMILL.NS": {
+        "Open": 1198.9000244140625
+      },
+      "KEI.NS": {
+        "Open": 3699.10009765625
+      },
+      "KNRCON.NS": {
+        "Open": 219.99000549316406
+      },
+      "KPIGREEN.NS": {
+        "Open": 520.9000244140625
+      },
+      "KPITTECH.NS": {
+        "Open": 1259.0
+      },
+      "KRBL.NS": {
+        "Open": 404.75
+      },
+      "KSB.NS": {
+        "Open": 828.0
+      },
+      "KAJARIACER.NS": {
+        "Open": 1178.0
+      },
+      "KPIL.NS": {
+        "Open": 1208.300048828125
+      },
+      "KALYANKJIL.NS": {
+        "Open": 579.8499755859375
+      },
+      "KSL.NS": {
+        "Open": 924.0999755859375
+      },
+      "KANSAINER.NS": {
+        "Open": 250.0
+      },
+      "KTKBANK.NS": {
+        "Open": 192.99000549316406
+      },
+      "KARURVYSYA.NS": {
+        "Open": 272.29998779296875
+      },
+      "KSCL.NS": {
+        "Open": 1175.0999755859375
+      },
+      "KAYNES.NS": {
+        "Open": 6150.0
+      },
+      "KEC.NS": {
+        "Open": 904.7999877929688
+      },
+      "KFINTECH.NS": {
+        "Open": 1313.699951171875
+      },
+      "KIRLOSBROS.NS": {
+        "Open": 2254.199951171875
+      },
+      "KIRLOSENG.NS": {
+        "Open": 838.5
+      },
+      "KIRLPNU.NS": {
+        "Open": 1430.0
+      },
+      "KOTAKBANK.NS": {
+        "Open": 2233.699951171875
+      },
+      "KIMS.NS": {
+        "Open": 712.9500122070312
+      },
+      "LTF.NS": {
+        "Open": 209.88999938964844
+      },
+      "LTTS.NS": {
+        "Open": 4328.89990234375
+      },
+      "LICHSGFIN.NS": {
+        "Open": 607.4500122070312
+      },
+      "LMW.NS": {
+        "Open": 16500.0
+      },
+      "LTFOODS.NS": {
+        "Open": 499.04998779296875
+      },
+      "LTIM.NS": {
+        "Open": 5343.0
+      },
+      "LT.NS": {
+        "Open": 3579.10009765625
+      },
+      "LATENTVIEW.NS": {
+        "Open": 443.6499938964844
+      },
+      "LAURUSLABS.NS": {
+        "Open": 798.0
+      },
+      "LXCHEM.NS": {
+        "Open": 196.27999877929688
+      },
+      "IXIGO.NS": {
+        "Open": 179.36000061035156
+      },
+      "LEMONTREE.NS": {
+        "Open": 147.0
+      },
+      "LICI.NS": {
+        "Open": 941.0
+      },
+      "LINDEINDIA.NS": {
+        "Open": 6815.0
+      },
+      "LLOYDSENGG.NS": {
+        "Open": 77.13999938964844
+      },
+      "LLOYDSENT.NS": {
+        "Open": 89.38999938964844
+      },
+      "LLOYDSME.NS": {
+        "Open": 1485.0
+      },
+      "LUPIN.NS": {
+        "Open": 1919.9000244140625
+      },
+      "LUXIND.NS": {
+        "Open": 1498.0
+      },
+      "MMTC.NS": {
+        "Open": 69.75
+      },
+      "MOIL.NS": {
+        "Open": 372.8999938964844
+      },
+      "MRF.NS": {
+        "Open": 150500.0
+      },
+      "MSTCLTD.NS": {
+        "Open": 536.2000122070312
+      },
+      "MTARTECH.NS": {
+        "Open": 1583.0999755859375
+      },
+      "LODHA.NS": {
+        "Open": 1389.699951171875
+      },
+      "MGL.NS": {
+        "Open": 1494.0
+      },
+      "MAHSCOOTER.NS": {
+        "Open": 14420.0
+      },
+      "MAHSEAMLES.NS": {
+        "Open": 706.0
+      },
+      "M&MFIN.NS": {
+        "Open": 270.45001220703125
+      },
+      "M&M.NS": {
+        "Open": 3189.60009765625
+      },
+      "MAHLIFE.NS": {
+        "Open": 365.95001220703125
+      },
+      "MANINFRA.NS": {
+        "Open": 185.60000610351562
+      },
+      "MANAPPURAM.NS": {
+        "Open": 264.0
+      },
+      "MRPL.NS": {
+        "Open": 147.49000549316406
+      },
+      "MANKIND.NS": {
+        "Open": 2525.0
+      },
+      "MARICO.NS": {
+        "Open": 734.7000122070312
+      },
+      "MARKSANS.NS": {
+        "Open": 259.70001220703125
+      },
+      "MARUTI.NS": {
+        "Open": 12500.0
+      },
+      "MASTEK.NS": {
+        "Open": 2587.800048828125
+      },
+      "MAXESTATES.NS": {
+        "Open": 515.0
+      },
+      "MFSL.NS": {
+        "Open": 1567.5999755859375
+      },
+      "MAXHEALTH.NS": {
+        "Open": 1239.0
+      },
+      "MAZDOCK.NS": {
+        "Open": 3287.800048828125
+      },
+      "MEDPLUS.NS": {
+        "Open": 855.0
+      },
+      "METROPOLIS.NS": {
+        "Open": 2001.300048828125
+      },
+      "MINDACORP.NS": {
+        "Open": 518.0
+      },
+      "MIDHANI.NS": {
+        "Open": 421.54998779296875
+      },
+      "MSUMI.NS": {
+        "Open": 65.11000061035156
+      },
+      "MOTILALOFS.NS": {
+        "Open": 927.5999755859375
+      },
+      "MPHASIS.NS": {
+        "Open": 2845.10009765625
+      },
+      "BECTORFOOD.NS": {
+        "Open": 1454.800048828125
+      },
+      "MCX.NS": {
+        "Open": 8472.0
+      },
+      "MUTHOOTFIN.NS": {
+        "Open": 2650.60009765625
+      },
+      "NATCOPHARM.NS": {
+        "Open": 1022.6500244140625
+      },
+      "NBCC.NS": {
+        "Open": 115.3499984741211
+      },
+      "NCC.NS": {
+        "Open": 225.89999389648438
+      },
+      "NEOGEN.NS": {
+        "Open": 1599.0
+      },
+      "NESCO.NS": {
+        "Open": 1163.0
+      },
+      "NHPC.NS": {
+        "Open": 88.05999755859375
+      },
+      "NLCINDIA.NS": {
+        "Open": 225.75999450683594
+      },
+      "NMDC.NS": {
+        "Open": 68.27999877929688
+      },
+      "NSLNISP.NS": {
+        "Open": 39.540000915527344
+      },
+      "NOCIL.NS": {
+        "Open": 194.3300018310547
+      },
+      "NTPCGREEN.NS": {
+        "Open": 107.19999694824219
+      },
+      "NTPC.NS": {
+        "Open": 344.0
+      },
+      "NH.NS": {
+        "Open": 1975.0
+      },
+      "NATIONALUM.NS": {
+        "Open": 186.9499969482422
+      },
+      "NFL.NS": {
+        "Open": 98.83999633789062
+      },
+      "NAVA.NS": {
+        "Open": 597.3499755859375
+      },
+      "NAVINFLUOR.NS": {
+        "Open": 5120.7001953125
+      },
+      "NAZARA.NS": {
+        "Open": 1354.699951171875
+      },
+      "NESTLEIND.NS": {
+        "Open": 2427.800048828125
+      },
+      "NETWEB.NS": {
+        "Open": 1817.4000244140625
+      },
+      "NETWORK18.NS": {
+        "Open": 56.15999984741211
+      },
+      "NEULANDLAB.NS": {
+        "Open": 12074.0
+      },
+      "NEWGEN.NS": {
+        "Open": 1121.199951171875
+      },
+      "NAM-INDIA.NS": {
+        "Open": 804.5999755859375
+      },
+      "NIVABUPA.NS": {
+        "Open": 89.0
+      },
+      "NUVAMA.NS": {
+        "Open": 7373.0
+      },
+      "NUVOCO.NS": {
+        "Open": 356.3999938964844
+      },
+      "OBEROIRLTY.NS": {
+        "Open": 1831.0
+      },
+      "ONGC.NS": {
+        "Open": 244.1999969482422
+      },
+      "OIL.NS": {
+        "Open": 449.0
+      },
+      "OLAELEC.NS": {
+        "Open": 40.59000015258789
+      },
+      "OLECTRA.NS": {
+        "Open": 1205.699951171875
+      },
+      "PAYTM.NS": {
+        "Open": 911.8499755859375
+      },
+      "OPTIEMUS.NS": {
+        "Open": 612.6500244140625
+      },
+      "OFSS.NS": {
+        "Open": 8914.0
+      },
+      "ORCHPHARMA.NS": {
+        "Open": 731.0
+      },
+      "ORIENTCEM.NS": {
+        "Open": 237.99000549316406
+      },
+      "ORISSAMINE.NS": {
+        "Open": 4716.7001953125
+      },
+      "PNGJL.NS": {
+        "Open": 596.5
+      },
+      "POLICYBZR.NS": {
+        "Open": 1842.199951171875
+      },
+      "PCJEWELLER.NS": {
+        "Open": 18.610000610351562
+      },
+      "PCBL.NS": {
+        "Open": 426.95001220703125
+      },
+      "PGEL.NS": {
+        "Open": 790.0999755859375
+      },
+      "PIIND.NS": {
+        "Open": 4150.0
+      },
+      "PNBHOUSING.NS": {
+        "Open": 1097.0999755859375
+      },
+      "PNCINFRA.NS": {
+        "Open": 303.79998779296875
+      },
+      "PTC.NS": {
+        "Open": 182.5500030517578
+      },
+      "PTCIL.NS": {
+        "Open": 14611.0
+      },
+      "PVRINOX.NS": {
+        "Open": 1002.0
+      },
+      "PAGEIND.NS": {
+        "Open": 48830.0
+      },
+      "PAISALO.NS": {
+        "Open": 31.959999084472656
+      },
+      "PARADEEP.NS": {
+        "Open": 161.24000549316406
+      },
+      "PARAS.NS": {
+        "Open": 855.0
+      },
+      "PATANJALI.NS": {
+        "Open": 1653.800048828125
+      },
+      "PATELENG.NS": {
+        "Open": 40.25
+      },
+      "PGIL.NS": {
+        "Open": 1526.0
+      },
+      "PERSISTENT.NS": {
+        "Open": 5748.0
+      },
+      "PETRONET.NS": {
+        "Open": 306.04998779296875
+      },
+      "PFIZER.NS": {
+        "Open": 5658.0
+      },
+      "PHOENIXLTD.NS": {
+        "Open": 1521.699951171875
+      },
+      "PIDILITIND.NS": {
+        "Open": 3053.0
+      },
+      "PEL.NS": {
+        "Open": 1162.800048828125
+      },
+      "PPLPHARMA.NS": {
+        "Open": 202.77999877929688
+      },
+      "POLYMED.NS": {
+        "Open": 2226.199951171875
+      },
+      "POLYCAB.NS": {
+        "Open": 6739.5
+      },
+      "POLYPLEX.NS": {
+        "Open": 1168.300048828125
+      },
+      "POONAWALLA.NS": {
+        "Open": 469.1000061035156
+      },
+      "PFC.NS": {
+        "Open": 425.5
+      },
+      "POWERGRID.NS": {
+        "Open": 300.25
+      },
+      "POWERMECH.NS": {
+        "Open": 3332.300048828125
+      },
+      "PRAJIND.NS": {
+        "Open": 497.45001220703125
+      },
+      "PREMIERENE.NS": {
+        "Open": 1082.699951171875
+      },
+      "PRESTIGE.NS": {
+        "Open": 1659.5
+      },
+      "PRICOLLTD.NS": {
+        "Open": 467.5
+      },
+      "PRINCEPIPE.NS": {
+        "Open": 365.8500061035156
+      },
+      "PRSMJOHNSN.NS": {
+        "Open": 160.0
+      },
+      "PRUDENT.NS": {
+        "Open": 2690.0
+      },
+      "PNB.NS": {
+        "Open": 111.19999694824219
+      },
+      "RRKABEL.NS": {
+        "Open": 1344.5
+      },
+      "RBLBANK.NS": {
+        "Open": 258.2200012207031
+      },
+      "RECLTD.NS": {
+        "Open": 399.04998779296875
+      },
+      "RHIM.NS": {
+        "Open": 478.04998779296875
+      },
+      "RITES.NS": {
+        "Open": 280.3999938964844
+      },
+      "RADICO.NS": {
+        "Open": 2694.300048828125
+      },
+      "RVNL.NS": {
+        "Open": 386.29998779296875
+      },
+      "RAILTEL.NS": {
+        "Open": 412.25
+      },
+      "RAIN.NS": {
+        "Open": 146.75
+      },
+      "RAINBOW.NS": {
+        "Open": 1525.800048828125
+      },
+      "RAJESHEXPO.NS": {
+        "Open": 204.16000366210938
+      },
+      "RALLIS.NS": {
+        "Open": 316.04998779296875
+      },
+      "RKFORGE.NS": {
+        "Open": 669.0
+      },
+      "RCF.NS": {
+        "Open": 154.89999389648438
+      },
+      "RATEGAIN.NS": {
+        "Open": 466.29998779296875
+      },
+      "RTNINDIA.NS": {
+        "Open": 65.77999877929688
+      },
+      "RTNPOWER.NS": {
+        "Open": 15.970000267028809
+      },
+      "RAYMONDLSL.NS": {
+        "Open": 1330.300048828125
+      },
+      "RAYMOND.NS": {
+        "Open": 698.75
+      },
+      "REDINGTON.NS": {
+        "Open": 302.8500061035156
+      },
+      "REDTAPE.NS": {
+        "Open": 134.36000061035156
+      },
+      "REFEX.NS": {
+        "Open": 455.70001220703125
+      },
+      "RELIANCE.NS": {
+        "Open": 1521.699951171875
+      },
+      "RELINFRA.NS": {
+        "Open": 368.0
+      },
+      "RPOWER.NS": {
+        "Open": 64.5
+      },
+      "RELIGARE.NS": {
+        "Open": 235.60000610351562
+      },
+      "RESPONIND.NS": {
+        "Open": 245.0
+      },
+      "RBA.NS": {
+        "Open": 82.20999908447266
+      },
+      "ROSSARI.NS": {
+        "Open": 710.2999877929688
+      },
+      "ROUTE.NS": {
+        "Open": 995.2000122070312
+      },
+      "SBFC.NS": {
+        "Open": 114.0
+      },
+      "SBICARD.NS": {
+        "Open": 936.7999877929688
+      },
+      "SBILIFE.NS": {
+        "Open": 1814.9000244140625
+      },
+      "SJVN.NS": {
+        "Open": 98.66000366210938
+      },
+      "SKFINDIA.NS": {
+        "Open": 4934.7001953125
+      },
+      "SRF.NS": {
+        "Open": 3302.699951171875
+      },
+      "SAFARI.NS": {
+        "Open": 2255.39990234375
+      },
+      "SAGILITY.NS": {
+        "Open": 43.349998474121094
+      },
+      "SAILIFE.NS": {
+        "Open": 790.0
+      },
+      "SAMHI.NS": {
+        "Open": 240.0
+      },
+      "SAMMAANCAP.NS": {
+        "Open": 127.44999694824219
+      },
+      "MOTHERSON.NS": {
+        "Open": 155.32000732421875
+      },
+      "SANOFICONR.NS": {
+        "Open": 5166.0
+      },
+      "SANOFI.NS": {
+        "Open": 6000.0
+      },
+      "SANSERA.NS": {
+        "Open": 1413.9000244140625
+      },
+      "SAPPHIRE.NS": {
+        "Open": 337.20001220703125
+      },
+      "SARDAEN.NS": {
+        "Open": 429.0
+      },
+      "SAREGAMA.NS": {
+        "Open": 503.3500061035156
+      },
+      "SCHAEFFLER.NS": {
+        "Open": 4240.10009765625
+      },
+      "SCHNEIDER.NS": {
+        "Open": 833.0
+      },
+      "SENCO.NS": {
+        "Open": 344.70001220703125
+      },
+      "SEQUENT.NS": {
+        "Open": 186.19000244140625
+      },
+      "SHAILY.NS": {
+        "Open": 1615.9000244140625
+      },
+      "SHAKTIPUMP.NS": {
+        "Open": 928.5999755859375
+      },
+      "SHARDACROP.NS": {
+        "Open": 842.9000244140625
+      },
+      "SHAREINDIA.NS": {
+        "Open": 175.5
+      },
+      "SFL.NS": {
+        "Open": 680.0999755859375
+      },
+      "SHILPAMED.NS": {
+        "Open": 855.0
+      },
+      "SCI.NS": {
+        "Open": 225.52000427246094
+      },
+      "SBCL.NS": {
+        "Open": 555.0499877929688
+      },
+      "SHOPERSTOP.NS": {
+        "Open": 513.2999877929688
+      },
+      "SHREECEM.NS": {
+        "Open": 31520.0
+      },
+      "RENUKA.NS": {
+        "Open": 33.060001373291016
+      },
+      "SHRIRAMFIN.NS": {
+        "Open": 686.8499755859375
+      },
+      "SHRIPISTON.NS": {
+        "Open": 2510.0
+      },
+      "SHYAMMETL.NS": {
+        "Open": 860.0
+      },
+      "SIEMENS.NS": {
+        "Open": 3227.0
+      },
+      "SIGNATURE.NS": {
+        "Open": 1264.0
+      },
+      "SKIPPER.NS": {
+        "Open": 485.6000061035156
+      },
+      "SOBHA.NS": {
+        "Open": 1514.0999755859375
+      },
+      "SOLARINDS.NS": {
+        "Open": 16543.0
+      },
+      "SONACOMS.NS": {
+        "Open": 457.45001220703125
+      },
+      "SONATSOFTW.NS": {
+        "Open": 435.25
+      },
+      "SOUTHBANK.NS": {
+        "Open": 30.329999923706055
+      },
+      "SPANDANA.NS": {
+        "Open": 281.8500061035156
+      },
+      "STARCEMENT.NS": {
+        "Open": 213.0
+      },
+      "STARHEALTH.NS": {
+        "Open": 433.6499938964844
+      },
+      "SBIN.NS": {
+        "Open": 810.5499877929688
+      },
+      "SAIL.NS": {
+        "Open": 134.3300018310547
+      },
+      "SWSOLAR.NS": {
+        "Open": 334.3999938964844
+      },
+      "STLTECH.NS": {
+        "Open": 111.4800033569336
+      },
+      "STAR.NS": {
+        "Open": 875.2999877929688
+      },
+      "STYLAMIND.NS": {
+        "Open": 1627.0
+      },
+      "SUBROS.NS": {
+        "Open": 949.9500122070312
+      },
+      "SUDARSCHEM.NS": {
+        "Open": 1207.0
+      },
+      "SULA.NS": {
+        "Open": 303.1499938964844
+      },
+      "SUMICHEM.NS": {
+        "Open": 548.5
+      },
+      "SPARC.NS": {
+        "Open": 158.0
+      },
+      "SUNPHARMA.NS": {
+        "Open": 1663.9000244140625
+      },
+      "SUNTV.NS": {
+        "Open": 573.0
+      },
+      "SUNDARMFIN.NS": {
+        "Open": 5030.0
+      },
+      "SUNDRMFAST.NS": {
+        "Open": 1028.9000244140625
+      },
+      "SUNFLAG.NS": {
+        "Open": 300.0
+      },
+      "SUNTECK.NS": {
+        "Open": 439.20001220703125
+      },
+      "SUPRAJIT.NS": {
+        "Open": 460.70001220703125
+      },
+      "SUPREMEIND.NS": {
+        "Open": 4197.89990234375
+      },
+      "SUPRIYA.NS": {
+        "Open": 712.9000244140625
+      },
+      "SURYAROSNI.NS": {
+        "Open": 328.3999938964844
+      },
+      "SUZLON.NS": {
+        "Open": 66.05000305175781
+      },
+      "SWANENERGY.NS": {
+        "Open": 464.70001220703125
+      },
+      "SWIGGY.NS": {
+        "Open": 380.0
+      },
+      "SYMPHONY.NS": {
+        "Open": 1159.0999755859375
+      },
+      "SYNGENE.NS": {
+        "Open": 640.7999877929688
+      },
+      "SYRMA.NS": {
+        "Open": 651.0499877929688
+      },
+      "TARC.NS": {
+        "Open": 189.33999633789062
+      },
+      "TBOTEK.NS": {
+        "Open": 1349.9000244140625
+      },
+      "TDPOWERSYS.NS": {
+        "Open": 499.6499938964844
+      },
+      "TVSMOTOR.NS": {
+        "Open": 2829.800048828125
+      },
+      "TVSSCS.NS": {
+        "Open": 134.3000030517578
+      },
+      "TANLA.NS": {
+        "Open": 639.0
+      },
+      "TATACHEM.NS": {
+        "Open": 924.5999755859375
+      },
+      "TATACOMM.NS": {
+        "Open": 1769.5
+      },
+      "TCS.NS": {
+        "Open": 3370.0
+      },
+      "TATACONSUM.NS": {
+        "Open": 1100.800048828125
+      },
+      "TATAELXSI.NS": {
+        "Open": 6145.0
+      },
+      "TATAINVEST.NS": {
+        "Open": 6634.0
+      },
+      "TATAMOTORS.NS": {
+        "Open": 691.75
+      },
+      "TATAPOWER.NS": {
+        "Open": 402.6000061035156
+      },
+      "TATASTEEL.NS": {
+        "Open": 159.8000030517578
+      },
+      "TATATECH.NS": {
+        "Open": 706.75
+      },
+      "TTML.NS": {
+        "Open": 64.9000015258789
+      },
+      "TEAMLEASE.NS": {
+        "Open": 1934.9000244140625
+      },
+      "TECHM.NS": {
+        "Open": 1617.300048828125
+      },
+      "TECHNOE.NS": {
+        "Open": 1628.4000244140625
+      },
+      "TIIL.NS": {
+        "Open": 3269.0
+      },
+      "TEGA.NS": {
+        "Open": 1765.5999755859375
+      },
+      "TEJASNET.NS": {
+        "Open": 699.0
+      },
+      "TEXRAIL.NS": {
+        "Open": 165.9199981689453
+      },
+      "THANGAMAYL.NS": {
+        "Open": 1935.0
+      },
+      "ANUP.NS": {
+        "Open": 2928.10009765625
+      },
+      "NIACL.NS": {
+        "Open": 189.27999877929688
+      },
+      "RAMCOCEM.NS": {
+        "Open": 1099.5999755859375
+      },
+      "THERMAX.NS": {
+        "Open": 3436.5
+      },
+      "TIRUMALCHM.NS": {
+        "Open": 294.25
+      },
+      "THOMASCOOK.NS": {
+        "Open": 165.6300048828125
+      },
+      "TI.NS": {
+        "Open": 344.8999938964844
+      },
+      "TIMETECHNO.NS": {
+        "Open": 449.5
+      },
+      "TIMKEN.NS": {
+        "Open": 3359.39990234375
+      },
+      "TIPSMUSIC.NS": {
+        "Open": 648.1500244140625
+      },
+      "TITAGARH.NS": {
+        "Open": 945.8499755859375
+      },
+      "TITAN.NS": {
+        "Open": 3439.5
+      },
+      "TORNTPHARM.NS": {
+        "Open": 3349.89990234375
+      },
+      "TORNTPOWER.NS": {
+        "Open": 1423.4000244140625
+      },
+      "TARIL.NS": {
+        "Open": 520.0
+      },
+      "TRANSRAILL.NS": {
+        "Open": 765.1500244140625
+      },
+      "TRENT.NS": {
+        "Open": 5425.5
+      },
+      "TRIDENT.NS": {
+        "Open": 32.380001068115234
+      },
+      "TRIVENI.NS": {
+        "Open": 369.79998779296875
+      },
+      "TRITURBINE.NS": {
+        "Open": 648.0
+      },
+      "TIINDIA.NS": {
+        "Open": 2901.60009765625
+      },
+      "UCOBANK.NS": {
+        "Open": 32.0
+      },
+      "UNOMINDA.NS": {
+        "Open": 1104.800048828125
+      },
+      "UPL.NS": {
+        "Open": 665.0
+      },
+      "UTIAMC.NS": {
+        "Open": 1357.5
+      },
+      "UJJIVANSFB.NS": {
+        "Open": 47.709999084472656
+      },
+      "ULTRACEMCO.NS": {
+        "Open": 12549.0
+      },
+      "UNIMECH.NS": {
+        "Open": 1283.300048828125
+      },
+      "UNIONBANK.NS": {
+        "Open": 145.36000061035156
+      },
+      "UBL.NS": {
+        "Open": 1969.0
+      },
+      "UNITDSPR.NS": {
+        "Open": 1374.199951171875
+      },
+      "USHAMART.NS": {
+        "Open": 367.3500061035156
+      },
+      "VGUARD.NS": {
+        "Open": 392.8999938964844
+      },
+      "VMART.NS": {
+        "Open": 795.7999877929688
+      },
+      "VIPIND.NS": {
+        "Open": 438.8500061035156
+      },
+      "VSTIND.NS": {
+        "Open": 284.5
+      },
+      "WABAG.NS": {
+        "Open": 1488.800048828125
+      },
+      "VAIBHAVGBL.NS": {
+        "Open": 238.99000549316406
+      },
+      "DBREALTY.NS": {
+        "Open": 240.89999389648438
+      },
+      "VTL.NS": {
+        "Open": 507.0
+      },
+      "VARROC.NS": {
+        "Open": 561.5999755859375
+      },
+      "VBL.NS": {
+        "Open": 466.79998779296875
+      },
+      "MANYAVAR.NS": {
+        "Open": 807.3499755859375
+      },
+      "VEDL.NS": {
+        "Open": 437.3500061035156
+      },
+      "VENTIVE.NS": {
+        "Open": 764.9500122070312
+      },
+      "VENUSPIPES.NS": {
+        "Open": 1640.9000244140625
+      },
+      "VESUVIUS.NS": {
+        "Open": 531.0
+      },
+      "VIJAYA.NS": {
+        "Open": 1022.5999755859375
+      },
+      "VMM.NS": {
+        "Open": 131.99000549316406
+      },
+      "IDEA.NS": {
+        "Open": 7.309999942779541
+      },
+      "VOLTAMP.NS": {
+        "Open": 9904.0
+      },
+      "VOLTAS.NS": {
+        "Open": 1369.5
+      },
+      "WAAREEENER.NS": {
+        "Open": 3131.39990234375
+      },
+      "WEBELSOLAR.NS": {
+        "Open": 1307.5999755859375
+      },
+      "WELCORP.NS": {
+        "Open": 943.7000122070312
+      },
+      "WELENT.NS": {
+        "Open": 528.2999877929688
+      },
+      "WELSPUNLIV.NS": {
+        "Open": 143.32000732421875
+      },
+      "WESTLIFE.NS": {
+        "Open": 807.8499755859375
+      },
+      "WHIRLPOOL.NS": {
+        "Open": 1355.0
+      },
+      "WIPRO.NS": {
+        "Open": 266.29998779296875
+      },
+      "WOCKPHARMA.NS": {
+        "Open": 1714.0
+      },
+      "WONDERLA.NS": {
+        "Open": 642.0999755859375
+      },
+      "YATHARTH.NS": {
+        "Open": 616.2999877929688
+      },
+      "YESBANK.NS": {
+        "Open": 19.959999084472656
+      },
+      "ZFCVINDIA.NS": {
+        "Open": 13176.0
+      },
+      "ZAGGLE.NS": {
+        "Open": 422.95001220703125
+      },
+      "ZEEL.NS": {
+        "Open": 142.3000030517578
+      },
+      "ZENTEC.NS": {
+        "Open": 1949.300048828125
+      },
+      "ZENSARTECH.NS": {
+        "Open": 856.5499877929688
+      },
+      "BLACKBUCK.NS": {
+        "Open": 439.70001220703125
+      },
+      "ZYDUSLIFE.NS": {
+        "Open": 980.8499755859375
+      },
+      "ZYDUSWELL.NS": {
+        "Open": 2058.0
+      },
+      "ECLERX.NS": {
+        "Open": 3384.0
+      },
+      "EMUDHRA.NS": {
+        "Open": 778.0
+      }
+    }
+  },
+  "2025-07-11": {
+    "1d": {
+      "360ONE.NS": {
+        "Open": 1193.0
+      },
+      "3MINDIA.NS": {
+        "Open": 29740.0
+      },
+      "ABB.NS": {
+        "Open": 5887.5
+      },
+      "ACC.NS": {
+        "Open": 1995.300048828125
+      },
+      "ACMESOLAR.NS": {
+        "Open": 292.2200012207031
+      },
+      "AGI.NS": {
+        "Open": 801.2999877929688
+      },
+      "AIAENG.NS": {
+        "Open": 3454.39990234375
+      },
+      "APLAPOLLO.NS": {
+        "Open": 1724.5999755859375
+      },
+      "ASKAUTOLTD.NS": {
+        "Open": 529.5
+      },
+      "AUBANK.NS": {
+        "Open": 828.0
+      },
+      "AWL.NS": {
+        "Open": 269.70001220703125
+      },
+      "AADHARHFC.NS": {
+        "Open": 452.0
+      },
+      "AARTIDRUGS.NS": {
+        "Open": 475.70001220703125
+      },
+      "AARTIIND.NS": {
+        "Open": 448.04998779296875
+      },
+      "AARTIPHARM.NS": {
+        "Open": 908.9500122070312
+      },
+      "AAVAS.NS": {
+        "Open": 1932.0
+      },
+      "ABBOTINDIA.NS": {
+        "Open": 34695.0
+      },
+      "ACE.NS": {
+        "Open": 1211.9000244140625
+      },
+      "ACUTAAS.NS": {
+        "Open": 1128.0
+      },
+      "ADANIENSOL.NS": {
+        "Open": 894.0
+      },
+      "ADANIENT.NS": {
+        "Open": 2571.199951171875
+      },
+      "ADANIGREEN.NS": {
+        "Open": 999.0
+      },
+      "ADANIPORTS.NS": {
+        "Open": 1444.0
+      },
+      "ADANIPOWER.NS": {
+        "Open": 608.25
+      },
+      "ATGL.NS": {
+        "Open": 652.4000244140625
+      },
+      "ABCAPITAL.NS": {
+        "Open": 270.29998779296875
+      },
+      "ABFRL.NS": {
+        "Open": 77.68000030517578
+      },
+      "ABREL.NS": {
+        "Open": 2187.0
+      },
+      "ABSLAMC.NS": {
+        "Open": 852.1500244140625
+      },
+      "AVL.NS": {
+        "Open": 359.75
+      },
+      "ADVENZYMES.NS": {
+        "Open": 330.0
+      },
+      "AEGISLOG.NS": {
+        "Open": 752.5999755859375
+      },
+      "AETHER.NS": {
+        "Open": 783.7000122070312
+      },
+      "AFCONS.NS": {
+        "Open": 426.54998779296875
+      },
+      "AFFLE.NS": {
+        "Open": 1968.300048828125
+      },
+      "AHLUCONT.NS": {
+        "Open": 998.7000122070312
+      },
+      "AJANTPHARM.NS": {
+        "Open": 2595.0
+      },
+      "AKUMS.NS": {
+        "Open": 550.0
+      },
+      "AKZOINDIA.NS": {
+        "Open": 3601.800048828125
+      },
+      "APLLTD.NS": {
+        "Open": 984.9000244140625
+      },
+      "ALIVUS.NS": {
+        "Open": 1030.0
+      },
+      "ALKEM.NS": {
+        "Open": 4756.39990234375
+      },
+      "ALKYLAMINE.NS": {
+        "Open": 2325.0
+      },
+      "ALLCARGO.NS": {
+        "Open": 34.45000076293945
+      },
+      "ABDL.NS": {
+        "Open": 440.79998779296875
+      },
+      "ALOKINDS.NS": {
+        "Open": 21.399999618530273
+      },
+      "ARE&M.NS": {
+        "Open": 988.4500122070312
+      },
+      "AMBER.NS": {
+        "Open": 7761.5
+      },
+      "AMBUJACEM.NS": {
+        "Open": 583.5499877929688
+      },
+      "ANANDRATHI.NS": {
+        "Open": 2196.0
+      },
+      "ANANTRAJ.NS": {
+        "Open": 556.25
+      },
+      "ANGELONE.NS": {
+        "Open": 2718.300048828125
+      },
+      "APARINDS.NS": {
+        "Open": 8899.0
+      },
+      "PARKHOTELS.NS": {
+        "Open": 162.39999389648438
+      },
+      "APOLLOHOSP.NS": {
+        "Open": 7355.0
+      },
+      "APOLLOTYRE.NS": {
+        "Open": 469.8999938964844
+      },
+      "APTUS.NS": {
+        "Open": 342.95001220703125
+      },
+      "ACI.NS": {
+        "Open": 666.6500244140625
+      },
+      "ARVINDFASN.NS": {
+        "Open": 469.1000061035156
+      },
+      "ARVIND.NS": {
+        "Open": 342.0
+      },
+      "ASAHIINDIA.NS": {
+        "Open": 814.0
+      },
+      "ASHOKLEY.NS": {
+        "Open": 250.0
+      },
+      "ASHOKA.NS": {
+        "Open": 205.8000030517578
+      },
+      "ASIANPAINT.NS": {
+        "Open": 2447.199951171875
+      },
+      "ASTERDM.NS": {
+        "Open": 602.0
+      },
+      "ASTRAMICRO.NS": {
+        "Open": 1022.9000244140625
+      },
+      "ASTRAZEN.NS": {
+        "Open": 9199.0
+      },
+      "ASTRAL.NS": {
+        "Open": 1495.0
+      },
+      "ATUL.NS": {
+        "Open": 7512.5
+      },
+      "AURIONPRO.NS": {
+        "Open": 1614.0
+      },
+      "AUROPHARMA.NS": {
+        "Open": 1130.699951171875
+      },
+      "AIIL.NS": {
+        "Open": 2672.89990234375
+      },
+      "AVALON.NS": {
+        "Open": 871.0
+      },
+      "AVANTIFEED.NS": {
+        "Open": 740.7999877929688
+      },
+      "DMART.NS": {
+        "Open": 4157.10009765625
+      },
+      "AWFIS.NS": {
+        "Open": 641.5
+      },
+      "AXISBANK.NS": {
+        "Open": 1161.199951171875
+      },
+      "AZAD.NS": {
+        "Open": 1607.0
+      },
+      "BASF.NS": {
+        "Open": 5101.0
+      },
+      "BEML.NS": {
+        "Open": 4602.60009765625
+      },
+      "BLS.NS": {
+        "Open": 384.95001220703125
+      },
+      "BSE.NS": {
+        "Open": 2467.89990234375
+      },
+      "BAJAJ-AUTO.NS": {
+        "Open": 8288.0
+      },
+      "BAJFINANCE.NS": {
+        "Open": 940.1500244140625
+      },
+      "BAJAJFINSV.NS": {
+        "Open": 2034.4000244140625
+      },
+      "BAJAJHIND.NS": {
+        "Open": 27.709999084472656
+      },
+      "BAJAJHLDNG.NS": {
+        "Open": 13943.0
+      },
+      "BAJAJHFL.NS": {
+        "Open": 121.43000030517578
+      },
+      "BALAMINES.NS": {
+        "Open": 1874.0
+      },
+      "BALKRISIND.NS": {
+        "Open": 2636.0
+      },
+      "BALRAMCHIN.NS": {
+        "Open": 615.7000122070312
+      },
+      "BALUFORGE.NS": {
+        "Open": 680.0
+      },
+      "BANCOINDIA.NS": {
+        "Open": 656.9000244140625
+      },
+      "BANDHANBNK.NS": {
+        "Open": 178.02999877929688
+      },
+      "BANKBARODA.NS": {
+        "Open": 238.50999450683594
+      },
+      "BANKINDIA.NS": {
+        "Open": 114.38999938964844
+      },
+      "MAHABANK.NS": {
+        "Open": 56.599998474121094
+      },
+      "BANSALWIRE.NS": {
+        "Open": 393.6499938964844
+      },
+      "BATAINDIA.NS": {
+        "Open": 1263.9000244140625
+      },
+      "BAYERCROP.NS": {
+        "Open": 6255.0
+      },
+      "BERGEPAINT.NS": {
+        "Open": 579.1500244140625
+      },
+      "BEPL.NS": {
+        "Open": 114.6500015258789
+      },
+      "BBL.NS": {
+        "Open": 3205.10009765625
+      },
+      "BDL.NS": {
+        "Open": 1887.0999755859375
+      },
+      "BEL.NS": {
+        "Open": 411.3999938964844
+      },
+      "BHARATFORG.NS": {
+        "Open": 1222.0
+      },
+      "BHEL.NS": {
+        "Open": 260.3500061035156
+      },
+      "BPCL.NS": {
+        "Open": 351.1499938964844
+      },
+      "BHARTIARTL.NS": {
+        "Open": 1944.5
+      },
+      "BHARTIHEXA.NS": {
+        "Open": 1792.0
+      },
+      "BIKAJI.NS": {
+        "Open": 731.0
+      },
+      "BIOCON.NS": {
+        "Open": 374.70001220703125
+      },
+      "BIRLACORPN.NS": {
+        "Open": 1400.0999755859375
+      },
+      "BSOFT.NS": {
+        "Open": 423.0
+      },
+      "BLUEDART.NS": {
+        "Open": 6716.5
+      },
+      "BLUEJET.NS": {
+        "Open": 924.8499755859375
+      },
+      "BLUESTARCO.NS": {
+        "Open": 1785.5
+      },
+      "BBTC.NS": {
+        "Open": 1977.4000244140625
+      },
+      "BOMDYEING.NS": {
+        "Open": 161.8000030517578
+      },
+      "BOROLTD.NS": {
+        "Open": 338.95001220703125
+      },
+      "BORORENEW.NS": {
+        "Open": 543.4500122070312
+      },
+      "BOSCHLTD.NS": {
+        "Open": 36290.0
+      },
+      "FIRSTCRY.NS": {
+        "Open": 377.0
+      },
+      "BRIGADE.NS": {
+        "Open": 1075.0
+      },
+      "BRITANNIA.NS": {
+        "Open": 5892.5
+      },
+      "MAPMYINDIA.NS": {
+        "Open": 1777.0
+      },
+      "CCL.NS": {
+        "Open": 876.4500122070312
+      },
+      "CESC.NS": {
+        "Open": 178.1999969482422
+      },
+      "CGPOWER.NS": {
+        "Open": 675.9500122070312
+      },
+      "CIEINDIA.NS": {
+        "Open": 436.5
+      },
+      "CMSINFO.NS": {
+        "Open": 518.7999877929688
+      },
+      "CRISIL.NS": {
+        "Open": 5924.0
+      },
+      "CSBBANK.NS": {
+        "Open": 415.0
+      },
+      "CAMPUS.NS": {
+        "Open": 285.54998779296875
+      },
+      "CANFINHOME.NS": {
+        "Open": 794.7000122070312
+      },
+      "CANBK.NS": {
+        "Open": 112.48999786376953
+      },
+      "CAPLIPOINT.NS": {
+        "Open": 2032.199951171875
+      },
+      "CGCL.NS": {
+        "Open": 178.61000061035156
+      },
+      "CARBORUNIV.NS": {
+        "Open": 996.7000122070312
+      },
+      "CARTRADE.NS": {
+        "Open": 1833.0
+      },
+      "CASTROLIND.NS": {
+        "Open": 221.07000732421875
+      },
+      "CEATLTD.NS": {
+        "Open": 3795.800048828125
+      },
+      "CEIGALL.NS": {
+        "Open": 271.1499938964844
+      },
+      "CELLO.NS": {
+        "Open": 636.1500244140625
+      },
+      "CENTRALBK.NS": {
+        "Open": 39.029998779296875
+      },
+      "CDSL.NS": {
+        "Open": 1740.300048828125
+      },
+      "CENTURYPLY.NS": {
+        "Open": 741.5999755859375
+      },
+      "CERA.NS": {
+        "Open": 6835.0
+      },
+      "CHALET.NS": {
+        "Open": 872.5999755859375
+      },
+      "CHAMBLFERT.NS": {
+        "Open": 549.2000122070312
+      },
+      "CHEMPLASTS.NS": {
+        "Open": 424.3999938964844
+      },
+      "CHENNPETRO.NS": {
+        "Open": 733.0
+      },
+      "CHOICEIN.NS": {
+        "Open": 702.0
+      },
+      "CHOLAHLDNG.NS": {
+        "Open": 2098.89990234375
+      },
+      "CHOLAFIN.NS": {
+        "Open": 1540.9000244140625
+      },
+      "CIGNITITEC.NS": {
+        "Open": 1766.5999755859375
+      },
+      "CIPLA.NS": {
+        "Open": 1481.800048828125
+      },
+      "CUB.NS": {
+        "Open": 215.5500030517578
+      },
+      "CLEAN.NS": {
+        "Open": 1444.699951171875
+      },
+      "COALINDIA.NS": {
+        "Open": 383.95001220703125
+      },
+      "COCHINSHIP.NS": {
+        "Open": 2018.0
+      },
+      "COFORGE.NS": {
+        "Open": 1885.5
+      },
+      "COHANCE.NS": {
+        "Open": 999.9500122070312
+      },
+      "COLPAL.NS": {
+        "Open": 2407.199951171875
+      },
+      "CAMS.NS": {
+        "Open": 4173.0
+      },
+      "CONCORDBIO.NS": {
+        "Open": 1800.0
+      },
+      "CONCOR.NS": {
+        "Open": 627.7999877929688
+      },
+      "COROMANDEL.NS": {
+        "Open": 2303.800048828125
+      },
+      "CRAFTSMAN.NS": {
+        "Open": 5960.0
+      },
+      "CREDITACC.NS": {
+        "Open": 1286.9000244140625
+      },
+      "CROMPTON.NS": {
+        "Open": 343.0
+      },
+      "CUMMINSIND.NS": {
+        "Open": 3504.39990234375
+      },
+      "CYIENTDLM.NS": {
+        "Open": 484.0
+      },
+      "CYIENT.NS": {
+        "Open": 1282.9000244140625
+      },
+      "DCBBANK.NS": {
+        "Open": 140.0
+      },
+      "DCMSHRIRAM.NS": {
+        "Open": 1365.9000244140625
+      },
+      "DCXINDIA.NS": {
+        "Open": 277.79998779296875
+      },
+      "DLF.NS": {
+        "Open": 829.3499755859375
+      },
+      "DOMS.NS": {
+        "Open": 2409.89990234375
+      },
+      "DABUR.NS": {
+        "Open": 522.9500122070312
+      },
+      "DALBHARAT.NS": {
+        "Open": 2173.89990234375
+      },
+      "DATAPATTNS.NS": {
+        "Open": 2959.800048828125
+      },
+      "DATAMATICS.NS": {
+        "Open": 677.2000122070312
+      },
+      "DEEPAKFERT.NS": {
+        "Open": 1581.4000244140625
+      },
+      "DEEPAKNTR.NS": {
+        "Open": 1978.0999755859375
+      },
+      "DELHIVERY.NS": {
+        "Open": 414.0
+      },
+      "DEVYANI.NS": {
+        "Open": 171.41000366210938
+      },
+      "DHANI.NS": {
+        "Open": 67.75
+      },
+      "DBL.NS": {
+        "Open": 493.25
+      },
+      "DCAL.NS": {
+        "Open": 254.6999969482422
+      },
+      "DIVISLAB.NS": {
+        "Open": 6832.0
+      },
+      "DIXON.NS": {
+        "Open": 15810.0
+      },
+      "DODLA.NS": {
+        "Open": 1413.9000244140625
+      },
+      "LALPATHLAB.NS": {
+        "Open": 2928.699951171875
+      },
+      "DRREDDY.NS": {
+        "Open": 1263.800048828125
+      },
+      "DYNAMATECH.NS": {
+        "Open": 7232.5
+      },
+      "EIDPARRY.NS": {
+        "Open": 1117.9000244140625
+      },
+      "EIHOTEL.NS": {
+        "Open": 380.8999938964844
+      },
+      "EPL.NS": {
+        "Open": 234.7899932861328
+      },
+      "EASEMYTRIP.NS": {
+        "Open": 10.489999771118164
+      },
+      "EDELWEISS.NS": {
+        "Open": 114.87999725341797
+      },
+      "EICHERMOT.NS": {
+        "Open": 5652.5
+      },
+      "ELECON.NS": {
+        "Open": 648.1500244140625
+      },
+      "EMIL.NS": {
+        "Open": 143.0
+      },
+      "ELECTCAST.NS": {
+        "Open": 123.0
+      },
+      "ELGIEQUIP.NS": {
+        "Open": 555.0
+      },
+      "EMAMILTD.NS": {
+        "Open": 595.0499877929688
+      },
+      "EMBDL.NS": {
+        "Open": 119.25
+      },
+      "EMCURE.NS": {
+        "Open": 1294.300048828125
+      },
+      "ENDURANCE.NS": {
+        "Open": 2644.5
+      },
+      "ENGINERSIN.NS": {
+        "Open": 249.24000549316406
+      },
+      "ENTERO.NS": {
+        "Open": 1233.0
+      },
+      "EIEL.NS": {
+        "Open": 248.50999450683594
+      },
+      "EPIGRAL.NS": {
+        "Open": 1760.0
+      },
+      "EQUITASBNK.NS": {
+        "Open": 64.88999938964844
+      },
+      "ERIS.NS": {
+        "Open": 1752.4000244140625
+      },
+      "ESCORTS.NS": {
+        "Open": 3358.800048828125
+      },
+      "ETERNAL.NS": {
+        "Open": 261.0
+      },
+      "ETHOSLTD.NS": {
+        "Open": 2716.10009765625
+      },
+      "EUREKAFORB.NS": {
+        "Open": 582.0
+      },
+      "EXIDEIND.NS": {
+        "Open": 387.6499938964844
+      },
+      "FDC.NS": {
+        "Open": 505.0
+      },
+      "NYKAA.NS": {
+        "Open": 216.41000366210938
+      },
+      "FEDERALBNK.NS": {
+        "Open": 211.07000732421875
+      },
+      "FACT.NS": {
+        "Open": 926.9000244140625
+      },
+      "FIEMIND.NS": {
+        "Open": 1939.0
+      },
+      "FINEORG.NS": {
+        "Open": 5070.60009765625
+      },
+      "FCL.NS": {
+        "Open": 275.0
+      },
+      "FINCABLES.NS": {
+        "Open": 962.0
+      },
+      "FINPIPE.NS": {
+        "Open": 205.67999267578125
+      },
+      "FSL.NS": {
+        "Open": 361.0
+      },
+      "FIVESTAR.NS": {
+        "Open": 752.0
+      },
+      "FORCEMOT.NS": {
+        "Open": 16565.0
+      },
+      "FORTIS.NS": {
+        "Open": 775.0
+      },
+      "GRINFRA.NS": {
+        "Open": 1260.199951171875
+      },
+      "GAIL.NS": {
+        "Open": 185.2100067138672
+      },
+      "GVT&D.NS": {
+        "Open": 2385.0
+      },
+      "GHCL.NS": {
+        "Open": 610.0999755859375
+      },
+      "GMMPFAUDLR.NS": {
+        "Open": 1301.0
+      },
+      "GMRAIRPORT.NS": {
+        "Open": 92.29000091552734
+      },
+      "GMRP&UI.NS": {
+        "Open": 114.5
+      },
+      "GABRIEL.NS": {
+        "Open": 1076.0999755859375
+      },
+      "GANESHHOUC.NS": {
+        "Open": 996.1500244140625
+      },
+      "GANECOS.NS": {
+        "Open": 1505.300048828125
+      },
+      "GRSE.NS": {
+        "Open": 2892.0
+      },
+      "GRWRHITECH.NS": {
+        "Open": 3640.0
+      },
+      "GARFIBRES.NS": {
+        "Open": 919.9500122070312
+      },
+      "GATEWAY.NS": {
+        "Open": 66.94000244140625
+      },
+      "GICRE.NS": {
+        "Open": 375.0
+      },
+      "GILLETTE.NS": {
+        "Open": 10495.0
+      },
+      "GLAND.NS": {
+        "Open": 1840.0999755859375
+      },
+      "GLAXO.NS": {
+        "Open": 3249.800048828125
+      },
+      "GLENMARK.NS": {
+        "Open": 2094.39990234375
+      },
+      "MEDANTA.NS": {
+        "Open": 1298.9000244140625
+      },
+      "GODIGIT.NS": {
+        "Open": 342.0
+      },
+      "GPIL.NS": {
+        "Open": 184.14999389648438
+      },
+      "GODFRYPHLP.NS": {
+        "Open": 8537.0
+      },
+      "GODREJAGRO.NS": {
+        "Open": 768.1500244140625
+      },
+      "GODREJCP.NS": {
+        "Open": 1282.699951171875
+      },
+      "GODREJIND.NS": {
+        "Open": 1134.0
+      },
+      "GODREJPROP.NS": {
+        "Open": 2256.89990234375
+      },
+      "GOKEX.NS": {
+        "Open": 917.9000244140625
+      },
+      "GOPAL.NS": {
+        "Open": 362.0
+      },
+      "GRANULES.NS": {
+        "Open": 474.0
+      },
+      "GRAPHITE.NS": {
+        "Open": 565.0
+      },
+      "GRASIM.NS": {
+        "Open": 2776.60009765625
+      },
+      "GRAVITA.NS": {
+        "Open": 1780.0
+      },
+      "GESHIP.NS": {
+        "Open": 1006.7000122070312
+      },
+      "GREAVESCOT.NS": {
+        "Open": 202.13999938964844
+      },
+      "GREENPANEL.NS": {
+        "Open": 280.0
+      },
+      "GREENPLY.NS": {
+        "Open": 308.95001220703125
+      },
+      "GAEL.NS": {
+        "Open": 112.04000091552734
+      },
+      "FLUOROCHEM.NS": {
+        "Open": 3417.800048828125
+      },
+      "GUJGASLTD.NS": {
+        "Open": 470.0
+      },
+      "GMDCLTD.NS": {
+        "Open": 387.0
+      },
+      "GNFC.NS": {
+        "Open": 545.4500122070312
+      },
+      "GPPL.NS": {
+        "Open": 156.0
+      },
+      "GSFC.NS": {
+        "Open": 203.5
+      },
+      "GSPL.NS": {
+        "Open": 328.5
+      },
+      "GULFOILLUB.NS": {
+        "Open": 1258.0999755859375
+      },
+      "HEG.NS": {
+        "Open": 501.0
+      },
+      "HGINFRA.NS": {
+        "Open": 1133.0999755859375
+      },
+      "HBLENGINE.NS": {
+        "Open": 619.0
+      },
+      "HCLTECH.NS": {
+        "Open": 1654.300048828125
+      },
+      "HDFCAMC.NS": {
+        "Open": 5213.0
+      },
+      "HDFCBANK.NS": {
+        "Open": 2001.199951171875
+      },
+      "HDFCLIFE.NS": {
+        "Open": 769.0499877929688
+      },
+      "HFCL.NS": {
+        "Open": 82.0
+      },
+      "HAPPSTMNDS.NS": {
+        "Open": 625.9500122070312
+      },
+      "HATHWAY.NS": {
+        "Open": 15.59000015258789
+      },
+      "HAVELLS.NS": {
+        "Open": 1534.0
+      },
+      "HCG.NS": {
+        "Open": 554.25
+      },
+      "HEIDELBERG.NS": {
+        "Open": 207.5800018310547
+      },
+      "HEMIPROP.NS": {
+        "Open": 135.0
+      },
+      "HERITGFOOD.NS": {
+        "Open": 489.0
+      },
+      "HEROMOTOCO.NS": {
+        "Open": 4303.2998046875
+      },
+      "HIKAL.NS": {
+        "Open": 340.0
+      },
+      "HSCL.NS": {
+        "Open": 509.3999938964844
+      },
+      "HINDALCO.NS": {
+        "Open": 666.9500122070312
+      },
+      "HAL.NS": {
+        "Open": 4886.89990234375
+      },
+      "HCC.NS": {
+        "Open": 29.299999237060547
+      },
+      "HINDCOPPER.NS": {
+        "Open": 265.0
+      },
+      "HINDPETRO.NS": {
+        "Open": 443.54998779296875
+      },
+      "HINDUNILVR.NS": {
+        "Open": 2475.800048828125
+      },
+      "HINDZINC.NS": {
+        "Open": 423.8999938964844
+      },
+      "POWERINDIA.NS": {
+        "Open": 19545.0
+      },
+      "HOMEFIRST.NS": {
+        "Open": 1374.0
+      },
+      "HONASA.NS": {
+        "Open": 302.1000061035156
+      },
+      "HONAUT.NS": {
+        "Open": 40950.0
+      },
+      "HUDCO.NS": {
+        "Open": 230.99000549316406
+      },
+      "HYUNDAI.NS": {
+        "Open": 2114.800048828125
+      },
+      "ICICIBANK.NS": {
+        "Open": 1423.5
+      },
+      "ICICIGI.NS": {
+        "Open": 1994.5999755859375
+      },
+      "ICICIPRULI.NS": {
+        "Open": 674.8499755859375
+      },
+      "IDBI.NS": {
+        "Open": 99.91000366210938
+      },
+      "IDFCFIRSTB.NS": {
+        "Open": 76.47000122070312
+      },
+      "IFBIND.NS": {
+        "Open": 1544.0
+      },
+      "IFCI.NS": {
+        "Open": 61.18000030517578
+      },
+      "IIFLCAPS.NS": {
+        "Open": 337.25
+      },
+      "IIFL.NS": {
+        "Open": 517.9500122070312
+      },
+      "INOXINDIA.NS": {
+        "Open": 1250.300048828125
+      },
+      "IRB.NS": {
+        "Open": 48.25
+      },
+      "IRCON.NS": {
+        "Open": 193.02999877929688
+      },
+      "ITC.NS": {
+        "Open": 417.0
+      },
+      "ITDCEM.NS": {
+        "Open": 877.75
+      },
+      "ITI.NS": {
+        "Open": 319.8999938964844
+      },
+      "IMAGICAA.NS": {
+        "Open": 69.4000015258789
+      },
+      "INDGN.NS": {
+        "Open": 569.5499877929688
+      },
+      "INDIACEM.NS": {
+        "Open": 345.95001220703125
+      },
+      "INDIAGLYCO.NS": {
+        "Open": 2056.5
+      },
+      "INDIASHLTR.NS": {
+        "Open": 957.2000122070312
+      },
+      "INDIAMART.NS": {
+        "Open": 2584.0
+      },
+      "INDIANB.NS": {
+        "Open": 632.0
+      },
+      "IEX.NS": {
+        "Open": 205.72000122070312
+      },
+      "INDHOTEL.NS": {
+        "Open": 740.9000244140625
+      },
+      "IMFA.NS": {
+        "Open": 732.6500244140625
+      },
+      "IOC.NS": {
+        "Open": 154.8000030517578
+      },
+      "IOB.NS": {
+        "Open": 39.06999969482422
+      },
+      "IRCTC.NS": {
+        "Open": 780.3499755859375
+      },
+      "IRFC.NS": {
+        "Open": 137.10000610351562
+      },
+      "IREDA.NS": {
+        "Open": 161.6300048828125
+      },
+      "INDIGOPNTS.NS": {
+        "Open": 1195.199951171875
+      },
+      "ICIL.NS": {
+        "Open": 291.0
+      },
+      "IGL.NS": {
+        "Open": 220.16000366210938
+      },
+      "INDUSTOWER.NS": {
+        "Open": 402.20001220703125
+      },
+      "INDUSINDBK.NS": {
+        "Open": 851.9000244140625
+      },
+      "INFIBEAM.NS": {
+        "Open": 16.579999923706055
+      },
+      "NAUKRI.NS": {
+        "Open": 1419.9000244140625
+      },
+      "INFY.NS": {
+        "Open": 1577.0
+      },
+      "INGERRAND.NS": {
+        "Open": 4178.5
+      },
+      "INNOVACAP.NS": {
+        "Open": 856.0499877929688
+      },
+      "INOXGREEN.NS": {
+        "Open": 152.0500030517578
+      },
+      "INOXWIND.NS": {
+        "Open": 178.1999969482422
+      },
+      "INTELLECT.NS": {
+        "Open": 1148.9000244140625
+      },
+      "INDIGO.NS": {
+        "Open": 5855.0
+      },
+      "IGIL.NS": {
+        "Open": 390.25
+      },
+      "IKS.NS": {
+        "Open": 1580.4000244140625
+      },
+      "IONEXCHANG.NS": {
+        "Open": 540.0499877929688
+      },
+      "IPCALAB.NS": {
+        "Open": 1450.5
+      },
+      "ISGEC.NS": {
+        "Open": 1199.5999755859375
+      },
+      "JBCHEPHARM.NS": {
+        "Open": 1623.800048828125
+      },
+      "JKCEMENT.NS": {
+        "Open": 6410.0
+      },
+      "JKIL.NS": {
+        "Open": 732.0
+      },
+      "JBMA.NS": {
+        "Open": 645.0
+      },
+      "JKLAKSHMI.NS": {
+        "Open": 978.0499877929688
+      },
+      "JKPAPER.NS": {
+        "Open": 392.5
+      },
+      "JKTYRE.NS": {
+        "Open": 369.8999938964844
+      },
+      "JMFINANCIL.NS": {
+        "Open": 169.0399932861328
+      },
+      "JSWENERGY.NS": {
+        "Open": 532.5499877929688
+      },
+      "JSWHL.NS": {
+        "Open": 21685.0
+      },
+      "JSWINFRA.NS": {
+        "Open": 313.8999938964844
+      },
+      "JSWSTEEL.NS": {
+        "Open": 1039.5
+      },
+      "JTLIND.NS": {
+        "Open": 84.5199966430664
+      },
+      "JAIBALAJI.NS": {
+        "Open": 121.66999816894531
+      },
+      "JAICORPLTD.NS": {
+        "Open": 112.0
+      },
+      "JISLJALEQS.NS": {
+        "Open": 56.33000183105469
+      },
+      "JPPOWER.NS": {
+        "Open": 23.420000076293945
+      },
+      "J&KBANK.NS": {
+        "Open": 111.75
+      },
+      "JAMNAAUTO.NS": {
+        "Open": 95.80000305175781
+      },
+      "JSFB.NS": {
+        "Open": 494.3999938964844
+      },
+      "JINDALSAW.NS": {
+        "Open": 228.92999267578125
+      },
+      "JSL.NS": {
+        "Open": 684.0
+      },
+      "JINDALSTEL.NS": {
+        "Open": 944.2999877929688
+      },
+      "JINDWORLD.NS": {
+        "Open": 46.75
+      },
+      "JIOFIN.NS": {
+        "Open": 330.25
+      },
+      "JCHAC.NS": {
+        "Open": 1728.0
+      },
+      "JUBLFOOD.NS": {
+        "Open": 684.0999755859375
+      },
+      "JUBLINGREA.NS": {
+        "Open": 814.5499877929688
+      },
+      "JUBLPHARMA.NS": {
+        "Open": 1174.199951171875
+      },
+      "JWL.NS": {
+        "Open": 375.70001220703125
+      },
+      "JUSTDIAL.NS": {
+        "Open": 930.0
+      },
+      "JYOTHYLAB.NS": {
+        "Open": 352.70001220703125
+      },
+      "JYOTICNC.NS": {
+        "Open": 1028.5
+      },
+      "KPRMILL.NS": {
+        "Open": 1193.699951171875
+      },
+      "KEI.NS": {
+        "Open": 3701.199951171875
+      },
+      "KNRCON.NS": {
+        "Open": 218.49000549316406
+      },
+      "KPIGREEN.NS": {
+        "Open": 536.0
+      },
+      "KPITTECH.NS": {
+        "Open": 1244.9000244140625
+      },
+      "KRBL.NS": {
+        "Open": 396.0
+      },
+      "KSB.NS": {
+        "Open": 847.9500122070312
+      },
+      "KAJARIACER.NS": {
+        "Open": 1186.9000244140625
+      },
+      "KPIL.NS": {
+        "Open": 1195.4000244140625
+      },
+      "KALYANKJIL.NS": {
+        "Open": 587.0
+      },
+      "KSL.NS": {
+        "Open": 924.9500122070312
+      },
+      "KANSAINER.NS": {
+        "Open": 249.35000610351562
+      },
+      "KTKBANK.NS": {
+        "Open": 191.64999389648438
+      },
+      "KARURVYSYA.NS": {
+        "Open": 271.8999938964844
+      },
+      "KSCL.NS": {
+        "Open": 1165.300048828125
+      },
+      "KAYNES.NS": {
+        "Open": 6165.0
+      },
+      "KEC.NS": {
+        "Open": 892.3499755859375
+      },
+      "KFINTECH.NS": {
+        "Open": 1290.4000244140625
+      },
+      "KIRLOSBROS.NS": {
+        "Open": 2268.39990234375
+      },
+      "KIRLOSENG.NS": {
+        "Open": 906.4000244140625
+      },
+      "KIRLPNU.NS": {
+        "Open": 1446.0
+      },
+      "KOTAKBANK.NS": {
+        "Open": 2201.800048828125
+      },
+      "KIMS.NS": {
+        "Open": 719.7999877929688
+      },
+      "LTF.NS": {
+        "Open": 207.99000549316406
+      },
+      "LTTS.NS": {
+        "Open": 4287.7001953125
+      },
+      "LICHSGFIN.NS": {
+        "Open": 605.4000244140625
+      },
+      "LMW.NS": {
+        "Open": 16572.0
+      },
+      "LTFOODS.NS": {
+        "Open": 494.54998779296875
+      },
+      "LTIM.NS": {
+        "Open": 5209.0
+      },
+      "LT.NS": {
+        "Open": 3579.89990234375
+      },
+      "LATENTVIEW.NS": {
+        "Open": 438.0
+      },
+      "LAURUSLABS.NS": {
+        "Open": 790.2000122070312
+      },
+      "LXCHEM.NS": {
+        "Open": 195.7100067138672
+      },
+      "IXIGO.NS": {
+        "Open": 173.99000549316406
+      },
+      "LEMONTREE.NS": {
+        "Open": 156.3000030517578
+      },
+      "LICI.NS": {
+        "Open": 926.4500122070312
+      },
+      "LINDEINDIA.NS": {
+        "Open": 6760.0
+      },
+      "LLOYDSENGG.NS": {
+        "Open": 82.45999908447266
+      },
+      "LLOYDSENT.NS": {
+        "Open": 92.05999755859375
+      },
+      "LLOYDSME.NS": {
+        "Open": 1522.0
+      },
+      "LUPIN.NS": {
+        "Open": 1895.5
+      },
+      "LUXIND.NS": {
+        "Open": 1479.4000244140625
+      },
+      "MMTC.NS": {
+        "Open": 68.77999877929688
+      },
+      "MOIL.NS": {
+        "Open": 372.3999938964844
+      },
+      "MRF.NS": {
+        "Open": 148880.0
+      },
+      "MSTCLTD.NS": {
+        "Open": 533.5
+      },
+      "MTARTECH.NS": {
+        "Open": 1564.5
+      },
+      "LODHA.NS": {
+        "Open": 1410.9000244140625
+      },
+      "MGL.NS": {
+        "Open": 1475.9000244140625
+      },
+      "MAHSCOOTER.NS": {
+        "Open": 14439.0
+      },
+      "MAHSEAMLES.NS": {
+        "Open": 705.0
+      },
+      "M&MFIN.NS": {
+        "Open": 266.95001220703125
+      },
+      "M&M.NS": {
+        "Open": 3155.0
+      },
+      "MAHLIFE.NS": {
+        "Open": 361.0
+      },
+      "MANINFRA.NS": {
+        "Open": 184.6999969482422
+      },
+      "MANAPPURAM.NS": {
+        "Open": 265.79998779296875
+      },
+      "MRPL.NS": {
+        "Open": 145.27000427246094
+      },
+      "MANKIND.NS": {
+        "Open": 2552.300048828125
+      },
+      "MARICO.NS": {
+        "Open": 729.4500122070312
+      },
+      "MARKSANS.NS": {
+        "Open": 256.8999938964844
+      },
+      "MARUTI.NS": {
+        "Open": 12677.0
+      },
+      "MASTEK.NS": {
+        "Open": 2535.199951171875
+      },
+      "MAXESTATES.NS": {
+        "Open": 506.0
+      },
+      "MFSL.NS": {
+        "Open": 1572.699951171875
+      },
+      "MAXHEALTH.NS": {
+        "Open": 1246.0999755859375
+      },
+      "MAZDOCK.NS": {
+        "Open": 3255.0
+      },
+      "MEDPLUS.NS": {
+        "Open": 859.0
+      },
+      "METROPOLIS.NS": {
+        "Open": 1955.300048828125
+      },
+      "MINDACORP.NS": {
+        "Open": 516.8499755859375
+      },
+      "MIDHANI.NS": {
+        "Open": 416.70001220703125
+      },
+      "MSUMI.NS": {
+        "Open": 64.7300033569336
+      },
+      "MOTILALOFS.NS": {
+        "Open": 941.75
+      },
+      "MPHASIS.NS": {
+        "Open": 2834.0
+      },
+      "BECTORFOOD.NS": {
+        "Open": 1440.5999755859375
+      },
+      "MCX.NS": {
+        "Open": 8316.0
+      },
+      "MUTHOOTFIN.NS": {
+        "Open": 2647.60009765625
+      },
+      "NATCOPHARM.NS": {
+        "Open": 991.0999755859375
+      },
+      "NBCC.NS": {
+        "Open": 113.88999938964844
+      },
+      "NCC.NS": {
+        "Open": 222.99000549316406
+      },
+      "NEOGEN.NS": {
+        "Open": 1594.0
+      },
+      "NESCO.NS": {
+        "Open": 1194.699951171875
+      },
+      "NHPC.NS": {
+        "Open": 87.44999694824219
+      },
+      "NLCINDIA.NS": {
+        "Open": 223.8800048828125
+      },
+      "NMDC.NS": {
+        "Open": 69.41999816894531
+      },
+      "NSLNISP.NS": {
+        "Open": 40.0
+      },
+      "NOCIL.NS": {
+        "Open": 191.89999389648438
+      },
+      "NTPCGREEN.NS": {
+        "Open": 108.0999984741211
+      },
+      "NTPC.NS": {
+        "Open": 340.1499938964844
+      },
+      "NH.NS": {
+        "Open": 1970.199951171875
+      },
+      "NATIONALUM.NS": {
+        "Open": 189.10000610351562
+      },
+      "NFL.NS": {
+        "Open": 98.26000213623047
+      },
+      "NAVA.NS": {
+        "Open": 595.0
+      },
+      "NAVINFLUOR.NS": {
+        "Open": 4965.2998046875
+      },
+      "NAZARA.NS": {
+        "Open": 1345.0
+      },
+      "NESTLEIND.NS": {
+        "Open": 2407.39990234375
+      },
+      "NETWEB.NS": {
+        "Open": 1821.699951171875
+      },
+      "NETWORK18.NS": {
+        "Open": 55.93000030517578
+      },
+      "NEULANDLAB.NS": {
+        "Open": 11875.0
+      },
+      "NEWGEN.NS": {
+        "Open": 1106.4000244140625
+      },
+      "NAM-INDIA.NS": {
+        "Open": 824.3499755859375
+      },
+      "NIVABUPA.NS": {
+        "Open": 90.0
+      },
+      "NUVAMA.NS": {
+        "Open": 7377.5
+      },
+      "NUVOCO.NS": {
+        "Open": 363.3500061035156
+      },
+      "OBEROIRLTY.NS": {
+        "Open": 1846.4000244140625
+      },
+      "ONGC.NS": {
+        "Open": 242.94000244140625
+      },
+      "OIL.NS": {
+        "Open": 435.3999938964844
+      },
+      "OLAELEC.NS": {
+        "Open": 39.959999084472656
+      },
+      "OLECTRA.NS": {
+        "Open": 1239.9000244140625
+      },
+      "PAYTM.NS": {
+        "Open": 939.5999755859375
+      },
+      "OPTIEMUS.NS": {
+        "Open": 612.9000244140625
+      },
+      "OFSS.NS": {
+        "Open": 8745.5
+      },
+      "ORCHPHARMA.NS": {
+        "Open": 726.5
+      },
+      "ORIENTCEM.NS": {
+        "Open": 233.9199981689453
+      },
+      "ORISSAMINE.NS": {
+        "Open": 4749.0
+      },
+      "PNGJL.NS": {
+        "Open": 594.9000244140625
+      },
+      "POLICYBZR.NS": {
+        "Open": 1820.0999755859375
+      },
+      "PCJEWELLER.NS": {
+        "Open": 18.899999618530273
+      },
+      "PCBL.NS": {
+        "Open": 430.3500061035156
+      },
+      "PGEL.NS": {
+        "Open": 773.7999877929688
+      },
+      "PIIND.NS": {
+        "Open": 4040.0
+      },
+      "PNBHOUSING.NS": {
+        "Open": 1083.199951171875
+      },
+      "PNCINFRA.NS": {
+        "Open": 303.0
+      },
+      "PTC.NS": {
+        "Open": 182.60000610351562
+      },
+      "PTCIL.NS": {
+        "Open": 14283.0
+      },
+      "PVRINOX.NS": {
+        "Open": 1002.6500244140625
+      },
+      "PAGEIND.NS": {
+        "Open": 48480.0
+      },
+      "PAISALO.NS": {
+        "Open": 31.459999084472656
+      },
+      "PARADEEP.NS": {
+        "Open": 161.97999572753906
+      },
+      "PARAS.NS": {
+        "Open": 835.0
+      },
+      "PATANJALI.NS": {
+        "Open": 1663.5999755859375
+      },
+      "PATELENG.NS": {
+        "Open": 40.220001220703125
+      },
+      "PGIL.NS": {
+        "Open": 1522.0
+      },
+      "PERSISTENT.NS": {
+        "Open": 5578.0
+      },
+      "PETRONET.NS": {
+        "Open": 306.25
+      },
+      "PFIZER.NS": {
+        "Open": 5439.5
+      },
+      "PHOENIXLTD.NS": {
+        "Open": 1509.699951171875
+      },
+      "PIDILITIND.NS": {
+        "Open": 3060.699951171875
+      },
+      "PEL.NS": {
+        "Open": 1160.0
+      },
+      "PPLPHARMA.NS": {
+        "Open": 200.60000610351562
+      },
+      "POLYMED.NS": {
+        "Open": 2207.60009765625
+      },
+      "POLYCAB.NS": {
+        "Open": 6770.5
+      },
+      "POLYPLEX.NS": {
+        "Open": 1146.4000244140625
+      },
+      "POONAWALLA.NS": {
+        "Open": 467.75
+      },
+      "PFC.NS": {
+        "Open": 430.54998779296875
+      },
+      "POWERGRID.NS": {
+        "Open": 299.20001220703125
+      },
+      "POWERMECH.NS": {
+        "Open": 3359.0
+      },
+      "PRAJIND.NS": {
+        "Open": 498.04998779296875
+      },
+      "PREMIERENE.NS": {
+        "Open": 1116.5999755859375
+      },
+      "PRESTIGE.NS": {
+        "Open": 1694.0
+      },
+      "PRICOLLTD.NS": {
+        "Open": 456.3500061035156
+      },
+      "PRINCEPIPE.NS": {
+        "Open": 368.29998779296875
+      },
+      "PRSMJOHNSN.NS": {
+        "Open": 157.5
+      },
+      "PRUDENT.NS": {
+        "Open": 2710.0
+      },
+      "PNB.NS": {
+        "Open": 109.72000122070312
+      },
+      "RRKABEL.NS": {
+        "Open": 1347.0
+      },
+      "RBLBANK.NS": {
+        "Open": 254.25
+      },
+      "RECLTD.NS": {
+        "Open": 397.6499938964844
+      },
+      "RHIM.NS": {
+        "Open": 480.0
+      },
+      "RITES.NS": {
+        "Open": 279.79998779296875
+      },
+      "RADICO.NS": {
+        "Open": 2712.10009765625
+      },
+      "RVNL.NS": {
+        "Open": 385.04998779296875
+      },
+      "RAILTEL.NS": {
+        "Open": 406.6000061035156
+      },
+      "RAIN.NS": {
+        "Open": 145.6999969482422
+      },
+      "RAINBOW.NS": {
+        "Open": 1531.4000244140625
+      },
+      "RAJESHEXPO.NS": {
+        "Open": 206.2899932861328
+      },
+      "RALLIS.NS": {
+        "Open": 329.95001220703125
+      },
+      "RKFORGE.NS": {
+        "Open": 684.5
+      },
+      "RCF.NS": {
+        "Open": 153.60000610351562
+      },
+      "RATEGAIN.NS": {
+        "Open": 477.79998779296875
+      },
+      "RTNINDIA.NS": {
+        "Open": 66.0999984741211
+      },
+      "RTNPOWER.NS": {
+        "Open": 16.280000686645508
+      },
+      "RAYMONDLSL.NS": {
+        "Open": 1314.199951171875
+      },
+      "RAYMOND.NS": {
+        "Open": 691.4000244140625
+      },
+      "REDINGTON.NS": {
+        "Open": 298.5
+      },
+      "REDTAPE.NS": {
+        "Open": 138.88999938964844
+      },
+      "REFEX.NS": {
+        "Open": 453.0
+      },
+      "RELIANCE.NS": {
+        "Open": 1512.199951171875
+      },
+      "RELINFRA.NS": {
+        "Open": 374.5
+      },
+      "RPOWER.NS": {
+        "Open": 64.69999694824219
+      },
+      "RELIGARE.NS": {
+        "Open": 253.0800018310547
+      },
+      "RESPONIND.NS": {
+        "Open": 245.6999969482422
+      },
+      "RBA.NS": {
+        "Open": 83.80000305175781
+      },
+      "ROSSARI.NS": {
+        "Open": 708.9000244140625
+      },
+      "ROUTE.NS": {
+        "Open": 995.0
+      },
+      "SBFC.NS": {
+        "Open": 115.94999694824219
+      },
+      "SBICARD.NS": {
+        "Open": 924.4500122070312
+      },
+      "SBILIFE.NS": {
+        "Open": 1819.4000244140625
+      },
+      "SJVN.NS": {
+        "Open": 97.7300033569336
+      },
+      "SKFINDIA.NS": {
+        "Open": 4926.0
+      },
+      "SRF.NS": {
+        "Open": 3257.0
+      },
+      "SAFARI.NS": {
+        "Open": 2235.0
+      },
+      "SAGILITY.NS": {
+        "Open": 44.380001068115234
+      },
+      "SAILIFE.NS": {
+        "Open": 786.8499755859375
+      },
+      "SAMHI.NS": {
+        "Open": 230.49000549316406
+      },
+      "SAMMAANCAP.NS": {
+        "Open": 131.6999969482422
+      },
+      "MOTHERSON.NS": {
+        "Open": 153.5800018310547
+      },
+      "SANOFICONR.NS": {
+        "Open": 5213.5
+      },
+      "SANOFI.NS": {
+        "Open": 5978.0
+      },
+      "SANSERA.NS": {
+        "Open": 1388.800048828125
+      },
+      "SAPPHIRE.NS": {
+        "Open": 337.1499938964844
+      },
+      "SARDAEN.NS": {
+        "Open": 444.0
+      },
+      "SAREGAMA.NS": {
+        "Open": 498.8500061035156
+      },
+      "SCHAEFFLER.NS": {
+        "Open": 4206.0
+      },
+      "SCHNEIDER.NS": {
+        "Open": 836.7000122070312
+      },
+      "SENCO.NS": {
+        "Open": 339.95001220703125
+      },
+      "SEQUENT.NS": {
+        "Open": 187.3000030517578
+      },
+      "SHAILY.NS": {
+        "Open": 1612.5
+      },
+      "SHAKTIPUMP.NS": {
+        "Open": 928.8499755859375
+      },
+      "SHARDACROP.NS": {
+        "Open": 841.5999755859375
+      },
+      "SHAREINDIA.NS": {
+        "Open": 173.5
+      },
+      "SFL.NS": {
+        "Open": 676.8499755859375
+      },
+      "SHILPAMED.NS": {
+        "Open": 883.0
+      },
+      "SCI.NS": {
+        "Open": 223.6999969482422
+      },
+      "SBCL.NS": {
+        "Open": 547.0
+      },
+      "SHOPERSTOP.NS": {
+        "Open": 512.5999755859375
+      },
+      "SHREECEM.NS": {
+        "Open": 31200.0
+      },
+      "RENUKA.NS": {
+        "Open": 32.88999938964844
+      },
+      "SHRIRAMFIN.NS": {
+        "Open": 673.4000244140625
+      },
+      "SHRIPISTON.NS": {
+        "Open": 2459.89990234375
+      },
+      "SHYAMMETL.NS": {
+        "Open": 856.9500122070312
+      },
+      "SIEMENS.NS": {
+        "Open": 3169.699951171875
+      },
+      "SIGNATURE.NS": {
+        "Open": 1271.0
+      },
+      "SKIPPER.NS": {
+        "Open": 486.79998779296875
+      },
+      "SOBHA.NS": {
+        "Open": 1522.5999755859375
+      },
+      "SOLARINDS.NS": {
+        "Open": 15905.0
+      },
+      "SONACOMS.NS": {
+        "Open": 455.20001220703125
+      },
+      "SONATSOFTW.NS": {
+        "Open": 430.04998779296875
+      },
+      "SOUTHBANK.NS": {
+        "Open": 29.940000534057617
+      },
+      "SPANDANA.NS": {
+        "Open": 280.8999938964844
+      },
+      "STARCEMENT.NS": {
+        "Open": 211.25
+      },
+      "STARHEALTH.NS": {
+        "Open": 424.0
+      },
+      "SBIN.NS": {
+        "Open": 806.8499755859375
+      },
+      "SAIL.NS": {
+        "Open": 134.64999389648438
+      },
+      "SWSOLAR.NS": {
+        "Open": 338.0
+      },
+      "STLTECH.NS": {
+        "Open": 108.5199966430664
+      },
+      "STAR.NS": {
+        "Open": 873.5999755859375
+      },
+      "STYLAMIND.NS": {
+        "Open": 1635.0
+      },
+      "SUBROS.NS": {
+        "Open": 927.0499877929688
+      },
+      "SUDARSCHEM.NS": {
+        "Open": 1226.5
+      },
+      "SULA.NS": {
+        "Open": 301.3500061035156
+      },
+      "SUMICHEM.NS": {
+        "Open": 532.7000122070312
+      },
+      "SPARC.NS": {
+        "Open": 155.8000030517578
+      },
+      "SUNPHARMA.NS": {
+        "Open": 1663.0999755859375
+      },
+      "SUNTV.NS": {
+        "Open": 570.0
+      },
+      "SUNDARMFIN.NS": {
+        "Open": 5027.5
+      },
+      "SUNDRMFAST.NS": {
+        "Open": 1035.0
+      },
+      "SUNFLAG.NS": {
+        "Open": 309.8999938964844
+      },
+      "SUNTECK.NS": {
+        "Open": 440.25
+      },
+      "SUPRAJIT.NS": {
+        "Open": 466.54998779296875
+      },
+      "SUPREMEIND.NS": {
+        "Open": 4178.7998046875
+      },
+      "SUPRIYA.NS": {
+        "Open": 693.5999755859375
+      },
+      "SURYAROSNI.NS": {
+        "Open": 331.79998779296875
+      },
+      "SUZLON.NS": {
+        "Open": 65.97000122070312
+      },
+      "SWANENERGY.NS": {
+        "Open": 466.29998779296875
+      },
+      "SWIGGY.NS": {
+        "Open": 383.45001220703125
+      },
+      "SYMPHONY.NS": {
+        "Open": 1154.300048828125
+      },
+      "SYNGENE.NS": {
+        "Open": 631.5499877929688
+      },
+      "SYRMA.NS": {
+        "Open": 663.0
+      },
+      "TARC.NS": {
+        "Open": 195.9199981689453
+      },
+      "TBOTEK.NS": {
+        "Open": 1357.0
+      },
+      "TDPOWERSYS.NS": {
+        "Open": 497.8999938964844
+      },
+      "TVSMOTOR.NS": {
+        "Open": 2808.60009765625
+      },
+      "TVSSCS.NS": {
+        "Open": 134.19000244140625
+      },
+      "TANLA.NS": {
+        "Open": 636.0
+      },
+      "TATACHEM.NS": {
+        "Open": 922.0
+      },
+      "TATACOMM.NS": {
+        "Open": 1757.0999755859375
+      },
+      "TCS.NS": {
+        "Open": 3327.699951171875
+      },
+      "TATACONSUM.NS": {
+        "Open": 1089.9000244140625
+      },
+      "TATAELXSI.NS": {
+        "Open": 5720.5
+      },
+      "TATAINVEST.NS": {
+        "Open": 6679.0
+      },
+      "TATAMOTORS.NS": {
+        "Open": 693.0
+      },
+      "TATAPOWER.NS": {
+        "Open": 399.6000061035156
+      },
+      "TATASTEEL.NS": {
+        "Open": 160.60000610351562
+      },
+      "TATATECH.NS": {
+        "Open": 704.5999755859375
+      },
+      "TTML.NS": {
+        "Open": 64.9000015258789
+      },
+      "TEAMLEASE.NS": {
+        "Open": 1968.5
+      },
+      "TECHM.NS": {
+        "Open": 1587.9000244140625
+      },
+      "TECHNOE.NS": {
+        "Open": 1607.0999755859375
+      },
+      "TEGA.NS": {
+        "Open": 1720.0
+      },
+      "TEJASNET.NS": {
+        "Open": 701.0
+      },
+      "TEXRAIL.NS": {
+        "Open": 164.35000610351562
+      },
+      "THANGAMAYL.NS": {
+        "Open": 1940.0
+      },
+      "ANUP.NS": {
+        "Open": 2860.10009765625
+      },
+      "NIACL.NS": {
+        "Open": 186.41000366210938
+      },
+      "RAMCOCEM.NS": {
+        "Open": 1103.0
+      },
+      "THERMAX.NS": {
+        "Open": 3420.5
+      },
+      "TIRUMALCHM.NS": {
+        "Open": 289.3999938964844
+      },
+      "THOMASCOOK.NS": {
+        "Open": 169.0
+      },
+      "TI.NS": {
+        "Open": 345.0
+      },
+      "TIMETECHNO.NS": {
+        "Open": 448.95001220703125
+      },
+      "TIMKEN.NS": {
+        "Open": 3350.0
+      },
+      "TIPSMUSIC.NS": {
+        "Open": 636.0
+      },
+      "TITAGARH.NS": {
+        "Open": 948.5
+      },
+      "TITAN.NS": {
+        "Open": 3407.89990234375
+      },
+      "TORNTPHARM.NS": {
+        "Open": 3339.0
+      },
+      "TORNTPOWER.NS": {
+        "Open": 1427.0
+      },
+      "TARIL.NS": {
+        "Open": 509.0
+      },
+      "TRANSRAILL.NS": {
+        "Open": 762.0999755859375
+      },
+      "TRENT.NS": {
+        "Open": 5400.0
+      },
+      "TRIDENT.NS": {
+        "Open": 32.06999969482422
+      },
+      "TRIVENI.NS": {
+        "Open": 369.95001220703125
+      },
+      "TRITURBINE.NS": {
+        "Open": 647.6500244140625
+      },
+      "TIINDIA.NS": {
+        "Open": 2888.0
+      },
+      "UCOBANK.NS": {
+        "Open": 31.799999237060547
+      },
+      "UNOMINDA.NS": {
+        "Open": 1093.0
+      },
+      "UPL.NS": {
+        "Open": 655.75
+      },
+      "UTIAMC.NS": {
+        "Open": 1414.300048828125
+      },
+      "UJJIVANSFB.NS": {
+        "Open": 47.400001525878906
+      },
+      "ULTRACEMCO.NS": {
+        "Open": 12512.0
+      },
+      "UNIMECH.NS": {
+        "Open": 1287.0
+      },
+      "UNIONBANK.NS": {
+        "Open": 143.9499969482422
+      },
+      "UBL.NS": {
+        "Open": 1968.0
+      },
+      "UNITDSPR.NS": {
+        "Open": 1380.4000244140625
+      },
+      "USHAMART.NS": {
+        "Open": 366.45001220703125
+      },
+      "VGUARD.NS": {
+        "Open": 392.5
+      },
+      "VMART.NS": {
+        "Open": 780.25
+      },
+      "VIPIND.NS": {
+        "Open": 448.0
+      },
+      "VSTIND.NS": {
+        "Open": 281.29998779296875
+      },
+      "WABAG.NS": {
+        "Open": 1489.800048828125
+      },
+      "VAIBHAVGBL.NS": {
+        "Open": 239.5
+      },
+      "DBREALTY.NS": {
+        "Open": 243.38999938964844
+      },
+      "VTL.NS": {
+        "Open": 506.8500061035156
+      },
+      "VARROC.NS": {
+        "Open": 567.5
+      },
+      "VBL.NS": {
+        "Open": 461.1000061035156
+      },
+      "MANYAVAR.NS": {
+        "Open": 804.2999877929688
+      },
+      "VEDL.NS": {
+        "Open": 438.04998779296875
+      },
+      "VENTIVE.NS": {
+        "Open": 772.6500244140625
+      },
+      "VENUSPIPES.NS": {
+        "Open": 1630.300048828125
+      },
+      "VESUVIUS.NS": {
+        "Open": 533.2999877929688
+      },
+      "VIJAYA.NS": {
+        "Open": 1009.0499877929688
+      },
+      "VMM.NS": {
+        "Open": 129.75999450683594
+      },
+      "IDEA.NS": {
+        "Open": 7.309999942779541
+      },
+      "VOLTAMP.NS": {
+        "Open": 9820.0
+      },
+      "VOLTAS.NS": {
+        "Open": 1370.0
+      },
+      "WAAREEENER.NS": {
+        "Open": 3174.89990234375
+      },
+      "WEBELSOLAR.NS": {
+        "Open": 1321.9000244140625
+      },
+      "WELCORP.NS": {
+        "Open": 934.2999877929688
+      },
+      "WELENT.NS": {
+        "Open": 520.7999877929688
+      },
+      "WELSPUNLIV.NS": {
+        "Open": 142.2899932861328
+      },
+      "WESTLIFE.NS": {
+        "Open": 781.5
+      },
+      "WHIRLPOOL.NS": {
+        "Open": 1328.9000244140625
+      },
+      "WIPRO.NS": {
+        "Open": 260.5
+      },
+      "WOCKPHARMA.NS": {
+        "Open": 1729.4000244140625
+      },
+      "WONDERLA.NS": {
+        "Open": 632.25
+      },
+      "YATHARTH.NS": {
+        "Open": 624.4000244140625
+      },
+      "YESBANK.NS": {
+        "Open": 19.850000381469727
+      },
+      "ZFCVINDIA.NS": {
+        "Open": 13057.0
+      },
+      "ZAGGLE.NS": {
+        "Open": 423.0
+      },
+      "ZEEL.NS": {
+        "Open": 134.39999389648438
+      },
+      "ZENTEC.NS": {
+        "Open": 1893.5999755859375
+      },
+      "ZENSARTECH.NS": {
+        "Open": 835.8499755859375
+      },
+      "BLACKBUCK.NS": {
+        "Open": 443.0
+      },
+      "ZYDUSLIFE.NS": {
+        "Open": 973.9000244140625
+      },
+      "ZYDUSWELL.NS": {
+        "Open": 2022.0
+      },
+      "ECLERX.NS": {
+        "Open": 3431.89990234375
+      },
+      "EMUDHRA.NS": {
+        "Open": 769.8499755859375
+      }
+    }
+  }
+}
